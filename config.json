@@ -1,0 +1,56 @@
+{
+  "_comment": "Edit this file to change what playlists get built. countries: null means all countries.",
+
+  "options": {
+    "exclude_geo_blocked": true,
+    "exclude_bare_ip": false,
+    "exclude_not_24_7": false,
+    "max_streams_per_channel_before_verify": 3,
+    "max_streams_per_channel_after_verify": 1
+  },
+
+  "playlists": [
+    {
+      "file": "news.m3u",
+      "title": "India + Pakistan News",
+      "countries": ["IN", "PK"],
+      "categories": ["news"]
+    },
+    {
+      "file": "music.m3u",
+      "title": "India + Pakistan Music",
+      "countries": ["IN", "PK"],
+      "categories": ["music"]
+    },
+    {
+      "file": "movies.m3u",
+      "title": "India + Pakistan Movies",
+      "countries": ["IN", "PK"],
+      "categories": ["movies"]
+    },
+    {
+      "file": "entertainment.m3u",
+      "title": "India + Pakistan Entertainment",
+      "countries": ["IN", "PK"],
+      "categories": ["entertainment", "series", "comedy", "family"]
+    },
+    {
+      "file": "kids.m3u",
+      "title": "India + Pakistan Kids",
+      "countries": ["IN", "PK"],
+      "categories": ["kids", "animation"]
+    },
+    {
+      "file": "religious-pk.m3u",
+      "title": "Pakistan Religious",
+      "countries": ["PK"],
+      "categories": ["religious"]
+    },
+    {
+      "file": "sports.m3u",
+      "title": "International Sports",
+      "countries": null,
+      "categories": ["sports"]
+    }
+  ]
+}

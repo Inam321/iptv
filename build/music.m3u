@@ -1,0 +1,178 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",7S Music (576p)
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",7S Music (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/771/master.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",9X Jalwa (1080p)
+https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",9X Jalwa (1080p)
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",9X Jalwa (576p)
+https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="mar" group-title="IN Music",9X Jhakaas (1080p)
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="mar" group-title="IN Music",9X Jhakaas (1080p)
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="mar" group-title="IN Music",9X Jhakaas (576p)
+https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",9X Tashan (1080p)
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",9X Tashan (1080p)
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",9X Tashan (576p)
+https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",9XM (1080p)
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",9XM (1080p)
+https://epiconvh.akamaized.net/live/9XM/master.m3u8
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",9XM (1080p)
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="AaryaaTV.in" tvg-name="Aaryaa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Aaryaa TV (1080p)
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="AndyHaryana.in" tvg-name="Andy Haryana" tvg-logo="https://i.imgur.com/rmCBD3e.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Andy Haryana (576p)
+https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
+#EXTINF:-1 tvg-id="B4UHitz.in" tvg-name="B4U Hitz" tvg-country="IN" tvg-language="hin" group-title="IN Music",B4U Hitz (576p)
+http://115.42.65.142:9981/stream/channelid/1099703605
+#EXTINF:-1 tvg-id="B4UMusic.in@APAC" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",B4U Music APAC (720p)
+https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",B4U Music (576p)
+https://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",B4U Music (576p)
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Balle Balle (720p)
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Balle Balle (576p)
+https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Balle Balle
+https://cdn-4.pishow.tv/live/987/master.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Music",Dhoom Music (720p)
+https://cdn-1.pishow.tv/live/1456/master.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Music",Dhoom Music (576p)
+https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="EpicMusic.in@Digital" tvg-name="Epic Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Showbox-LOGO_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Epic Music Digital (1080p)
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+#EXTINF:-1 tvg-id="EpicMusic.in" tvg-name="Epic Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Showbox-LOGO_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Epic Music (576p)
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="EpicMusic.in" tvg-name="Epic Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Showbox-LOGO_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Epic Music (576p)
+https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png" tvg-country="IN" tvg-language="tel" group-title="IN Music",ETV Music (1080p)
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Insync (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
+#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Insync (576p)
+https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
+#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Insync (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/160/master.m3u8
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-name="Isai Aruvi" tvg-logo="https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tam" group-title="IN Music",Isai Aruvi (396p)
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-name="Isai Aruvi" tvg-logo="https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tam" group-title="IN Music",Isai Aruvi (576p)
+http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
+#EXTINF:-1 tvg-id="KalikaTV.in" tvg-name="Kalika TV" tvg-logo="https://i.imgur.com/XWXFoJA.png" tvg-country="IN" tvg-language="mal" group-title="IN Music",Kalika TV (576p)
+http://server.applelive.in/kalikatv/kalikatv.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",Music India (576p)
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",Music India (720p) [Not 24/7]
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-id="OrangeBanglaTV.in" tvg-name="Orange Bangla TV" tvg-logo="https://i.imgur.com/wjSaHj5.png" tvg-country="IN" tvg-language="ben" group-title="IN Music",Orange Bangla TV (720p)
+https://cdn-4.pishow.tv/live/1499/master.m3u8
+#EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Peppers TV (751p)
+https://cdn-2.pishow.tv/live/1383/master.m3u8
+#EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Peppers TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" tvg-logo="https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",PTC Chakde (720p)
+https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" tvg-logo="https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",PTC Chakde (576p)
+https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" tvg-logo="https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",PTC Chakde (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/180/master.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/PTC%20Music%20Logo%20Final.png" tvg-country="IN" tvg-language="pan" group-title="IN Music",PTC Music (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/PTC%20Music%20Logo%20Final.png" tvg-country="IN" tvg-language="pan" group-title="IN Music",PTC Music (576p)
+https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/PTC%20Music%20Logo%20Final.png" tvg-country="IN" tvg-language="pan" group-title="IN Music",PTC Music
+https://cdn-3.pishow.tv/live/1501/master.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="IN Music",Public Music (576p)
+https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="IN Music",Public Music (720p) [Not 24/7]
+https://cdn-3.pishow.tv/live/441/master.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="IN Music",Public Music (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/240/master.m3u8
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",Punjabi Hits (1080p)
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="RajMusixTamil.in" tvg-name="Raj Musix Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s143707_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tam" group-title="IN Music",Raj Musix Tamil (1080p)
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+#EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="Raj Musix Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN Music",Raj Musix Telugu (720p)
+https://cdn-1.pishow.tv/live/1213/master.m3u8
+#EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="Raj Musix Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN Music",Raj Musix Telugu (576p)
+https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Sana Plus (1080p)
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Sana Plus (1080p) [Not 24/7]
+https://galaxyott.live/hls/sanaplus.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Music",Sangeet Bangla (720p)
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Music",Sangeet Bangla (576p)
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="bho" group-title="IN Music",Sangeet Bhojpuri (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="bho" group-title="IN Music",Sangeet Bhojpuri (576p)
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="bho" group-title="IN Music",Sangeet Bhojpuri (1080p)
+http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8
+#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Marathi.png" tvg-country="IN" tvg-language="mar" group-title="IN Music",Sangeet Marathi (720p)
+https://cdn-3.pishow.tv/live/1229/master.m3u8
+#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Marathi.png" tvg-country="IN" tvg-language="mar" group-title="IN Music",Sangeet Marathi (576p)
+https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
+#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in" tvg-name="Shemaroo Filmi Gaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Shemaroo Filmi Gaane (1080p)
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in" tvg-name="Shemaroo Filmi Gaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Shemaroo Filmi Gaane (1080p)
+http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
+#EXTINF:-1 tvg-id="SongdewTV.in" tvg-name="Songdew TV" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",Songdew TV (396p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="SongdewTV.in" tvg-name="Songdew TV" tvg-logo="https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",Songdew TV (576p)
+http://103.72.101.252:8080/live/1411.m3u8
+#EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-name="Steelbird Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Steelbird Music (720p) [Not 24/7]
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",Tabbar Hits (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" tvg-logo="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",Tabbar Hits (576p)
+https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TarangMusic.in" tvg-name="Tarang Music" tvg-logo="https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="ori" group-title="IN Music",Tarang Music (720p)
+https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Tunes6.in" tvg-name="Tunes 6" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Tunes 6 (720p)
+https://stream.d6-pro.com/tunes6music/live/video.m3u8
+#EXTINF:-1 tvg-id="UltimateTV.in" tvg-name="Ultimate TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/U-Tv-logo_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Ultimate TV (1080p)
+https://stream.ottlive.co.in/utvtamil/index.m3u8
+#EXTINF:-1 tvg-id="UltimateTV.in" tvg-name="Ultimate TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/U-Tv-logo_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Ultimate TV (576p)
+https://mumbai-edge.smartplaytv.in/utv/index.m3u8
+#EXTINF:-1 tvg-id="VaanavilTV.in" tvg-name="Vaanavil TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Vaanavil TV (720p)
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="VijayTakkar.in@APAC" tvg-name="Vijay Takkar" tvg-logo="https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tam" group-title="IN Music",Vijay Takkar APAC (1080p)
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+#EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",YRF Music (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",YRF Music (1080p)
+https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
+#EXTINF:-1 tvg-id="ZBMusic.in" tvg-name="ZB Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" tvg-country="IN" tvg-language="ben" group-title="IN Music",ZB Music (720p)
+https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing!" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",Zing! (576p)
+http://103.72.101.252:8080/live/585.m3u8
+#EXTINF:-1 tvg-id="Zoom.in@Global" tvg-name="Zoom" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4039f3b175376a61de/images/LOGO_HD/LOGO_HD_KN-eM9VvQ_ZoomTV1_1.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Zoom Global (720p)
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4039f3b175376a61de/images/LOGO_HD/LOGO_HD_KN-eM9VvQ_ZoomTV1_1.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Zoom (720p)
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4039f3b175376a61de/images/LOGO_HD/LOGO_HD_KN-eM9VvQ_ZoomTV1_1.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Zoom (576p)
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" tvg-logo="https://i.imgur.com/KLrfKRn.png" tvg-country="PK" tvg-language="urd" group-title="PK Music",8XM (576p)
+http://115.42.65.142:9981/stream/channelid/582886861
+#EXTINF:-1 tvg-id="ARYMusik.pk" tvg-name="ARY Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" tvg-country="PK" tvg-language="urd" group-title="PK Music",ARY Musik (1080p)
+#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
+https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+#EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" tvg-logo="https://i.imgur.com/HWb5Iat.png" tvg-country="PK" tvg-language="eng" group-title="PK Music",Jalwa TV
+http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
+#EXTINF:-1 tvg-id="JooMusic.pk" tvg-name="JooMusic" tvg-logo="https://i.imgur.com/KHuKQQL.png" tvg-country="PK" tvg-language="urd" group-title="PK Music",JooMusic (720p)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8

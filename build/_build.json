@@ -1,0 +1,47 @@
+{
+  "built_at": "2026-08-23T18:41:31Z",
+  "playlists": [
+    {
+      "file": "news.m3u",
+      "title": "India + Pakistan News",
+      "channels": 235,
+      "streams": 372
+    },
+    {
+      "file": "music.m3u",
+      "title": "India + Pakistan Music",
+      "channels": 46,
+      "streams": 86
+    },
+    {
+      "file": "movies.m3u",
+      "title": "India + Pakistan Movies",
+      "channels": 68,
+      "streams": 107
+    },
+    {
+      "file": "entertainment.m3u",
+      "title": "India + Pakistan Entertainment",
+      "channels": 108,
+      "streams": 174
+    },
+    {
+      "file": "kids.m3u",
+      "title": "India + Pakistan Kids",
+      "channels": 12,
+      "streams": 16
+    },
+    {
+      "file": "religious-pk.m3u",
+      "title": "Pakistan Religious",
+      "channels": 11,
+      "streams": 16
+    },
+    {
+      "file": "sports.m3u",
+      "title": "International Sports",
+      "channels": 393,
+      "streams": 550
+    }
+  ]
+}
