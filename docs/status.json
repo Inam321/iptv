@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-08-23T18:44:30Z",
+  "updated_at": "2026-08-23T19:03:33Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
       "streams_tested": 372,
-      "channels_working": 196,
+      "channels_working": 200,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out)": 30,
-        "segment HTTP 404": 9,
-        "HTTP 401": 7,
-        "HTTP 403": 4,
-        "HTTP 404": 4
+        "segment HTTP 404": 11,
+        "HTTP 404": 4,
+        "HTTP 403": 3,
+        "TimeoutError": 2
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
       "streams_tested": 86,
-      "channels_working": 37,
+      "channels_working": 38,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out)": 10,
-        "HTTP 403": 7,
-        "segment HTTP 404": 3,
+        "HTTP 403": 5,
+        "manifest has no segments": 1,
         "HTTP 502": 1,
-        "manifest has no segments": 1
+        "segment HTTP 404": 1
       }
     },
     {
@@ -37,24 +37,24 @@
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out)": 24,
-        "unreachable ([WinError 10061] No connection could be )": 15,
-        "HTTP 403": 12,
+        "unreachable ([Errno 111] Connection refused)": 13,
+        "HTTP 403": 11,
         "HTTP 404": 4,
-        "HTTP 502": 2
+        "too little data": 2
       }
     },
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
       "streams_tested": 174,
-      "channels_working": 77,
+      "channels_working": 79,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out)": 30,
-        "HTTP 403": 7,
+        "HTTP 403": 6,
         "segment HTTP 404": 5,
-        "unreachable ([WinError 10061] No connection could be )": 3,
-        "HTTP 401": 2
+        "unreachable ([Errno 111] Connection refused)": 3,
+        "HTTP 400": 2
       }
     },
     {
@@ -65,7 +65,7 @@
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out)": 3,
-        "unreachable ([WinError 10061] No connection could be )": 2,
+        "unreachable ([Errno 111] Connection refused)": 2,
         "HTTP 502": 1
       }
     },
@@ -83,14 +83,14 @@
       "file": "sports.m3u",
       "title": "International Sports",
       "streams_tested": 550,
-      "channels_working": 239,
+      "channels_working": 236,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 82,
+        "HTTP 403": 73,
         "segment HTTP 404": 58,
-        "unreachable (timed out)": 43,
-        "HTTP 404": 14,
-        "segment HTTP 403": 11
+        "unreachable (timed out)": 42,
+        "HTTP 404": 15,
+        "too little data": 5
       }
     }
   ]
