@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-08-25T02:50:44Z",
+  "updated_at": "2026-08-26T02:56:45Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
       "streams_tested": 375,
-      "channels_working": 200,
+      "channels_working": 194,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out)": 30,
         "HTTP 404": 9,
         "segment HTTP 404": 9,
-        "HTTP 403": 3,
-        "TimeoutError": 2
+        "IncompleteRead": 3,
+        "TimeoutError": 3
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
-      "streams_tested": 86,
-      "channels_working": 36,
+      "streams_tested": 87,
+      "channels_working": 37,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out)": 10,
         "HTTP 403": 5,
-        "segment HTTP 404": 5,
+        "segment HTTP 404": 3,
         "manifest has no segments": 1,
         "HTTP 502": 1
       }
@@ -33,20 +33,20 @@
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
       "streams_tested": 107,
-      "channels_working": 31,
+      "channels_working": 32,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out)": 24,
         "unreachable ([Errno 111] Connection refused)": 13,
         "HTTP 403": 11,
-        "HTTP 404": 6,
+        "HTTP 404": 5,
         "HTTP 502": 2
       }
     },
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
-      "streams_tested": 175,
+      "streams_tested": 177,
       "channels_working": 80,
       "kept_previous": false,
       "top_failures": {
@@ -61,12 +61,13 @@
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
       "streams_tested": 16,
-      "channels_working": 8,
+      "channels_working": 7,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out)": 3,
         "unreachable ([Errno 111] Connection refused)": 2,
-        "HTTP 502": 1
+        "HTTP 502": 1,
+        "segment empty": 1
       }
     },
     {
@@ -83,13 +84,13 @@
       "file": "sports.m3u",
       "title": "International Sports",
       "streams_tested": 557,
-      "channels_working": 233,
+      "channels_working": 212,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 99,
-        "segment HTTP 404": 55,
-        "unreachable (timed out)": 46,
-        "HTTP 404": 10,
+        "HTTP 403": 107,
+        "segment HTTP 404": 53,
+        "unreachable (timed out)": 48,
+        "HTTP 404": 13,
         "too little data": 5
       }
     }

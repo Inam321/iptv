@@ -1,23 +1,23 @@
 #EXTM3U
 # India + Pakistan Entertainment
 # 80 verified working channels
-# updated 2026-08-25T02:50:44Z
+# updated 2026-08-26T02:56:45Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="AakaashAath.in" tvg-name="Aakaash Aath" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Aakaash Aath (576p)
-https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in" tvg-name="Aamar Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" tvg-logo="https://dtil.tmsimg.com/assets/s142632_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="mal" group-title="IN Entertainment",Amrita TV (720p)
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/anjan-transparent.png" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Anjan TV (720p)
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" tvg-logo="https://i.imgur.com/du9iZ0s.png" tvg-country="IN" tvg-language="mal" group-title="IN Entertainment",Asianet Middle East (576p)
-https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-id="BrioTV.in" tvg-name="Brio TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Brio TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HBRIOTV/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="Colors" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors%20HD.png" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://59.103.38.46:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="ColorsKannada.in@HD" tvg-name="Colors Kannada" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors%20Kannada%20HD.png" tvg-country="IN" tvg-language="kan" group-title="IN Entertainment",Colors Kannada HD (1080i)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsMENA.in@HD" tvg-name="Colors MENA" tvg-logo="https://i.imgur.com/LjNFTdC.png" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Colors MENA HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@HD" tvg-name="Colors Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors%20Tamil%20HD.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Colors Tamil HD (720p)
@@ -87,6 +87,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 #EXTINF:-1 tvg-id="OliTV.in" tvg-name="Oli TV" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Oli TV (1080p)
 https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="OnePaschima.in" tvg-name="One Paschima" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" tvg-country="IN" tvg-language="ory" group-title="IN Entertainment",One Paschima (400p)
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
 #EXTINF:-1 tvg-id="PasandTV.in" tvg-name="Pasand TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Pasand-Logo--transparent.png" tvg-country="IN" tvg-language="bho" group-title="IN Entertainment",Pasand TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
 #EXTINF:-1 tvg-id="PearTV.in" tvg-name="Pear TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="asm" group-title="IN Entertainment",Pear TV (576p)
@@ -111,8 +113,6 @@ https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" tvg-logo="https://dtil.tmsimg.com/assets/s143779_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Shemaroo Umang (720p)
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SiriKannada.in" tvg-name="Siri Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="IN Entertainment",Siri Kannada (576p)
-https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannadaAllTime.in" tvg-name="Siri Kannada All Time" tvg-logo="https://i.imgur.com/IR0BrEX.jpeg" tvg-country="IN" tvg-language="kan" group-title="IN Entertainment",Siri Kannada All Time (576p)
 https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV.in" tvg-name="Sirippoli TV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sirippoli_Transparent_5030045f-bd94-4795-a443-7c7184079219.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Sirippoli TV (576p)
@@ -127,8 +127,6 @@ https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@UK" tvg-name="Star Vijay" tvg-logo="https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Star Vijay (396p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-name="StarPlus" tvg-logo="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",StarPlus HD (1080i)
-http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="StudioYuva.in" tvg-name="Studio Yuva" tvg-logo="https://i.imgur.com/BOhgz2T.png" tvg-country="IN" tvg-language="tel" group-title="IN Entertainment",Studio Yuva (576p)
 https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="SubinTV.in" tvg-name="Subin TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SUBIN-logo_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Subin TV (1080p)
@@ -151,6 +149,8 @@ https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
 https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1 tvg-id="VissaTV.in" tvg-name="Vissa TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Vissa%20TV.png" tvg-country="IN" tvg-language="tel" group-title="IN Entertainment",Vissa TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
+#EXTINF:-1 tvg-id="YETTV.in" tvg-name="YET TV" tvg-logo="https://yettelevision.com/assets/images/logo/channel_1.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",YET TV (720p)
+https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/zTGTWa8.png" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Zee Bangla HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaSonar_Transparent_6bea30f2-39ba-462c-a2c8-317d68f08519.png" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Zee Bangla Sonar (576p)
