@@ -1,7 +1,7 @@
 #EXTM3U
 # India + Pakistan Kids
-# 7 verified working channels
-# updated 2026-08-28T13:31:49Z
+# 5 verified working channels
+# updated 2026-08-29T08:25:15Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="Chithiram.in" tvg-name="Chithiram" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CHITHIRAM_Transparent_0a0a1cd6-cba5-4899-b22d-ce53fa1236dd.png" tvg-country="IN" tvg-language="tam" group-title="IN Kids",Chithiram (576p)
 https://cdn-6.pishow.tv/live/1243/master.m3u8
@@ -9,11 +9,7 @@ https://cdn-6.pishow.tv/live/1243/master.m3u8
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in" tvg-name="Nick HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nickelodeon_HD%2B_Logo_2024.png" tvg-country="IN" tvg-language="eng" group-title="IN Kids",Nick HD+ (1080p)
 http://116.90.120.157:8000/play/a0i3/index.m3u8
-#EXTINF:-1 tvg-id="WOWKidz.in@Tamil" tvg-name="WOW Kidz" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" tvg-country="IN" tvg-language="tam" group-title="IN Kids",WOW Kidz Tamil (720p)
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-name="ZB Cartoon" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png" tvg-country="IN" tvg-language="ben" group-title="IN Kids",ZB Cartoon (1080p)
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" tvg-country="PK" tvg-language="zho" group-title="PK Kids",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+#EXTINF:-1 tvg-id="WOWKidz.in@Telugu" tvg-name="WOW Kidz" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" tvg-country="IN" tvg-language="tel" group-title="IN Kids",WOW Kidz (720p)
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="Minimax.pk" tvg-name="Minimax" tvg-logo="https://i.imgur.com/TJvf8vd.png" tvg-country="PK" tvg-language="urd" group-title="PK Kids",Minimax (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
