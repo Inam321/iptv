@@ -1,19 +1,19 @@
 channel,tvg_id,group,working,reason,seconds,host,url
-Chithiram (576p),Chithiram.in,IN Kids,YES,playing,2.1,cdn-6.pishow.tv,https://cdn-6.pishow.tv/live/1243/master.m3u8
-Epic Kids Digital (1080p),EpicKids.in@Digital,IN Kids,YES,playing,2.8,cc-t8lqe1o99pszu.akamaized.net,https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
-Minimax (360p),Minimax.pk,PK Kids,YES,playing,2.3,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-Nick HD+ (1080p),NickHDPlus.in,IN Kids,YES,playing,1.4,116.90.120.157:8000,http://116.90.120.157:8000/play/a0i3/index.m3u8
-Unique TV (576p),UniqueTV.in,IN Kids,YES,playing,2.9,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
-WOW Kidz (720p),WOWKidz.in,IN Kids,YES,playing,1.4,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-WOW Kidz (720p),WOWKidz.in@Telugu,IN Kids,YES,playing,1.4,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-WOW Kidz Tamil (720p),WOWKidz.in@Tamil,IN Kids,YES,playing,1.4,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Chithiram (576p),Chithiram.in,IN Kids,YES,playing,2.3,cdn-6.pishow.tv,https://cdn-6.pishow.tv/live/1243/master.m3u8
+Epic Kids Digital (1080p),EpicKids.in@Digital,IN Kids,YES,playing,3.1,cc-t8lqe1o99pszu.akamaized.net,https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
+God Stands Kids Club TV Arabic,GodStandsKidsClubTV.pk@Arabic,PK Kids,YES,playing,4.4,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+God Stands Kids Club TV Chinese,GodStandsKidsClubTV.pk@Chinese,PK Kids,YES,playing,3.0,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+God Stands Kids Club TV English,GodStandsKidsClubTV.pk,PK Kids,YES,playing,2.5,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+Minimax (360p),Minimax.pk,PK Kids,YES,playing,2.2,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+Nick HD+ (1080p),NickHDPlus.in,IN Kids,YES,playing,1.5,116.90.120.157:8000,http://116.90.120.157:8000/play/a0i3/index.m3u8
+Unique TV (576p),UniqueTV.in,IN Kids,YES,playing,3.1,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
+WOW Kidz (720p),WOWKidz.in@Telugu,IN Kids,YES,playing,1.2,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+WOW Kidz (720p),WOWKidz.in,IN Kids,YES,playing,1.2,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+WOW Kidz Tamil (720p),WOWKidz.in@Tamil,IN Kids,YES,playing,1.2,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 ZB Cartoon (1080p),ZBCartoon.in,IN Kids,YES,playing,3.7,server.zillarbarta.com,https://server.zillarbarta.com/zbcatun/video.m3u8
 Disney International HD (1080p),DisneyInternationalHD.in,IN Kids,no,unreachable ([Errno 111] Connection refused),0.3,149.71.34.166:8002,http://149.71.34.166:8002/play/a01p/index.m3u8
 Disney Junior (576p),DisneyJunior.in,IN Kids,no,unreachable ([Errno 111] Connection refused),0.3,149.71.34.166:8000,http://149.71.34.166:8000/play/a00l/index.m3u8
-God Stands Kids Club TV Arabic,GodStandsKidsClubTV.pk@Arabic,PK Kids,no,unreachable (timed out),8.0,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
-God Stands Kids Club TV Chinese,GodStandsKidsClubTV.pk@Chinese,PK Kids,no,unreachable (timed out),8.0,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-God Stands Kids Club TV English,GodStandsKidsClubTV.pk,PK Kids,no,unreachable (timed out),8.0,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 Kids Zone (720p),KidsZone.pk,PK Kids,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a04m/index.m3u8
 Nick HD+ (1080p),NickHDPlus.in,IN Kids,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/1226.m3u8
-Sony Yay!,SonyYay.in,IN Kids,no,segment HTTP 500,1.7,s3.itcnbd.live,https://s3.itcnbd.live/channel/b22941f1341d7243.m3u8
+Sony Yay!,SonyYay.in,IN Kids,no,segment HTTP 500,1.6,s3.itcnbd.live,https://s3.itcnbd.live/channel/b22941f1341d7243.m3u8
 Unique TV (576p),UniqueTV.in,IN Kids,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/688/master.m3u8
