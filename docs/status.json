@@ -1,72 +1,71 @@
 {
-  "updated_at": "2026-08-31T07:52:58Z",
+  "updated_at": "2026-09-01T06:58:03Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
-      "streams_tested": 390,
-      "channels_working": 206,
+      "streams_tested": 388,
+      "channels_working": 205,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out)": 27,
-        "segment HTTP 404": 10,
-        "HTTP 404": 7,
-        "HTTP 403": 5,
-        "HTTP 400": 4
+        "unreachable (timed out)": 28,
+        "HTTP 404": 9,
+        "segment HTTP 404": 8,
+        "HTTP 403": 4,
+        "TimeoutError": 2
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
-      "streams_tested": 94,
-      "channels_working": 41,
+      "streams_tested": 91,
+      "channels_working": 42,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out)": 8,
+        "unreachable (timed out)": 7,
+        "segment HTTP 404": 4,
         "unreachable ([Errno -5] No address associated with ho)": 3,
-        "HTTP 400": 2,
         "too little data": 2,
-        "segment HTTP 404": 2
+        "HTTP 403": 2
       }
     },
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
-      "streams_tested": 99,
+      "streams_tested": 93,
       "channels_working": 35,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out)": 20,
-        "unreachable ([Errno 111] Connection refused)": 9,
-        "HTTP 403": 5,
-        "HTTP 404": 5,
-        "too little data": 3
+        "unreachable (timed out)": 16,
+        "unreachable ([Errno 111] Connection refused)": 8,
+        "HTTP 403": 4,
+        "too little data": 3,
+        "segment HTTP 404": 3
       }
     },
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
-      "streams_tested": 179,
+      "streams_tested": 174,
       "channels_working": 88,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out)": 25,
-        "HTTP 403": 5,
-        "HTTP 400": 5,
-        "segment HTTP 404": 4,
-        "unreachable ([Errno 111] Connection refused)": 3
+        "unreachable (timed out)": 24,
+        "segment HTTP 404": 7,
+        "unreachable ([Errno 111] Connection refused)": 3,
+        "HTTP 403": 3,
+        "HTTP 400": 2
       }
     },
     {
       "file": "kids.m3u",
       "title": "India + Pakistan Kids",
-      "streams_tested": 18,
+      "streams_tested": 17,
       "channels_working": 8,
       "kept_previous": false,
       "top_failures": {
         "unreachable (timed out)": 3,
-        "unreachable ([Errno 111] Connection refused)": 2,
-        "segment HTTP 500": 1
+        "unreachable ([Errno 111] Connection refused)": 2
       }
     },
     {
@@ -76,21 +75,22 @@
       "channels_working": 9,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out)": 2
+        "unreachable (timed out)": 2,
+        "segment HTTP 404": 1
       }
     },
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 552,
-      "channels_working": 217,
+      "streams_tested": 548,
+      "channels_working": 211,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 98,
-        "segment HTTP 404": 56,
-        "unreachable (timed out)": 43,
-        "HTTP 404": 12,
-        "too little data": 5
+        "HTTP 403": 96,
+        "segment HTTP 404": 52,
+        "unreachable (timed out)": 42,
+        "HTTP 404": 18,
+        "too little data": 7
       }
     }
   ]

@@ -1,7 +1,7 @@
 #EXTM3U
 # India + Pakistan Entertainment
 # 88 verified working channels
-# updated 2026-08-31T07:52:58Z
+# updated 2026-09-01T06:58:03Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="AakaashAath.in" tvg-name="Aakaash Aath" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Aakaash Aath (576p)
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
@@ -64,8 +64,8 @@ https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 #EXTINF:-1 tvg-id="HiDost.in" tvg-name="Hi Dost!" tvg-logo="https://i.imgur.com/bnST6y5.png" tvg-country="IN" tvg-language="eng" group-title="IN Entertainment",Hi Dost! (720p)
 https://cdn-1.pishow.tv/live/224/master.m3u8
-#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jaihind%20TV.png" tvg-country="IN" tvg-language="mal" group-title="IN Entertainment",Jaihind TV (396p)
-https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jaihind%20TV.png" tvg-country="IN" tvg-language="mal" group-title="IN Entertainment",Jaihind TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-name="Kalaignar Murasu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Murasu%20TV.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Kalaignar Murasu (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143265_ld_h9_aa.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Khushboo Bangla (720p)
@@ -91,10 +91,10 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Nepal 1" tvg-logo="https://dtil.tmsimg.com/assets/s143584_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="nep" group-title="IN Entertainment",Nepal 1 (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
-#EXTINF:-1 tvg-id="NTCTV.in" tvg-name="NTC TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",NTC TV (720p)
-https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="OliTV.in" tvg-name="Oli TV" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Oli TV (1080p)
 https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="OnePaschima.in" tvg-name="One Paschima" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" tvg-country="IN" tvg-language="ory" group-title="IN Entertainment",One Paschima (400p)
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
 #EXTINF:-1 tvg-id="PasandTV.in" tvg-name="Pasand TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Pasand-Logo--transparent.png" tvg-country="IN" tvg-language="bho" group-title="IN Entertainment",Pasand TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
 #EXTINF:-1 tvg-id="PearTV.in" tvg-name="Pear TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="asm" group-title="IN Entertainment",Pear TV (576p)
@@ -175,9 +175,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZodiakTV.in" tvg-name="Zodiak TV" tvg-logo="https://i.imgur.com/gE166hZ.jpeg" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Zodiak TV (1080p)
 https://ranacable.duckdns.org/ZodiakTv/index.m3u8
-#EXTINF:-1 tvg-id="AajEntertainment.pk" tvg-name="Aaj Entertainment" tvg-logo="https://i.ibb.co/xt5RBDds/Aaj-Entertainment-HD.png" tvg-country="PK" tvg-language="urd" group-title="PK Entertainment",Aaj Entertainment (1080p)
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-id="BolEntertainment.pk@HD" tvg-name="Bol Entertainment" tvg-logo="https://i.imgur.com/eajSRFo.png" tvg-country="PK" tvg-language="urd" group-title="PK Entertainment",Bol Entertainment HD
 https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-name="Express Entertainment" tvg-logo="https://i.imgur.com/rgHbb8W.png" tvg-country="PK" tvg-language="urd" group-title="PK Entertainment",Express Entertainment (1080p)
 https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" tvg-country="PK" tvg-language="urd" group-title="PK Entertainment",Hum TV (720p)
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
