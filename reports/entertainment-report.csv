@@ -1,175 +1,177 @@
 channel,tvg_id,group,working,reason,seconds,host,url
-Aakaash Aath (576p),AakaashAath.in,IN Entertainment,YES,playing,1.7,tvsen5.aynascope.net,http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
+Aaj Entertainment (1080p),AajEntertainment.pk,PK Entertainment,YES,playing,3.4,ml-pull-dvc-myco.io:2096,https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+Aakaash Aath (576p),AakaashAath.in,IN Entertainment,YES,playing,1.8,tvsen5.aynascope.net,http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
+Aakaash Aath (576p),AakaashAath.in,IN Entertainment,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+Aamar Bangla (720p),AamarBangla.in,IN Entertainment,YES,playing,1.0,app.ncare.live,https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 Amrita TV (576p),AmritaTV.in,IN Entertainment,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
-Amrita TV (720p),AmritaTV.in,IN Entertainment,YES,playing,0.6,ddash74r36xqp.cloudfront.net,https://ddash74r36xqp.cloudfront.net/master.m3u8
-Anjan TV (576p),AnjanTV.in,IN Entertainment,YES,playing,2.2,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/993/master.m3u8
-Anjan TV (576p),AnjanTV.in,IN Entertainment,YES,playing,2.9,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
+Amrita TV (720p),AmritaTV.in,IN Entertainment,YES,playing,1.0,ddash74r36xqp.cloudfront.net,https://ddash74r36xqp.cloudfront.net/master.m3u8
+Anjan TV (576p),AnjanTV.in,IN Entertainment,YES,playing,2.3,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/993/master.m3u8
+Anjan TV (576p),AnjanTV.in,IN Entertainment,YES,playing,3.0,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
 Asianet HD (720p),Asianet.in@HD,IN Entertainment,YES,playing,0.4,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
+Asianet Middle East (576p),AsianetMiddleEast.in,IN Entertainment,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 Bol Entertainment HD,BolEntertainment.pk@HD,PK Entertainment,YES,playing,2.3,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+Colors Bangla HD (1080p),ColorsBangla.in@HD,IN Entertainment,YES,playing,1.6,103.165.93.31:8095,http://103.165.93.31:8095/colorsBangla/index.m3u8
 Colors Gujarati (396p),ColorsGujarati.in,IN Entertainment,YES,playing,0.4,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
-Colors HD,Colors.in@HD,IN Entertainment,YES,playing,1.9,59.103.38.46:8000,http://59.103.38.46:8000/play/a00b/index.m3u8
-Colors Kannada HD (1080i),ColorsKannada.in@HD,IN Entertainment,YES,playing,0.4,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
-Colors MENA HD (720p),ColorsMENA.in@HD,IN Entertainment,YES,playing,0.4,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
-Colors Tamil HD (720p),ColorsTamil.in@HD,IN Entertainment,YES,playing,0.4,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+Colors Infinity HD (1080p),ColorsInfinity.in@HD,IN Entertainment,YES,playing,2.0,66.102.126.10:8000,http://66.102.126.10:8000/play/a014/index.m3u8
+Colors Kannada HD (1080i),ColorsKannada.in@HD,IN Entertainment,YES,playing,0.5,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+Colors MENA HD (720p),ColorsMENA.in@HD,IN Entertainment,YES,playing,0.5,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+Colors Tamil HD (720p),ColorsTamil.in@HD,IN Entertainment,YES,playing,0.5,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 Dangal 2 (576p),Dangal2.in,IN Entertainment,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/DANGAL2/ORIGIN/index.m3u8
-Dangal 2 (720p),Dangal2.in,IN Entertainment,YES,playing,1.5,live-dangal2.akamaized.net,https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+Dangal 2 (720p),Dangal2.in,IN Entertainment,YES,playing,1.7,live-dangal2.akamaized.net,https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 Darshana TV (576p),DarshanaTV.in,IN Entertainment,YES,playing,1.4,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Darshana TV (576p),DarshanaTV.in,IN Entertainment,YES,playing,3.0,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
 DD Malayalam,DDMalayalam.in,IN Entertainment,YES,playing,2.2,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/27/master.m3u8
 DD Malayalam (504p),DDMalayalam.in,IN Entertainment,YES,playing,0.9,d2lk5u59tns74c.cloudfront.net,https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
-DD National HD (1080p),DDNational.in@HD,IN Entertainment,YES,playing,0.8,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-DD National HD (576p),DDNational.in@HD,IN Entertainment,YES,playing,2.8,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
-DD National HD (576p),DDNational.in@HD,IN Entertainment,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/DDNATIONALHD/ORIGIN/index.m3u8
+DD National HD (1080p),DDNational.in@HD,IN Entertainment,YES,playing,0.9,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+DD National HD (576p),DDNational.in@HD,IN Entertainment,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
+DD National HD (576p),DDNational.in@HD,IN Entertainment,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/DDNATIONALHD/ORIGIN/index.m3u8
 Desi Channel (720p),DesiChannel.in,IN Entertainment,YES,playing,2.2,livestream.unlimitedcdn.com,https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-EET TV (1080p) [Not 24/7],EETTV.in,IN Entertainment,YES,playing,1.0,live.streamjo.com,https://live.streamjo.com/eetlive/eettv.m3u8
-Enterr 10 Bangla,Enterr10Bangla.in,IN Entertainment,YES,playing,2.1,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/241/master.m3u8
-Enterr 10 Bangla (576p),Enterr10Bangla.in,IN Entertainment,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
-Enterr 10 Bangla (720p) [Not 24/7],Enterr10Bangla.in,IN Entertainment,YES,playing,1.3,live-bangla.akamaized.net,https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-Epic Bharat Digital (1080p),EpicBharat.in@Digital,IN Entertainment,YES,playing,3.0,cc-p1izg43bk7sj5.akamaized.net,https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-Epic Bharat Digital (1080p),EpicBharat.in@Digital,IN Entertainment,YES,playing,2.9,epiconvh.akamaized.net,https://epiconvh.akamaized.net/live/nazara/master.m3u8
-Epic TV Digital (1080p),EpicTV.in@Digital,IN Entertainment,YES,playing,2.2,cc-czbq30x55knit.akamaized.net,https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-ETV Comedy (1080p),ETVComedy.in,IN Entertainment,YES,playing,1.3,cc-wie8j8y69d2uy.akamaized.net,https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
-ETV Josh (1080p),ETVJosh.in,IN Entertainment,YES,playing,1.2,cc-uyh1ow5zouoio.akamaized.net,https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
-ETV Plus HD (1080p),ETVPlus.in@HD,IN Entertainment,YES,playing,0.8,d12ee3o8yfkkhd.cloudfront.net,https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
-ETV Telugu HD (1080p),ETVTelugu.in@HD,IN Entertainment,YES,playing,2.7,d27zlkxhgwrfgo.cloudfront.net,https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
-ETV Telugu USA (720p),ETVTelugu.in@USA,IN Entertainment,YES,playing,0.5,livegeorouus.akamaized.net,https://livegeorouus.akamaized.net/100823/etvhd_2500/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+E 24 (576p),E24.in,IN Entertainment,YES,playing,2.9,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
+EET TV (1080p) [Not 24/7],EETTV.in,IN Entertainment,YES,playing,1.6,live.streamjo.com,https://live.streamjo.com/eetlive/eettv.m3u8
+Enterr 10 Bangla,Enterr10Bangla.in,IN Entertainment,YES,playing,2.2,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/241/master.m3u8
+Enterr 10 Bangla (576p),Enterr10Bangla.in,IN Entertainment,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
+Enterr 10 Bangla (720p) [Not 24/7],Enterr10Bangla.in,IN Entertainment,YES,playing,0.8,live-bangla.akamaized.net,https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+Enterr 10 Rangeela (1080p),Enterr10Rangeela.in,IN Entertainment,YES,playing,1.7,103.185.24.134:3001,http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8
+Epic Bharat (576p),EpicBharat.in,IN Entertainment,YES,playing,2.9,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
+Epic Bharat Digital (1080p),EpicBharat.in@Digital,IN Entertainment,YES,playing,1.9,cc-p1izg43bk7sj5.akamaized.net,https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+Epic Bharat Digital (1080p),EpicBharat.in@Digital,IN Entertainment,YES,playing,3.3,epiconvh.akamaized.net,https://epiconvh.akamaized.net/live/nazara/master.m3u8
+Epic TV Digital (1080p),EpicTV.in@Digital,IN Entertainment,YES,playing,1.5,cc-czbq30x55knit.akamaized.net,https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+ETV Comedy (1080p),ETVComedy.in,IN Entertainment,YES,playing,2.4,cc-wie8j8y69d2uy.akamaized.net,https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+ETV Josh (1080p),ETVJosh.in,IN Entertainment,YES,playing,2.9,cc-uyh1ow5zouoio.akamaized.net,https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+ETV Plus HD (1080p),ETVPlus.in@HD,IN Entertainment,YES,playing,1.8,d12ee3o8yfkkhd.cloudfront.net,https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+ETV Telugu HD (1080p),ETVTelugu.in@HD,IN Entertainment,YES,playing,2.5,d27zlkxhgwrfgo.cloudfront.net,https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
+ETV Telugu USA (720p),ETVTelugu.in@USA,IN Entertainment,YES,playing,0.8,livegeorouus.akamaized.net,https://livegeorouus.akamaized.net/100823/etvhd_2500/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Express Entertainment (1080p),ExpressEntertainment.pk,PK Entertainment,YES,playing,3.7,ml-pull-dvc-myco.io:2096,https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+Fakt Marathi (576p),FaktMarathi.in,IN Entertainment,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
 Fakt Marathi (720p) [Not 24/7],FaktMarathi.in,IN Entertainment,YES,playing,2.1,cdn-6.pishow.tv,https://cdn-6.pishow.tv/live/10002/master.m3u8
 Gangaur TV,GangaurTV.in,IN Entertainment,YES,playing,2.2,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1221/master.m3u8
-Gangaur TV (1080p),GangaurTV.in,IN Entertainment,YES,playing,0.5,pbgangaur.wiseplayout.com,https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
-GTC Punjabi (1080p),GTCPunjabi.in,IN Entertainment,YES,playing,3.7,gtc-yupp.vgcdn.net,https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
-Hi Dost! (576p),HiDost.in,IN Entertainment,YES,playing,2.8,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
+Gangaur TV (1080p),GangaurTV.in,IN Entertainment,YES,playing,1.0,pbgangaur.wiseplayout.com,https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+Gangaur TV (576p),GangaurTV.in,IN Entertainment,YES,playing,3.0,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4GANGAURTV/index.m3u8
+GTC Punjabi (1080p),GTCPunjabi.in,IN Entertainment,YES,playing,2.3,gtc-yupp.vgcdn.net,https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
+Hi Dost! (576p),HiDost.in,IN Entertainment,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
 Hi Dost! (720p),HiDost.in,IN Entertainment,YES,playing,2.2,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/224/master.m3u8
-Hum TV (720p),HumTV.pk,PK Entertainment,YES,playing,1.9,g4wlkwx8l23a-hls-live.5centscdn.com,https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-Jaihind TV (396p),JaihindTV.in,IN Entertainment,YES,playing,2.2,yuppnimrestreammum.akamaized.net,https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-Kalaignar Murasu (396p),KalaignarMurasu.in,IN Entertainment,YES,playing,0.4,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
-Kalaignar Murasu (396p) [Not 24/7],KalaignarMurasu.in,IN Entertainment,YES,playing,0.4,segment.yuppcdn.net,https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-Khushboo Bangla (720p),KhushbooBangla.in,IN Entertainment,YES,playing,2.1,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1473/master.m3u8
+Hum TV (720p),HumTV.pk,PK Entertainment,YES,playing,1.5,g4wlkwx8l23a-hls-live.5centscdn.com,https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+Jaihind TV (396p),JaihindTV.in,IN Entertainment,YES,playing,0.6,yuppnimrestreammum.akamaized.net,https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Jaihind TV (576p),JaihindTV.in,IN Entertainment,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
+Kalaignar Murasu (396p),KalaignarMurasu.in,IN Entertainment,YES,playing,0.5,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
+Kalaignar Murasu (396p) [Not 24/7],KalaignarMurasu.in,IN Entertainment,YES,playing,0.5,segment.yuppcdn.net,https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+Khushboo Bangla (576p),KhushbooBangla.in,IN Entertainment,YES,playing,3.0,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
+Khushboo Bangla (720p),KhushbooBangla.in,IN Entertainment,YES,playing,2.2,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1473/master.m3u8
 Maha Punjabi,MahaPunjabi.in,IN Entertainment,YES,playing,2.1,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1521/master.m3u8
-Mahaa Max (576p),MahaaMax.in,IN Entertainment,YES,playing,0.9,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/mahaamax/playlist.m3u8
-Mango Mobile TV (1080p),MangoMobileTV.in,IN Entertainment,YES,playing,0.6,amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv,https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
+Mahaa Max (576p),MahaaMax.in,IN Entertainment,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/mahaamax/playlist.m3u8
+Mahaa Max (576p),MahaaMax.in,IN Entertainment,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8
+Mango Mobile TV (1080p),MangoMobileTV.in,IN Entertainment,YES,playing,0.7,amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv,https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 Manoranjan Prime,ManoranjanPrime.in,IN Entertainment,YES,playing,2.1,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1474/master.m3u8
-Manoranjan TV (720p),ManoranjanTV.in,IN Entertainment,YES,playing,2.2,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/1013/master.m3u8
+Manoranjan Prime (576p),ManoranjanPrime.in,IN Entertainment,YES,playing,2.9,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
+Manoranjan TV (576p),ManoranjanTV.in,IN Entertainment,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8
+Manoranjan TV (720p),ManoranjanTV.in,IN Entertainment,YES,playing,2.3,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/1013/master.m3u8
 Mazhavil Manorama (396p),MazhavilManorama.in,IN Entertainment,YES,playing,0.8,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 Mazhavil Manorama HD (1080p),MazhavilManorama.in@HD,IN Entertainment,YES,playing,2.8,cdn-7.pishow.tv,https://cdn-7.pishow.tv/live/1129/master.m3u8
 Mazhavil Manorama HD (576p),MazhavilManorama.in@HD,IN Entertainment,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
-MK Six (720p) [Not 24/7],MKSix.in,IN Entertainment,YES,playing,2.2,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1253/master.m3u8
-MNTV (1080p),MarutamTV.in,IN Entertainment,YES,playing,3.1,mntv.livebox.co.in,https://mntv.livebox.co.in/mntvhls/live.m3u8
-MTV,MTV.in,IN Entertainment,YES,playing,0.4,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
-MTV HD (396p),MTV.in@HD,IN Entertainment,YES,playing,1.4,maamusic.keralive.workers.dev,https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
-Nepal 1,Nepal1.in,IN Entertainment,YES,playing,2.1,cdn-6.pishow.tv,https://cdn-6.pishow.tv/live/1490/master.m3u8
+MK Six (720p) [Not 24/7],MKSix.in,IN Entertainment,YES,playing,2.1,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1253/master.m3u8
+MNTV (1080p),MarutamTV.in,IN Entertainment,YES,playing,2.9,mntv.livebox.co.in,https://mntv.livebox.co.in/mntvhls/live.m3u8
+MTV,MTV.in,IN Entertainment,YES,playing,0.5,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+MTV HD (396p),MTV.in@HD,IN Entertainment,YES,playing,1.3,maamusic.keralive.workers.dev,https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+Nepal 1,Nepal1.in,IN Entertainment,YES,playing,2.2,cdn-6.pishow.tv,https://cdn-6.pishow.tv/live/1490/master.m3u8
 Nepal 1 (396p),Nepal1.in,IN Entertainment,YES,playing,0.6,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
-One Paschima (400p),OnePaschima.in,IN Entertainment,YES,playing,3.2,live.ekamraott.com,https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
-Pasand TV (576p),PasandTV.in,IN Entertainment,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
-Polimer TV (720p),PolimerTV.in,IN Entertainment,YES,playing,2.2,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1241/master.m3u8
-PTC Punjabi,PTCPunjabi.in,IN Entertainment,YES,playing,2.2,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1604/master.m3u8
+Oli TV (1080p),OliTV.in,IN Entertainment,YES,playing,3.1,live.olidigital.in,https://live.olidigital.in/olitv/olitv/index.m3u8
+One Paschima (400p),OnePaschima.in,IN Entertainment,YES,playing,3.1,live.ekamraott.com,https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+Pasand TV (576p),PasandTV.in,IN Entertainment,YES,playing,0.9,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
+Pasand TV (576p),PasandTV.in,IN Entertainment,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3PASANDTV/index.m3u8
+Pear TV (576p),PearTV.in,IN Entertainment,YES,playing,3.0,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
+Polimer TV (576p),PolimerTV.in,IN Entertainment,YES,playing,2.9,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
+Polimer TV (720p),PolimerTV.in,IN Entertainment,YES,playing,2.3,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1241/master.m3u8
+PTC Punjabi,PTCPunjabi.in,IN Entertainment,YES,playing,2.3,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1604/master.m3u8
 PTC Punjabi (576p),PTCPunjabi.in,IN Entertainment,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
 PTC Punjabi Gold,PTCPunjabiGold.in,IN Entertainment,YES,playing,2.8,cdn-7.pishow.tv,https://cdn-7.pishow.tv/live/450/master.m3u8
-PTC Punjabi Gold (1080p),PTCPunjabiGold.in,IN Entertainment,YES,playing,0.8,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
-PTC Punjabi HD (1080p),PTCPunjabi.in@HD,IN Entertainment,YES,playing,0.9,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+PTC Punjabi Gold (1080p),PTCPunjabiGold.in,IN Entertainment,YES,playing,0.6,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+PTC Punjabi HD (1080p),PTCPunjabi.in@HD,IN Entertainment,YES,playing,0.6,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 Pulari TV,PulariTV.in,IN Entertainment,YES,playing,1.2,royalstarindia.co.in,https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-Raj TV (1080p),RajTV.in,IN Entertainment,YES,playing,3.9,livestream.rajtv.tv,https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
-Rupasi Bangla (576p),RupasiBangla.in,IN Entertainment,YES,playing,0.4,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
-Rupasi Bangla (576p),RupasiBangla.in,IN Entertainment,YES,playing,2.8,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
+Q TV (576p),QTV.in,IN Entertainment,YES,playing,2.9,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
+Raj TV (1080p),RajTV.in,IN Entertainment,YES,playing,4.2,livestream.rajtv.tv,https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
+Rupasi Bangla (576p),RupasiBangla.in,IN Entertainment,YES,playing,0.5,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
 Rupasi Bangla (720p),RupasiBangla.in,IN Entertainment,YES,playing,2.1,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1039/master.m3u8
 Sada TV (1080p) [Not 24/7],SADATV.in,IN Entertainment,YES,playing,0.5,cdn12.henico.net:8080,http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-Sana TV (1080p),SanaTV.in,IN Entertainment,YES,playing,3.6,vglivessai.akamaized.net,https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
-Shemaroo TV (720p),ShemarooTV.in,IN Entertainment,YES,playing,1.5,airtelapp.shemaroo.com,https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
-Shemaroo TV (720p),ShemarooTV.in,IN Entertainment,YES,playing,2.1,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/230/master.m3u8
+Sana TV (1080p),SanaTV.in,IN Entertainment,YES,playing,2.8,vglivessai.akamaized.net,https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
+Shemaroo TV (576p),ShemarooTV.in,IN Entertainment,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8
+Shemaroo TV (720p),ShemarooTV.in,IN Entertainment,YES,playing,1.8,airtelapp.shemaroo.com,https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+Shemaroo TV (720p),ShemarooTV.in,IN Entertainment,YES,playing,2.2,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/230/master.m3u8
 Shemaroo Umang (576p),ShemarooUmang.in,IN Entertainment,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/SHEMAROOUMANG/ORIGIN/index.m3u8
-Shemaroo Umang (720p),ShemarooUmang.in,IN Entertainment,YES,playing,1.8,airtelapp.shemaroo.com,https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
-Sirippoli TV (576p),SirippoliTV.in,IN Entertainment,YES,playing,0.5,segment.yuppcdn.net,https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-Sirippoli TV (576p),SirippoliTV.in,IN Entertainment,YES,playing,0.8,ptuf.ridsys.in,http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
+Shemaroo Umang (720p),ShemarooUmang.in,IN Entertainment,YES,playing,2.0,airtelapp.shemaroo.com,https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+Siri Kannada All Time (576p),SiriKannadaAllTime.in,IN Entertainment,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
+Sirippoli TV (576p),SirippoliTV.in,IN Entertainment,YES,playing,0.4,segment.yuppcdn.net,https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+Sirippoli TV (576p),SirippoliTV.in,IN Entertainment,YES,playing,0.7,ptuf.ridsys.in,http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
+Sony Aath (576p),SonyAath.in,IN Entertainment,YES,playing,1.6,103.165.93.31:8095,http://103.165.93.31:8095/sonyAath/index.m3u8
 Sony Entertainment Television HD (1080p),SonyEntertainmentTelevision.in@HD,IN Entertainment,YES,playing,0.5,38.96.178.205,http://38.96.178.205/SONYHD/index.m3u8
-Spondon (1080p),Spondon.in,IN Entertainment,YES,playing,3.5,nktv.smartstream.video,https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
-Spondon (576p),Spondon.in,IN Entertainment,YES,playing,2.9,cdn-7.pishow.tv,https://cdn-7.pishow.tv/live/10019/master.m3u8
+Spondon (1080p),Spondon.in,IN Entertainment,YES,playing,4.0,nktv.smartstream.video,https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+Spondon (576p),Spondon.in,IN Entertainment,YES,playing,2.8,cdn-7.pishow.tv,https://cdn-7.pishow.tv/live/10019/master.m3u8
+Spondon (576p),Spondon.in,IN Entertainment,YES,playing,2.9,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
 Star Jalsha HD (720p),StarJalsha.in@HD,IN Entertainment,YES,playing,0.3,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 Star Maa HD (720p),StarMaa.in@HD,IN Entertainment,YES,playing,0.3,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
-Star Pravah HD (720p),StarPravah.in@HD,IN Entertainment,YES,playing,0.3,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
-Star Vijay (396p),StarVijay.in@UK,IN Entertainment,YES,playing,0.4,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
-StarPlus HD (1080i),StarPlus.in@HD,IN Entertainment,YES,playing,1.9,202.70.146.135:8000,http://202.70.146.135:8000/play/a009/index.m3u8
-Studio Yuva (576p),StudioYuva.in,IN Entertainment,YES,playing,1.0,d2gvyg6lvauoko.cloudfront.net,https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Star Pravah HD (720p),StarPravah.in@HD,IN Entertainment,YES,playing,0.4,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+Star Vijay (396p),StarVijay.in@UK,IN Entertainment,YES,playing,0.5,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+StarPlus HD (1080i),StarPlus.in@HD,IN Entertainment,YES,playing,2.0,202.70.146.135:8000,http://202.70.146.135:8000/play/a009/index.m3u8
+StarPlus HD (1080p),StarPlus.in@HD,IN Entertainment,YES,playing,2.0,66.102.126.10:8000,http://66.102.126.10:8000/play/a008/index.m3u8
+Studio Yuva (576p),StudioYuva.in,IN Entertainment,YES,playing,0.9,d2gvyg6lvauoko.cloudfront.net,https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 Studio Yuva (576p),StudioYuva.in,IN Entertainment,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
-Subin TV (1080p),SubinTV.in,IN Entertainment,YES,playing,2.6,stream.galaxyott.live,https://stream.galaxyott.live/live/subintv/index.m3u8
-Suriya TV (1080p),SuriyaTV.in,IN Entertainment,YES,playing,6.2,stream.ottlive.co.in,https://stream.ottlive.co.in/suryatvtamil/index.m3u8
-Tarang TV (720p),TarangTV.in,IN Entertainment,YES,playing,1.0,livetv.tarangplus.in,https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
-Telugu One (1080p),TeluguOne.in,IN Entertainment,YES,playing,0.6,teluguone-yupptv.vgcdn.net,https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
-Unique TV (576p),UniqueTV.in,IN Entertainment,YES,playing,2.8,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
-Vanitha TV (576p),VanithaTV.in,IN Entertainment,YES,playing,2.2,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/393/master.m3u8
-Vendhar TV (576p),VendharTV.in,IN Entertainment,YES,playing,2.2,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1271/master.m3u8
-Zee Bangla HD (720p),ZeeBangla.in@HD,IN Entertainment,YES,playing,0.3,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+Subin TV (1080p),SubinTV.in,IN Entertainment,YES,playing,2.5,stream.galaxyott.live,https://stream.galaxyott.live/live/subintv/index.m3u8
+Suriya TV (1080p),SuriyaTV.in,IN Entertainment,YES,playing,1.7,stream.ottlive.co.in,https://stream.ottlive.co.in/suryatvtamil/index.m3u8
+Tarang TV (720p),TarangTV.in,IN Entertainment,YES,playing,2.0,livetv.tarangplus.in,https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
+Telugu One (1080p),TeluguOne.in,IN Entertainment,YES,playing,0.7,teluguone-yupptv.vgcdn.net,https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
+Thanthi One (576p),ThanthiOne.in,IN Entertainment,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
+Unique TV (576p),UniqueTV.in,IN Entertainment,YES,playing,2.9,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
+Vanitha TV (576p),VanithaTV.in,IN Entertainment,YES,playing,2.3,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/393/master.m3u8
+Vanitha TV (576p),VanithaTV.in,IN Entertainment,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
+Vasanth TV (576p),VasanthTV.in,IN Entertainment,YES,playing,3.0,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
+Vendhar TV (576p),VendharTV.in,IN Entertainment,YES,playing,2.1,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1271/master.m3u8
+Vendhar TV (576p),VendharTV.in,IN Entertainment,YES,playing,2.9,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
+Vissa TV (576p),VissaTV.in,IN Entertainment,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
+YET TV (720p),YETTV.in,IN Entertainment,YES,playing,0.3,live.yettelevision.com:5443,https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+Zee Bangla HD (1080p),ZeeBangla.in@HD,IN Entertainment,YES,playing,1.6,103.165.93.31:8095,http://103.165.93.31:8095/zeeBangla/index.m3u8
+Zee Bangla HD (720p),ZeeBangla.in@HD,IN Entertainment,YES,playing,0.6,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 Zee Bangla Sonar (576p),ZeeBanglaSonar.in,IN Entertainment,YES,playing,0.6,d1g8wgjurz8via.cloudfront.net,https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-Zee Kannada HD (1080p),ZeeKannada.in@HD,IN Entertainment,YES,playing,2.4,yuppnimresmum.akamaized.net,https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-Zee Marathi HD (720p),ZeeMarathi.in@HD,IN Entertainment,YES,playing,0.3,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
-Zee Tamil HD (720p),ZeeTamil.in@HD,IN Entertainment,YES,playing,0.4,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
-Zodiak TV (1080p),ZodiakTV.in,IN Entertainment,YES,playing,2.4,ranacable.duckdns.org,https://ranacable.duckdns.org/ZodiakTv/index.m3u8
-A-Plus TV,APlusTV.pk,PK Entertainment,no,HTTP 400,0.6,103.86.135.164:9981,http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF
+Zee Bangla Sonar (576p),ZeeBanglaSonar.in,IN Entertainment,YES,playing,1.7,103.185.24.134:3001,http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
+Zee Kannada HD (1080p),ZeeKannada.in@HD,IN Entertainment,YES,playing,2.5,yuppnimresmum.akamaized.net,https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Zee Marathi HD (720p),ZeeMarathi.in@HD,IN Entertainment,YES,playing,0.4,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
+Zee Tamil HD (720p),ZeeTamil.in@HD,IN Entertainment,YES,playing,0.5,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
+Zodiak TV (1080p),ZodiakTV.in,IN Entertainment,YES,playing,2.6,ranacable.duckdns.org,https://ranacable.duckdns.org/ZodiakTv/index.m3u8
+A-Plus TV,APlusTV.pk,PK Entertainment,no,HTTP 400,0.5,103.86.135.164:9981,http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF
 A-Plus TV (576p),APlusTV.pk,PK Entertainment,no,unreachable (timed out),8.0,115.42.65.142:9981,http://115.42.65.142:9981/stream/channelid/113328724
-Aaj Entertainment (1080p),AajEntertainment.pk,PK Entertainment,no,unreachable (timed out),8.0,ml-pull-dvc-myco.io:2096,https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
-Aakaash Aath (576p),AakaashAath.in,IN Entertainment,no,HTTP 404,0.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
-Aamar Bangla (720p),AamarBangla.in,IN Entertainment,no,HTTP 500,0.4,app.ncare.live,https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 Amrita TV (576p),AmritaTV.in,IN Entertainment,no,segment HTTP 404,1.3,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/220/master.m3u8
-Anjan TV (720p),AnjanTV.in,IN Entertainment,no,unreachable ([Errno 111] Connection refused),0.4,anjan.vstream.online,https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
-Asianet Middle East (576p),AsianetMiddleEast.in,IN Entertainment,no,HTTP 404,0.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+Anjan TV (720p),AnjanTV.in,IN Entertainment,no,unreachable ([Errno 111] Connection refused),0.3,anjan.vstream.online,https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
 ATV (1080p),ATV.pk,PK Entertainment,no,unreachable (timed out),8.0,115.42.65.142:9981,http://115.42.65.142:9981/stream/channelid/299762256
 AVT Khyber (1080p),AVTKhyber.pk,PK Entertainment,no,unreachable (timed out),8.0,115.42.65.142:9981,http://115.42.65.142:9981/stream/channelid/1380586642
-Big Magic (576p),BigMagic.in,IN Entertainment,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/13/13_0.m3u8
-Brio TV (576p),BrioTV.in,IN Entertainment,no,HTTP 404,0.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HBRIOTV/index.m3u8
-Colors Bangla HD (1080p),ColorsBangla.in@HD,IN Entertainment,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/756.m3u8
-Colors Infinity (576p),ColorsInfinity.in,IN Entertainment,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/29/29_0.m3u8
-Colors Infinity HD (1080p),ColorsInfinity.in@HD,IN Entertainment,no,unreachable ([Errno 111] Connection refused),0.3,149.71.34.166:8002,http://149.71.34.166:8002/play/a01d/index.m3u8
-Colors Marathi (576p),ColorsMarathi.in,IN Entertainment,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/1326.m3u8
-Colors Marathi HD (1080p),ColorsMarathi.in@HD,IN Entertainment,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/755.m3u8
-Dangal 2 (576p),Dangal2.in,IN Entertainment,no,HTTP 404,0.7,tvsen3.aynaott.com,https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8
-Darshana TV (576p),DarshanaTV.in,IN Entertainment,no,HTTP 404,0.9,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
-E 24 (576p),E24.in,IN Entertainment,no,TimeoutError,8.7,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
-Epic Bharat (576p),EpicBharat.in,IN Entertainment,no,HTTP 404,0.9,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
+Colors HD (1080p),Colors.in@HD,IN Entertainment,no,segment empty,1.8,66.102.126.10:8000,http://66.102.126.10:8000/play/a00a/index.m3u8
+Dangal 2 (576p),Dangal2.in,IN Entertainment,no,TimeoutError,8.5,tvsen3.aynaott.com,https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8
 Epic TV (576p),EpicTV.in,IN Entertainment,no,unreachable ([Errno 111] Connection refused),0.3,149.71.34.166:8000,http://149.71.34.166:8000/play/a00m/index.m3u8
-ETV Plus (396p),ETVPlus.in,IN Entertainment,no,variant manifest failed,0.3,yupplivegcpusa.yuppcdn.net,https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-Express Entertainment (1080p),ExpressEntertainment.pk,PK Entertainment,no,unreachable (timed out),8.2,ml-pull-dvc-myco.io:2096,https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
-Fakt Marathi (576p),FaktMarathi.in,IN Entertainment,no,HTTP 404,0.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
+ETV Plus (396p),ETVPlus.in,IN Entertainment,no,variant manifest failed,0.2,yupplivegcpusa.yuppcdn.net,https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 Fakt Marathi (576p),FaktMarathi.in,IN Entertainment,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/188/master.m3u8
 Flowers TV (576p),FlowersTV.in,IN Entertainment,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/634.m3u8
-Gangaur TV (576p),GangaurTV.in,IN Entertainment,no,HTTP 404,0.9,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4GANGAURTV/index.m3u8
 GTC Punjabi (576p),GTCPunjabi.in,IN Entertainment,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/772/master.m3u8
 GTC Punjabi (720p),GTCPunjabi.in,IN Entertainment,no,unreachable (timed out),8.0,103.213.31.109:90,http://103.213.31.109:90/FilmachiBhojpuri/playlist.m3u8
 Hi Dost! (576p),HiDost.in,IN Entertainment,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/713/master.m3u8
-Jaihind TV (576p),JaihindTV.in,IN Entertainment,no,TimeoutError,8.7,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
 Janapriyam TV (480p),JanapriyamTV.in,IN Entertainment,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/1455.m3u8
 Jaya Max (576p),JayaMax.in,IN Entertainment,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/420.m3u8
 Jaya TV (1080p),JayaTV.in,IN Entertainment,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/419.m3u8
-KCL TV (720p),KCLTV.in,IN Entertainment,no,segment HTTP 404,1.7,kcltv.livebox.co.in,https://kcltv.livebox.co.in/kclhls/live.m3u8
-Khushboo Bangla (576p),KhushbooBangla.in,IN Entertainment,no,HTTP 404,0.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
+KCL TV (720p),KCLTV.in,IN Entertainment,no,segment HTTP 404,1.8,kcltv.livebox.co.in,https://kcltv.livebox.co.in/kclhls/live.m3u8
 LTN Family (576p),LTNFamily.pk@SD,PK Entertainment,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a02j/index.m3u8
-Mahaa Max (576p),MahaaMax.in,IN Entertainment,no,HTTP 404,0.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8
-Manoranjan Prime (576p),ManoranjanPrime.in,IN Entertainment,no,HTTP 404,0.9,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
 Manoranjan TV (576p),ManoranjanTV.in,IN Entertainment,no,HTTP 404,0.7,tvsen6.aynaott.com,https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8
-Manoranjan TV (576p),ManoranjanTV.in,IN Entertainment,no,HTTP 404,1.0,streams.tangotv.in,https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8
-Nepal 1 (576p),Nepal1.in,IN Entertainment,no,segment HTTP 404,2.6,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
+Nepal 1 (576p),Nepal1.in,IN Entertainment,no,segment HTTP 404,2.8,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
 NTC TV (720p),NTCTV.in,IN Entertainment,no,segment HTTP 404,2.5,galaxyott.live,https://galaxyott.live/hls/ntv.m3u8
-Oli TV (1080p),OliTV.in,IN Entertainment,no,HTTP 404,0.9,live.olidigital.in,https://live.olidigital.in/olitv/olitv/index.m3u8
-Pasand TV (576p),PasandTV.in,IN Entertainment,no,HTTP 404,0.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3PASANDTV/index.m3u8
 Pasand TV (576p),PasandTV.in,IN Entertainment,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/708/master.m3u8
 Pashto 1 (1080p),Pashto1.pk,PK Entertainment,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a00t/index.m3u8
-Pear TV (576p),PearTV.in,IN Entertainment,no,HTTP 404,0.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
 Pear TV (576p),PearTV.in,IN Entertainment,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/695/master.m3u8
 Play Entertainment (576p),PlayEntertainment.pk,PK Entertainment,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a050/index.m3u8
-Polimer TV (576p),PolimerTV.in,IN Entertainment,no,HTTP 404,0.9,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
 PTC Punjabi Gold (576p),PTCPunjabiGold.in,IN Entertainment,no,HTTP 404,1.0,streams.tangotv.in,https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
-SAB TV (1080p),SABTV.pk,PK Entertainment,no,unreachable (timed out),8.0,ml-pull-dvc-myco.io:2096,https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
-Shemaroo TV (576p),ShemarooTV.in,IN Entertainment,no,HTTP 404,1.0,streams.tangotv.in,https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8
+Rupasi Bangla (576p),RupasiBangla.in,IN Entertainment,no,segment HTTP 404,2.6,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
+SAB TV (1080p),SABTV.pk,PK Entertainment,no,HTTP 404,1.0,ml-pull-dvc-myco.io:2096,https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 Shemaroo Umang (576p),ShemarooUmang.in,IN Entertainment,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/258/master.m3u8
-Siri Kannada (576p),SiriKannada.in,IN Entertainment,no,HTTP 404,0.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
-Siri Kannada All Time (576p),SiriKannadaAllTime.in,IN Entertainment,no,HTTP 404,0.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
+Siri Kannada (576p),SiriKannada.in,IN Entertainment,no,segment HTTP 404,2.7,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
 Sony Entertainment Television HD (1080p),SonyEntertainmentTelevision.in@HD,IN Entertainment,no,HTTP 400,0.2,stb-air.wasmer.app,http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega
-Spondon (576p),Spondon.in,IN Entertainment,no,TimeoutError,8.7,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
+Sony Pal (576p),SonyPal.in,IN Entertainment,no,segment empty,1.7,59.103.38.46:8000,http://59.103.38.46:8000/play/a0ac/index.m3u8
 Star Vijay HD (1080p),StarVijay.in@HD,IN Entertainment,no,unreachable ([Errno 111] Connection refused),0.3,149.71.34.166:8000,http://149.71.34.166:8000/play/a06i/index.m3u8
-Thanthi One (576p),ThanthiOne.in,IN Entertainment,no,HTTP 404,0.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
 Unique TV (576p),UniqueTV.in,IN Entertainment,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/688/master.m3u8
-Vanitha TV (576p),VanithaTV.in,IN Entertainment,no,HTTP 404,0.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
-Vasanth TV (576p),VasanthTV.in,IN Entertainment,no,TimeoutError,8.7,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
-Vendhar TV (576p),VendharTV.in,IN Entertainment,no,TimeoutError,8.7,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
-Vissa TV (576p),VissaTV.in,IN Entertainment,no,HTTP 404,0.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
-YET TV (720p),YETTV.in,IN Entertainment,no,HTTP 404,0.1,live.yettelevision.com:5443,https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 Zee Comedy Nation (1080p),ZeeComedyNation.in,IN Entertainment,no,HTTP 403,0.0,amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv,https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 Zee Dil Se (1080p),ZeeDilSe.in,IN Entertainment,no,HTTP 403,0.0,amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv,https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-Zee Horror Nights (1080p),ZeeHorrorNights.in,IN Entertainment,no,HTTP 403,0.1,amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv,https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+Zee Horror Nights (1080p),ZeeHorrorNights.in,IN Entertainment,no,HTTP 403,0.0,amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv,https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 Zee Yuva (576p),ZeeYuva.in,IN Entertainment,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/414.m3u8

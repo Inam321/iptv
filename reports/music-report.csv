@@ -1,92 +1,93 @@
 channel,tvg_id,group,working,reason,seconds,host,url
+7S Music (576p),7SMusic.in,IN Music,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 9X Jalwa (1080p),9XJalwa.in,IN Music,YES,playing,0.7,wiselp.wiseplayout.com,https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-9X Jalwa (576p),9XJalwa.in,IN Music,YES,playing,2.8,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
-9X Jhakaas (1080p),9XJhakaas.in,IN Music,YES,playing,0.7,wiselp.wiseplayout.com,https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-9X Jhakaas (1080p),9XJhakaas.in,IN Music,YES,playing,1.6,amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv,https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-9X Jhakaas (576p),9XJhakaas.in,IN Music,YES,playing,2.8,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
-9X Tashan (1080p),9XTashan.in,IN Music,YES,playing,0.5,wiselp.wiseplayout.com,https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-9X Tashan (1080p),9XTashan.in,IN Music,YES,playing,1.8,amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv,https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-9X Tashan (576p),9XTashan.in,IN Music,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
-9XM (1080p),9XM.in,IN Music,YES,playing,0.6,wiselp.wiseplayout.com,https://wiselp.wiseplayout.com/9XM/master.m3u8
-9XM (1080p),9XM.in,IN Music,YES,playing,3.1,9xjio.wiseplayout.com,https://9xjio.wiseplayout.com/9XM/master.m3u8
-Aaryaa TV (1080p),AaryaaTV.in,IN Music,YES,playing,2.6,stream.ottlive.co.in,https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+9X Jalwa (576p),9XJalwa.in,IN Music,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+9X Jhakaas (1080p),9XJhakaas.in,IN Music,YES,playing,0.9,wiselp.wiseplayout.com,https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+9X Jhakaas (1080p),9XJhakaas.in,IN Music,YES,playing,1.7,amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv,https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+9X Jhakaas (576p),9XJhakaas.in,IN Music,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
+9X Tashan (1080p),9XTashan.in,IN Music,YES,playing,0.7,wiselp.wiseplayout.com,https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+9X Tashan (1080p),9XTashan.in,IN Music,YES,playing,1.7,amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv,https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+9X Tashan (576p),9XTashan.in,IN Music,YES,playing,3.0,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
+9XM (1080p),9XM.in,IN Music,YES,playing,0.8,wiselp.wiseplayout.com,https://wiselp.wiseplayout.com/9XM/master.m3u8
+9XM (1080p),9XM.in,IN Music,YES,playing,3.4,9xjio.wiseplayout.com,https://9xjio.wiseplayout.com/9XM/master.m3u8
+Aaryaa TV (1080p),AaryaaTV.in,IN Music,YES,playing,2.8,stream.ottlive.co.in,https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+Andy Haryana (576p),AndyHaryana.in,IN Music,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
 B4U Music (576p),B4UMusic.in,IN Music,YES,playing,2.2,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/415/master.m3u8
-Balle Balle,BalleBalle.in,IN Music,YES,playing,2.2,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/987/master.m3u8
-Balle Balle (720p),BalleBalle.in,IN Music,YES,playing,0.8,mcncdndigital.com,https://mcncdndigital.com/balleballetv/index.m3u8
-Deewana HD (540p),DeewanaHD.in,IN Music,YES,playing,0.7,live20.bozztv.com,https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
-Dhool TV (576p),DhoolTV.in,IN Music,YES,playing,0.9,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
-Dhoom Music (720p),DhoomMusic.in,IN Music,YES,playing,2.2,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/1456/master.m3u8
-Epic Music Digital (1080p),EpicMusic.in@Digital,IN Music,YES,playing,3.6,cc-3cyxq80qusspd.akamaized.net,https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
-ETV Music (1080p),ETVMusic.in@HD,IN Music,YES,playing,1.4,cc-szivnms4rlah6.akamaized.net,https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+B4U Music (576p),B4UMusic.in,IN Music,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+Balle Balle,BalleBalle.in,IN Music,YES,playing,2.1,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/987/master.m3u8
+Balle Balle (576p),BalleBalle.in,IN Music,YES,playing,3.3,streams.tangotv.in,https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
+Balle Balle (720p),BalleBalle.in,IN Music,YES,playing,0.9,mcncdndigital.com,https://mcncdndigital.com/balleballetv/index.m3u8
+Dhool TV (576p),DhoolTV.in,IN Music,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
+Dhoom Music (576p),DhoomMusic.in,IN Music,YES,playing,2.9,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+Dhoom Music (720p),DhoomMusic.in,IN Music,YES,playing,2.3,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/1456/master.m3u8
+Epic Music (576p),EpicMusic.in,IN Music,YES,playing,3.0,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+Epic Music (576p),EpicMusic.in,IN Music,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
+Epic Music Digital (1080p),EpicMusic.in@Digital,IN Music,YES,playing,2.9,cc-3cyxq80qusspd.akamaized.net,https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+ETV Music (1080p),ETVMusic.in@HD,IN Music,YES,playing,2.0,cc-szivnms4rlah6.akamaized.net,https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 Insync (576p),Insync.in,IN Music,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
-Isai Aruvi (396p),IsaiAruvi.in,IN Music,YES,playing,0.4,segment.yuppcdn.net,https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-Isai Aruvi (576p),IsaiAruvi.in,IN Music,YES,playing,0.8,ptuf.ridsys.in,http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
+Insync (576p),Insync.in,IN Music,YES,playing,3.0,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
+Isai Aruvi (396p),IsaiAruvi.in,IN Music,YES,playing,0.1,segment.yuppcdn.net,https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+Isai Aruvi (576p),IsaiAruvi.in,IN Music,YES,playing,0.7,ptuf.ridsys.in,http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
 Jalwa TV,JalwaTV.pk,PK Music,YES,playing,1.6,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
-JooMusic (720p),JooMusic.pk,PK Music,YES,playing,1.6,livecdn.live247stream.com,https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+JooMusic (720p),JooMusic.pk,PK Music,YES,playing,1.7,livecdn.live247stream.com,https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 Kalika TV (576p),KalikaTV.in,IN Music,YES,playing,1.1,server.applelive.in,http://server.applelive.in/kalikatv/kalikatv.m3u8
-Music India (576p),MusicIndia.in,IN Music,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+Music India (576p),MusicIndia.in,IN Music,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 Music India (720p) [Not 24/7],MusicIndia.in,IN Music,YES,playing,2.2,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/226/master.m3u8
 Orange Bangla TV (720p),OrangeBanglaTV.in,IN Music,YES,playing,2.1,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1499/master.m3u8
 Peppers TV (576p),PeppersTV.in,IN Music,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
 Peppers TV (751p),PeppersTV.in,IN Music,YES,playing,2.2,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1383/master.m3u8
-PTC Chakde (576p),PTCChakde.in,IN Music,YES,playing,2.8,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
-PTC Chakde (720p),PTCChakde.in,IN Music,YES,playing,2.5,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/449/master.m3u8
-PTC Music,PTCMusic.in,IN Music,YES,playing,2.2,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1501/master.m3u8
-PTC Music (576p),PTCMusic.in,IN Music,YES,playing,5.3,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
-PTC Music (720p),PTCMusic.in,IN Music,YES,playing,0.8,d2lk5u59tns74c.cloudfront.net,https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+PTC Chakde (576p),PTCChakde.in,IN Music,YES,playing,3.0,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
+PTC Chakde (720p),PTCChakde.in,IN Music,YES,playing,2.2,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/449/master.m3u8
+PTC Music,PTCMusic.in,IN Music,YES,playing,2.1,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1501/master.m3u8
+PTC Music (576p),PTCMusic.in,IN Music,YES,playing,2.9,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
+PTC Music (720p),PTCMusic.in,IN Music,YES,playing,0.9,d2lk5u59tns74c.cloudfront.net,https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+Public Music (576p),PublicMusic.in,IN Music,YES,playing,3.0,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
 Public Music (720p) [Not 24/7],PublicMusic.in,IN Music,YES,playing,2.2,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/441/master.m3u8
-Punjabi Hits (1080p),PunjabiHits.in,IN Music,YES,playing,5.4,stream.ottlive.co.in,https://stream.ottlive.co.in/punjabihits/index.m3u8
-Raj Musix Tamil (1080p),RajMusixTamil.in,IN Music,YES,playing,4.1,livestream.rajtv.tv,https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+Punjabi Hits (1080p),PunjabiHits.in,IN Music,YES,playing,5.1,stream.ottlive.co.in,https://stream.ottlive.co.in/punjabihits/index.m3u8
+Raj Musix Tamil (1080p),RajMusixTamil.in,IN Music,YES,playing,4.4,livestream.rajtv.tv,https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+Raj Musix Telugu (576p),RajMusixTelugu.in,IN Music,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
 Raj Musix Telugu (720p),RajMusixTelugu.in,IN Music,YES,playing,2.2,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/1213/master.m3u8
 Sana Plus (1080p),SanaPlus.in,IN Music,YES,playing,3.3,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
-Sana Plus (1080p) [Not 24/7],SanaPlus.in,IN Music,YES,playing,2.5,galaxyott.live,https://galaxyott.live/hls/sanaplus.m3u8
-Sangeet Bangla (576p),SangeetBangla.in,IN Music,YES,playing,2.8,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
+Sana Plus (1080p) [Not 24/7],SanaPlus.in,IN Music,YES,playing,3.9,galaxyott.live,https://galaxyott.live/hls/sanaplus.m3u8
+Sangeet Bangla (576p),SangeetBangla.in,IN Music,YES,playing,1.6,103.165.93.31:8095,http://103.165.93.31:8095/sangeetBangla/index.m3u8
 Sangeet Bangla (720p),SangeetBangla.in,IN Music,YES,playing,2.1,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1143/master.m3u8
-Sangeet Bhojpuri (576p),SangeetBhojpuri.in,IN Music,YES,playing,2.2,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1293/master.m3u8
+Sangeet Bhojpuri (576p),SangeetBhojpuri.in,IN Music,YES,playing,2.1,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1293/master.m3u8
 Sangeet Bhojpuri (576p),SangeetBhojpuri.in,IN Music,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
-Sangeet Marathi (720p),SangeetMarathi.in,IN Music,YES,playing,2.1,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1229/master.m3u8
-Songdew TV (396p),SongdewTV.in,IN Music,YES,playing,2.1,yuppnimrestreammum.akamaized.net,https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-Steelbird Music (720p) [Not 24/7],SteelbirdMusic.in,IN Music,YES,playing,2.1,cdn2.in,https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-Tabbar Hits (1080p),TabbarHits.in,IN Music,YES,playing,2.5,vglivessai.akamaized.net,https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
-Tarang Music (720p),TarangMusic.in,IN Music,YES,playing,1.2,livetv.tarangplus.in,https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
-Ultimate TV (1080p),UltimateTV.in,IN Music,YES,playing,5.0,stream.ottlive.co.in,https://stream.ottlive.co.in/utvtamil/index.m3u8
-Vaanavil TV (720p),VaanavilTV.in,IN Music,YES,playing,1.6,6n3yope4d9ok-hls-live.5centscdn.com,https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-YET Max (720p),YETMax.in,IN Music,YES,playing,0.4,live.yettelevision.com:5443,https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
-YRF Music (1080p),YRFMusic.in,IN Music,YES,playing,0.7,cdn-uw2-prod.tsv2.amagi.tv,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-ZB Music (720p),ZBMusic.in,IN Music,YES,playing,3.4,server.zillarbarta.com,https://server.zillarbarta.com/zbmusic/index.m3u8
+Sangeet Marathi (576p),SangeetMarathi.in,IN Music,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
+Sangeet Marathi (720p),SangeetMarathi.in,IN Music,YES,playing,2.2,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1229/master.m3u8
+Songdew TV (396p),SongdewTV.in,IN Music,YES,playing,2.3,yuppnimrestreammum.akamaized.net,https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Steelbird Music (720p) [Not 24/7],SteelbirdMusic.in,IN Music,YES,playing,2.6,cdn2.in,https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+Tabbar Hits (1080p),TabbarHits.in,IN Music,YES,playing,2.6,vglivessai.akamaized.net,https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
+Tabbar Hits (576p),TabbarHits.in,IN Music,YES,playing,3.3,streams.tangotv.in,https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8
+Tarang Music (720p),TarangMusic.in,IN Music,YES,playing,1.9,livetv.tarangplus.in,https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+Ultimate TV (1080p),UltimateTV.in,IN Music,YES,playing,5.2,stream.ottlive.co.in,https://stream.ottlive.co.in/utvtamil/index.m3u8
+Ultimate TV (576p),UltimateTV.in,IN Music,YES,playing,3.3,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/utv/index.m3u8
+Vaanavil TV (576p),VaanavilTV.in,IN Music,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8
+Vaanavil TV (720p),VaanavilTV.in,IN Music,YES,playing,1.1,6n3yope4d9ok-hls-live.5centscdn.com,https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+YET Max (720p),YETMax.in,IN Music,YES,playing,0.3,live.yettelevision.com:5443,https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
+YRF Music (1080p),YRFMusic.in,IN Music,YES,playing,0.8,cdn-uw2-prod.tsv2.amagi.tv,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+ZB Music (720p),ZBMusic.in,IN Music,YES,playing,3.7,server.zillarbarta.com,https://server.zillarbarta.com/zbmusic/index.m3u8
 Zoom (576p),Zoom.in,IN Music,YES,playing,1.5,d2esfk1pb9cdob.cloudfront.net,https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-Zoom (720p),Zoom.in,IN Music,YES,playing,0.5,dai.google.com,https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-7S Music (576p),7SMusic.in,IN Music,no,HTTP 404,0.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
+Zoom (720p),Zoom.in,IN Music,YES,playing,0.9,dai.google.com,https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 8XM (576p),8XM.pk,PK Music,no,unreachable (timed out),8.0,115.42.65.142:9981,http://115.42.65.142:9981/stream/channelid/582886861
 9X Jalwa (576p),9XJalwa.in,IN Music,no,HTTP 404,0.7,tvsen6.aynaott.com,https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8
-9XM (1080p),9XM.in,IN Music,no,manifest has no segments,0.8,epiconvh.akamaized.net,https://epiconvh.akamaized.net/live/9XM/master.m3u8
-Andy Haryana (576p),AndyHaryana.in,IN Music,no,HTTP 404,0.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
-ARY Musik (1080p),ARYMusik.pk,PK Music,no,HTTP 403,0.4,arymusik.aryzap.com,https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
-B4U Music (576p),B4UMusic.in,IN Music,no,segment HTTP 404,3.0,streams.tangotv.in,https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
-B4U Music APAC (720p),B4UMusic.in@APAC,IN Music,no,too little data,0.8,s3.itcnbd.live,https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
-Balle Balle (576p),BalleBalle.in,IN Music,no,HTTP 404,1.0,streams.tangotv.in,https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
+9XM (1080p),9XM.in,IN Music,no,manifest has no segments,0.6,epiconvh.akamaized.net,https://epiconvh.akamaized.net/live/9XM/master.m3u8
+ARY Musik (1080p),ARYMusik.pk,PK Music,no,HTTP 403,0.9,arymusik.aryzap.com,https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+B4U Music (576p),B4UMusic.in,IN Music,no,TimeoutError,8.5,tvsen3.aynaott.com,https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8
+Deewana HD (540p),DeewanaHD.in,IN Music,no,HTTP 502,0.2,live20.bozztv.com,https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 Dhool TV (576p),DhoolTV.in,IN Music,no,TimeoutError,8.7,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8
-Dhoom Music (576p),DhoomMusic.in,IN Music,no,HTTP 404,0.9,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
-Epic Music (576p),EpicMusic.in,IN Music,no,HTTP 404,0.9,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-Epic Music (576p),EpicMusic.in,IN Music,no,HTTP 404,1.0,streams.tangotv.in,https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
-ETV Beats (1080p),ETVBeats.in,IN Music,no,segment HTTP 404,2.4,jmp2.uk,https://jmp2.uk/stvp-IN4900002RV
+ETV Beats (1080p),ETVBeats.in,IN Music,no,segment HTTP 404,1.7,jmp2.uk,https://jmp2.uk/stvp-IN4900002RV
 ETV Music (1080p),ETVMusic.in,IN Music,no,unreachable ([Errno -5] No address associated with ho),0.0,dg3721c3ez5m0.cloudfront.net,https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
 Insync (576p),Insync.in,IN Music,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/160/master.m3u8
-Insync (576p),Insync.in,IN Music,no,TimeoutError,8.7,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 Jalwa TV,JalwaTV.pk,PK Music,no,unreachable ([Errno 111] Connection refused),0.3,119.156.228.231:9983,http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
 PTC Chakde (576p),PTCChakde.in,IN Music,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/180/master.m3u8
-Public Music (576p),PublicMusic.in,IN Music,no,TimeoutError,8.7,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
-Raj Musix Telugu (576p),RajMusixTelugu.in,IN Music,no,HTTP 404,0.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
+Sangeet Bangla (576p),SangeetBangla.in,IN Music,no,segment HTTP 404,2.7,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 Sangeet Bhojpuri (1080p),SangeetBhojpuri.in,IN Music,no,unreachable (timed out),8.0,103.213.31.109:90,http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8
-Sangeet Marathi (576p),SangeetMarathi.in,IN Music,no,TimeoutError,8.7,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
 Shemaroo Filmi Gaane (1080p),ShemarooFilmiGaane.in,IN Music,no,HTTP 403,0.0,prod-runn.cdn.runn.tv,https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 Shemaroo Filmi Gaane (1080p),ShemarooFilmiGaane.in,IN Music,no,unreachable (timed out),8.0,103.213.31.109:90,http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
 Songdew TV (576p),SongdewTV.in,IN Music,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/1411.m3u8
-Tabbar Hits (576p),TabbarHits.in,IN Music,no,HTTP 404,1.0,streams.tangotv.in,https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8
-Tunes 6 (720p),Tunes6.in,IN Music,no,segment HTTP 404,44.1,stream.d6-pro.com,https://stream.d6-pro.com/tunes6music/live/video.m3u8
-Ultimate TV (576p),UltimateTV.in,IN Music,no,segment HTTP 404,2.9,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/utv/index.m3u8
-Vaanavil TV (576p),VaanavilTV.in,IN Music,no,HTTP 404,0.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8
-Vijay Takkar APAC (1080p),VijayTakkar.in@APAC,IN Music,no,too little data,0.2,tglmp01.akamaized.net,https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+Tunes 6 (720p),Tunes6.in,IN Music,no,segment HTTP 404,35.4,stream.d6-pro.com,https://stream.d6-pro.com/tunes6music/live/video.m3u8
+Vijay Takkar APAC (1080p),VijayTakkar.in@APAC,IN Music,no,too little data,0.7,tglmp01.akamaized.net,https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 YRF Music (1080p),YRFMusic.in,IN Music,no,unreachable ([Errno -5] No address associated with ho),0.0,d14c63magvk61v.cloudfront.net,https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
 Zing! (576p),Zing.in,IN Music,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/585.m3u8
 Zoom Global (720p),Zoom.in@Global,IN Music,no,unreachable ([Errno -5] No address associated with ho),0.0,d14c63magvk61v.cloudfront.net,https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
