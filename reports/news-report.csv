@@ -1,370 +1,371 @@
 channel,tvg_id,group,working,reason,seconds,host,url
-22Scope News (1080p),22ScopeNews.in,IN News,YES,playing,3.4,thelegitpro.in,https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
-24 News (396p),24News.in,IN News,YES,playing,0.6,segment.yuppcdn.net,https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-24 News (576p),24News.in,IN News,YES,playing,3.1,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
-24 News HD,24NewsHD.pk,PK News,YES,playing,1.4,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
-365 News,365News.pk,PK News,YES,playing,1.4,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
-6 TV Telugu (360p),6TVTelugu.in,IN News,YES,playing,3.1,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8
-6 TV Telugu (576p),6TVTelugu.in,IN News,YES,playing,1.3,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-7 News (720p),7News.pk,PK News,YES,playing,1.9,sscsott.com,https://sscsott.com/7news/live/index.m3u8
-92 News HD (720p),92NewsHD.pk,PK News,YES,playing,0.7,92news.vdn.dstreamone.net,http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-Aaj Ki Khabar (1080p),AajKiKhabar.in,IN News,YES,playing,5.4,stream.ottlive.co.in,https://stream.ottlive.co.in/aajkikhabar/index.m3u8
-Aaj Tak (404p),AajTak.in,IN News,YES,playing,1.9,aajtaklive-amd.akamaized.net,https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
-Aaj Tak (720p),AajTak.in,IN News,YES,playing,0.3,d1rc86nwwc9fag.cloudfront.net,https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8
-Aaj Tak HD (1080p),AajTak.in@HD,IN News,YES,playing,2.8,feeds.intoday.in,https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-ABN News (360p),ABNNews.pk,PK News,YES,playing,2.2,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
-ABP Ananda (1080p),ABPAnanda.in,IN News,YES,playing,2.3,d2l4ar6y3mrs4k.cloudfront.net,https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-ABP Asmita (1080p),ABPAsmita.in,IN News,YES,playing,1.5,d2l4ar6y3mrs4k.cloudfront.net,https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
-ABP Ganga (1080p),ABPGanga.in,IN News,YES,playing,2.3,d2l4ar6y3mrs4k.cloudfront.net,https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
-ABP Majha (360p),ABPMajha.in,IN News,YES,playing,0.7,yupprestreamliveus.akamaized.net,https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
-ABP News (1080p),ABPNews.in,IN News,YES,playing,0.6,d1rc86nwwc9fag.cloudfront.net,https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
-ABP News (1080p),ABPNews.in,IN News,YES,playing,2.3,d2l4ar6y3mrs4k.cloudfront.net,https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-Aik News,AikNews.pk@SD,PK News,YES,playing,1.3,s2.ideationtec.live,https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
-AmarUjala (1080p),AmarUjala.in,IN News,YES,playing,5.4,amarujala.ottlive.co.in,https://amarujala.ottlive.co.in/amarujala/index.m3u8
+22Scope News (1080p),22ScopeNews.in,IN News,YES,playing,2.9,thelegitpro.in,https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+24 News (396p),24News.in,IN News,YES,playing,0.5,segment.yuppcdn.net,https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+24 News (576p),24News.in,IN News,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
+24 News HD,24NewsHD.pk,PK News,YES,playing,1.2,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
+365 News,365News.pk,PK News,YES,playing,1.2,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
+6 TV Telugu (360p),6TVTelugu.in,IN News,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8
+6 TV Telugu (576p),6TVTelugu.in,IN News,YES,playing,1.1,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+92 News HD (720p),92NewsHD.pk,PK News,YES,playing,0.3,92news.vdn.dstreamone.net,http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+Aaj Ki Khabar (1080p),AajKiKhabar.in,IN News,YES,playing,5.2,stream.ottlive.co.in,https://stream.ottlive.co.in/aajkikhabar/index.m3u8
+Aaj Tak (404p),AajTak.in,IN News,YES,playing,0.7,aajtaklive-amd.akamaized.net,https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+Aaj Tak (720p),AajTak.in,IN News,YES,playing,0.2,d1rc86nwwc9fag.cloudfront.net,https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8
+Aaj Tak HD (1080p),AajTak.in@HD,IN News,YES,playing,1.1,feeds.intoday.in,https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+ABN Andhra Jyoti (720p),ABNAndhraJyoti.in,IN News,YES,playing,3.0,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
+ABN News (360p),ABNNews.pk,PK News,YES,playing,1.8,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+ABP Ananda (1080p),ABPAnanda.in,IN News,YES,playing,2.2,d2l4ar6y3mrs4k.cloudfront.net,https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+ABP Asmita (1080p),ABPAsmita.in,IN News,YES,playing,1.4,d2l4ar6y3mrs4k.cloudfront.net,https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
+ABP Ganga (1080p),ABPGanga.in,IN News,YES,playing,1.4,d2l4ar6y3mrs4k.cloudfront.net,https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+ABP Majha (360p),ABPMajha.in,IN News,YES,playing,0.6,yupprestreamliveus.akamaized.net,https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
+ABP News (1080p),ABPNews.in,IN News,YES,playing,0.4,d1rc86nwwc9fag.cloudfront.net,https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+ABP News (1080p),ABPNews.in,IN News,YES,playing,2.1,d2l4ar6y3mrs4k.cloudfront.net,https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+Aik News,AikNews.pk@SD,PK News,YES,playing,1.8,s2.ideationtec.live,https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
+AmarUjala (1080p),AmarUjala.in,IN News,YES,playing,5.2,amarujala.ottlive.co.in,https://amarujala.ottlive.co.in/amarujala/index.m3u8
 Ananda Barta (720p),AnandaBarta.in,IN News,YES,playing,2.4,account19.livebox.co.in,https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
-ANB News (576p),ANBNews.in,IN News,YES,playing,3.2,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8
-ANB News (720p),ANBNews.in,IN News,YES,playing,3.2,server.livelegitpro.in:9899,https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
-APN (576p),APN.in,IN News,YES,playing,0.9,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
-APN (576p),APN.in,IN News,YES,playing,3.0,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
-Argus News (576p),ArgusNews.in,IN News,YES,playing,3.1,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
+ANB News (576p),ANBNews.in,IN News,YES,playing,3.1,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2ANBNEWSNATIONAL/index.m3u8
+APN (576p),APN.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
+Argus News (576p),ArgusNews.in,IN News,YES,playing,3.0,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
 ARY News,ARYNews.pk,PK News,YES,playing,3.0,cdn07lhr.tamashaweb.com:8087,https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
-Asianet News (1080p),AsianetNews.in,IN News,YES,playing,2.4,asianet-samsung.vgcdn.net,https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
-Asianet News (1080p),AsianetNews.in,IN News,YES,playing,3.8,amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv,https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-Asianet News (360p),AsianetNews.in,IN News,YES,playing,2.3,asianetnews.vgcdn.net,https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
-Asianet Suvarna News (1080p),AsianetSuvarnaNews.in,IN News,YES,playing,2.6,asianetnews.vgcdn.net,https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
-Assam Talks (576p),AssamTalks.in,IN News,YES,playing,2.0,tvsen7.aynascope.net,http://tvsen7.aynascope.net/AssamTalks/index.m3u8
+Asianet News (1080p),AsianetNews.in,IN News,YES,playing,1.9,amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv,https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
+Asianet News (1080p),AsianetNews.in,IN News,YES,playing,2.1,asianet-samsung.vgcdn.net,https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
+Asianet News (360p),AsianetNews.in,IN News,YES,playing,0.7,asianetnews.vgcdn.net,https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
+Asianet Suvarna News (1080p),AsianetSuvarnaNews.in,IN News,YES,playing,2.1,asianetnews.vgcdn.net,https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+Assam Talks (576p),AssamTalks.in,IN News,YES,playing,1.9,tvsen7.aynascope.net,http://tvsen7.aynascope.net/AssamTalks/index.m3u8
 Assam Talks (576p),AssamTalks.in,IN News,YES,playing,3.0,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
-Awaaz India TV (720p),AwaazIndiaTV.in,IN News,YES,playing,2.4,awaazindia.livebox.co.in,https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-Bansal News (576p),BansalNews.in,IN News,YES,playing,0.9,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8
-Bansal News (576p),BansalNews.in,IN News,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlBANSALNEWS/index.m3u8
-Bharat Express (480p),BharatExpress.in,IN News,YES,playing,2.4,stream1.livebox.co.in,https://stream1.livebox.co.in/VCAREhls/live.m3u8
+Awaaz India TV (720p),AwaazIndiaTV.in,IN News,YES,playing,2.3,awaazindia.livebox.co.in,https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+Bansal News (576p),BansalNews.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8
+Bansal News (576p),BansalNews.in,IN News,YES,playing,3.1,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlBANSALNEWS/index.m3u8
+Bharat Express (480p),BharatExpress.in,IN News,YES,playing,2.0,stream1.livebox.co.in,https://stream1.livebox.co.in/VCAREhls/live.m3u8
 Bharat Express (576p),BharatExpress.in,IN News,YES,playing,3.1,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
-Bharat Samachar (396p),BharatSamachar.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8
-Bharat24 (576p),Bharat24.in,IN News,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8
-Big TV 24x7 (576i),BigTV24x7.in,IN News,YES,playing,0.6,d2gvyg6lvauoko.cloudfront.net,https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-Big TV 24x7 (576i),BigTV24x7.in,IN News,YES,playing,0.6,d2gvyg6lvauoko.cloudfront.net,https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+Bharat Samachar (396p),BharatSamachar.in,IN News,YES,playing,0.7,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8
+Bharat Samachar (576p),BharatSamachar.in,IN News,YES,playing,2.8,tvsen3.aynaott.com,https://tvsen3.aynaott.com/m94BZDYb/index.m3u8
+Bharat24 (576p),Bharat24.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8
+Big TV 24x7 (576i),BigTV24x7.in,IN News,YES,playing,0.5,d2gvyg6lvauoko.cloudfront.net,https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Big TV 24x7 (576i),BigTV24x7.in,IN News,YES,playing,0.5,d2gvyg6lvauoko.cloudfront.net,https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 BRK News (720p),BRKNews.in,IN News,YES,playing,3.2,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
-BT TV (720p),BTTV.in,IN News,YES,playing,3.1,feeds.intoday.in,https://feeds.intoday.in/bttv/itgd.m3u8
-Capital TV,CapitalTV.pk,PK News,YES,playing,1.4,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
-Chardikla Gurbaani TV (1080p),ChardiklaGurbaaniTV.in,IN News,YES,playing,0.7,chardikalatimestv.gigabitcdn.net,https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
-Chardikla Time TV (1080p),ChardiklaTimeTV.in,IN News,YES,playing,0.7,chardikalagurbanitv.gigabitcdn.net,https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
-Chardikla Time TV (576p),ChardiklaTimeTV.in,IN News,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/CHARDIKALATIMETV/ORIGIN/index.m3u8
-Chardikla Time TV North America (1080p),ChardiklaTimeTVNorthAmerica.in,IN News,YES,playing,0.8,chardikalanorthamerica.gigabitcdn.net,https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
-Cnews Bharat (720p),CnewsBharat.in,IN News,YES,playing,3.0,legitpro.co.in,https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
-CTVN AKD Plus (1080p),CTVNAKDPlus.in,IN News,YES,playing,4.1,live.legitpro.co.in,https://live.legitpro.co.in/ctvnakdplus/index.m3u8
-CVR English (576p),CVREnglish.in,IN News,YES,playing,2.7,yuppnimrestreammum.akamaized.net,https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-Daily Post TV (1080p),DailyPostTV.in,IN News,YES,playing,3.4,vglivessai.akamaized.net,https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
-DD Mizoram (504p),DDMizoram.in,IN News,YES,playing,2.0,d2lk5u59tns74c.cloudfront.net,https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
-DD News (576p),DDNews.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8
-DD News HD (1080p),DDNews.in@HD,IN News,YES,playing,0.9,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-Dunya News (INT Feed) (720p),DunyaNews.pk,PK News,YES,playing,2.5,intl.dunyanews.tv,https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-Dunya News (INT Feed) (720p),DunyaNews.pk,PK News,YES,playing,4.9,imob.dunyanews.tv,https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-Ekamra Bharat Odia (400p),EkamraBharatOdia.in,IN News,YES,playing,3.1,live.ekamraott.com,https://live.ekamraott.com/bharat/bharat/index.m3u8
-ETV Andhra Pradesh (1080p),ETVAndhraPradesh.in,IN News,YES,playing,1.7,d1g35elx8qnif3.cloudfront.net,https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
-ETV News (1080p),ETVNews.in,IN News,YES,playing,3.3,cc-3448kp65yhc5w.akamaized.net,https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
-ETV Telangana (1080p),ETVTelangana.in,IN News,YES,playing,2.2,d37d7pfp7vjqhh.cloudfront.net,https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
-First India News (360p),FirstIndiaNews.in,IN News,YES,playing,1.4,xlbor37ydvaj-hls-live.wmncdn.net,https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
-First India News (576p),FirstIndiaNews.in,IN News,YES,playing,3.1,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
-Good News Today (720p),GoodNewsToday.in,IN News,YES,playing,2.3,aajtaklive.vgcdn.net,https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
-Good News Today (720p),GoodNewsToday.in,IN News,YES,playing,3.4,cc-89m9zu7a2upfe.akamaized.net,https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
-GTC News (576p),GTCNews.in,IN News,YES,playing,3.1,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8
-Guarantee News (1080p),GuaranteeNews.in,IN News,YES,playing,2.3,guaranteenews.in:8443,https://guaranteenews.in:8443/live/gnews/index.m3u8
-Guarantee News (576p),GuaranteeNews.in,IN News,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGAURANTEENEWS/index.m3u8
-Gujarat First (576p),GujaratFirst.in,IN News,YES,playing,0.9,d2gvyg6lvauoko.cloudfront.net,https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-Gujarat First (576p),GujaratFirst.in,IN News,YES,playing,3.1,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
-High News (480p),HighNews.in,IN News,YES,playing,1.3,highmedia.livebox.co.in,https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
-Hindi Khabar (396p),HindiKhabar.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
+BT TV (720p),BTTV.in,IN News,YES,playing,3.2,feeds.intoday.in,https://feeds.intoday.in/bttv/itgd.m3u8
+Capital TV,CapitalTV.pk,PK News,YES,playing,1.2,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
+Chardikla Gurbaani TV (1080p),ChardiklaGurbaaniTV.in,IN News,YES,playing,0.5,chardikalatimestv.gigabitcdn.net,https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
+Chardikla Time TV (1080p),ChardiklaTimeTV.in,IN News,YES,playing,0.5,chardikalagurbanitv.gigabitcdn.net,https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+Chardikla Time TV (576p),ChardiklaTimeTV.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/CHARDIKALATIMETV/ORIGIN/index.m3u8
+Chardikla Time TV North America (1080p),ChardiklaTimeTVNorthAmerica.in,IN News,YES,playing,0.5,chardikalanorthamerica.gigabitcdn.net,https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
+Cnews Bharat (720p),CnewsBharat.in,IN News,YES,playing,3.1,legitpro.co.in,https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
+CTVN AKD Plus (1080p),CTVNAKDPlus.in,IN News,YES,playing,4.2,live.legitpro.co.in,https://live.legitpro.co.in/ctvnakdplus/index.m3u8
+CVR English (576p),CVREnglish.in,IN News,YES,playing,1.4,yuppnimrestreammum.akamaized.net,https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Daily Post TV (1080p),DailyPostTV.in,IN News,YES,playing,3.6,vglivessai.akamaized.net,https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
+DD Mizoram (504p),DDMizoram.in,IN News,YES,playing,0.9,d2lk5u59tns74c.cloudfront.net,https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+DD News (576p),DDNews.in,IN News,YES,playing,2.9,streams.tangotv.in,https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8
+DD News HD (1080p),DDNews.in@HD,IN News,YES,playing,0.8,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+Dunya News (INT Feed) (720p),DunyaNews.pk,PK News,YES,playing,2.1,intl.dunyanews.tv,https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+Dunya News (INT Feed) (720p),DunyaNews.pk,PK News,YES,playing,3.3,imob.dunyanews.tv,https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+Ekamra Bharat Odia (400p),EkamraBharatOdia.in,IN News,YES,playing,3.2,live.ekamraott.com,https://live.ekamraott.com/bharat/bharat/index.m3u8
+ETV Andhra Pradesh (1080p),ETVAndhraPradesh.in,IN News,YES,playing,1.3,d1g35elx8qnif3.cloudfront.net,https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
+ETV News (1080p),ETVNews.in,IN News,YES,playing,0.2,cc-3448kp65yhc5w.akamaized.net,https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+ETV Telangana (1080p),ETVTelangana.in,IN News,YES,playing,2.3,d37d7pfp7vjqhh.cloudfront.net,https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
+First India News (360p),FirstIndiaNews.in,IN News,YES,playing,1.9,xlbor37ydvaj-hls-live.wmncdn.net,https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+First India News (576p),FirstIndiaNews.in,IN News,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
+Global Punjab (1080p),GlobalPunjab.in,IN News,YES,playing,3.6,server.livelegitpro.in,https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+Good News Today (720p),GoodNewsToday.in,IN News,YES,playing,2.6,cc-89m9zu7a2upfe.akamaized.net,https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
+Good News Today (720p),GoodNewsToday.in,IN News,YES,playing,3.2,aajtaklive.vgcdn.net,https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
+GTC News (1080p),GTCNews.in,IN News,YES,playing,1.4,vglivessai.akamaized.net,https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
+GTC News (576p),GTCNews.in,IN News,YES,playing,2.8,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8
+Guarantee News (1080p),GuaranteeNews.in,IN News,YES,playing,1.9,guaranteenews.in:8443,https://guaranteenews.in:8443/live/gnews/index.m3u8
+Guarantee News (576p),GuaranteeNews.in,IN News,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGAURANTEENEWS/index.m3u8
+Gujarat First (576p),GujaratFirst.in,IN News,YES,playing,0.7,d2gvyg6lvauoko.cloudfront.net,https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Gujarat First (576p),GujaratFirst.in,IN News,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
+High News (480p),HighNews.in,IN News,YES,playing,1.2,highmedia.livebox.co.in,https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+Hindi Khabar (396p),HindiKhabar.in,IN News,YES,playing,0.7,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
 Hindi Khabar (576p),HindiKhabar.in,IN News,YES,playing,3.1,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8
 Hornbill TV (396p),HornbillTV.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 Hornbill TV (576p),HornbillTV.in,IN News,YES,playing,3.0,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
-IBC 24 (576p),IBC24.in,IN News,YES,playing,2.9,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
 IBC 24 (576p),IBC24.in,IN News,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8
-Ind 24 (576p),Ind24.in,IN News,YES,playing,3.0,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8
-India Daily Live (1080p),IndiaDailyLive.in,IN News,YES,playing,2.6,indiadaily.ottlive.co.in,https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
-India Today (720p),IndiaToday.in,IN News,YES,playing,0.3,d1rc86nwwc9fag.cloudfront.net,https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
-India Today (720p),IndiaToday.in,IN News,YES,playing,1.6,amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv,https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
-India Today (720p),IndiaToday.in,IN News,YES,playing,2.5,indiatodaylive.akamaized.net,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-India TV (576p),IndiaTV.in,IN News,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
-India TV (720p),IndiaTV.in,IN News,YES,playing,0.9,pl-indiatvnews.akamaized.net,https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-India TV Aap Ki Adalat (1080p),IndiaTVAapKiAdalat.in,IN News,YES,playing,3.3,amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv,https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
-India TV Speed News (1080p),IndiaTVSpeedNews.in,IN News,YES,playing,2.1,cc-lyf4c0hwzg5dd.akamaized.net,https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
-India TV Speed News (1080p),IndiaTVSpeedNews.in,IN News,YES,playing,3.7,cc-lyf4c0hwzg5dd.akamaized.net,https://cc-lyf4c0hwzg5dd.akamaized.net/v1/vglive-sk-479089/main.m3u8
-India Voice (576p),IndiaVoice.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
-INews (576p),INews.in,IN News,YES,playing,2.7,yuppnimresmum.akamaized.net,https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-INews (576p),INews.in,IN News,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8
-INH 24x7 (360p),INH24x7.in,IN News,YES,playing,1.4,7epd6o8edk9b-hls-live.wmncdn.net,https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+IBC 24 (576p),IBC24.in,IN News,YES,playing,3.0,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
+Ind 24 (576p),Ind24.in,IN News,YES,playing,3.1,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8
+India Ahead (576p),IndiaAhead.in,IN News,YES,playing,3.0,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
+India Daily Live (1080p),IndiaDailyLive.in,IN News,YES,playing,0.9,indiadaily.ottlive.co.in,https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
+India Today (720p),IndiaToday.in,IN News,YES,playing,0.5,amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv,https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
+India Today (720p),IndiaToday.in,IN News,YES,playing,0.8,d1rc86nwwc9fag.cloudfront.net,https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
+India Today (720p),IndiaToday.in,IN News,YES,playing,2.7,indiatodaylive.akamaized.net,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+India TV (576p),IndiaTV.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
+India TV (720p),IndiaTV.in,IN News,YES,playing,0.5,pl-indiatvnews.akamaized.net,https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+India TV Aap Ki Adalat (1080p),IndiaTVAapKiAdalat.in,IN News,YES,playing,3.0,amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv,https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
+India TV Speed News (1080p),IndiaTVSpeedNews.in,IN News,YES,playing,3.1,cc-lyf4c0hwzg5dd.akamaized.net,https://cc-lyf4c0hwzg5dd.akamaized.net/v1/vglive-sk-479089/main.m3u8
+India TV Speed News (1080p),IndiaTVSpeedNews.in,IN News,YES,playing,3.4,cc-lyf4c0hwzg5dd.akamaized.net,https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
+India Voice (576p),IndiaVoice.in,IN News,YES,playing,0.7,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
+Indywood TV (720p),IndywoodTV.in,IN News,YES,playing,1.4,43wrzjnpqoxe-hls-live.wmncdn.net,https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+INews (576p),INews.in,IN News,YES,playing,1.8,yuppnimresmum.akamaized.net,https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+INews (576p),INews.in,IN News,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8
+INH 24x7 (360p),INH24x7.in,IN News,YES,playing,2.1,7epd6o8edk9b-hls-live.wmncdn.net,https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
 INH 24x7 (396p),INH24x7.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
 Jai Maharashtra (576p),JaiMaharashtra.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
-Janam TV (576p),JanamTV.in,IN News,YES,playing,0.8,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
+Janam TV (576p),JanamTV.in,IN News,YES,playing,0.4,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 Janam TV (576p),JanamTV.in,IN News,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8
-Janta TV (1080p),JantaTV.in,IN News,YES,playing,0.9,live.jswk.online,https://live.jswk.online/IK_RTPM/live/index.m3u8
-Jantantra TV (576p),JantantraTV.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8
-Jantantra TV (576p),JantantraTV.in,IN News,YES,playing,3.0,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8
+Janta TV (1080p),JantaTV.in,IN News,YES,playing,0.7,live.jswk.online,https://live.jswk.online/IK_RTPM/live/index.m3u8
+Jantantra TV (576p),JantantraTV.in,IN News,YES,playing,0.7,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8
+Jantantra TV (576p),JantantraTV.in,IN News,YES,playing,2.9,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8
 JK 24x7 News (720p),JK24x7News.in,IN News,YES,playing,2.4,live.gulistannews.in,https://live.gulistannews.in/hls/jk.m3u8
 K News India (576p),KNewsIndia.in,IN News,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8
 Kairali News (576p),KairaliNews.in,IN News,YES,playing,3.0,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
-Kalinga TV (576p),KalingaTV.in,IN News,YES,playing,3.0,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
+Kalinga TV (576p),KalingaTV.in,IN News,YES,playing,3.1,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
 Kashish News (576p),KashishNews.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/kashishnews/playlist.m3u8
-Kashish News (720p),KashishNews.in,IN News,YES,playing,2.7,server.thelegitpro.in,https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
-Khabar Fast (576p),KhabarFast.in,IN News,YES,playing,3.0,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4KHABARFAST/index.m3u8
-Khabrain Abhi Tak (396p),KhabrainAbhiTak.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8
-Kolkata TV (1080p),KolkataTV.in,IN News,YES,playing,1.5,cdn.ottlive.co.in,https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-Kolkata TV (576p),KolkataTV.in,IN News,YES,playing,2.6,tvsen6.aynaott.com,https://tvsen6.aynaott.com/kolkatatv/index.m3u8
-KTN News,KTNNews.pk,PK News,YES,playing,1.4,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/151M/chunks.m3u8
-KTN News (360p),KTNNews.pk,PK News,YES,playing,2.1,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
-Lahore News (720p),LahoreNews.pk,PK News,YES,playing,2.2,vcdn.dunyanews.tv,https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-Live India (576p),LiveIndia.in,IN News,YES,playing,0.7,ptuf.ridsys.in,http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
-Living India News (1080p),LivingIndiaNews.in,IN News,YES,playing,3.4,stream.ottlive.co.in,https://stream.ottlive.co.in/livingindia/index.m3u8
-Living India News (576p),LivingIndiaNews.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8
-M News (1080p),MNews.pk,PK News,YES,playing,3.4,cdn.rabta.stream,https://cdn.rabta.stream/M-News/index.m3u8
-Madhimugam TV (576p),MadhimugamTV.in,IN News,YES,playing,1.3,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-Madhimugam TV (576p),MadhimugamTV.in,IN News,YES,playing,3.1,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
+Kashish News (720p),KashishNews.in,IN News,YES,playing,2.8,server.thelegitpro.in,https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
+Khabar Fast (576p),KhabarFast.in,IN News,YES,playing,2.9,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4KHABARFAST/index.m3u8
+Khabrain Abhi Tak (396p),KhabrainAbhiTak.in,IN News,YES,playing,0.7,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8
+Khabrain Abhi Tak (576p),KhabrainAbhiTak.in,IN News,YES,playing,2.9,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2KHABRAINABHITAK/index.m3u8
+Kolkata TV (1080p),KolkataTV.in,IN News,YES,playing,2.2,cdn.ottlive.co.in,https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+Kolkata TV (576p),KolkataTV.in,IN News,YES,playing,2.7,tvsen6.aynaott.com,https://tvsen6.aynaott.com/kolkatatv/index.m3u8
+KTN News,KTNNews.pk,PK News,YES,playing,1.2,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/151M/chunks.m3u8
+KTN News (360p),KTNNews.pk,PK News,YES,playing,1.7,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
+Lahore News (720p),LahoreNews.pk,PK News,YES,playing,5.0,vcdn.dunyanews.tv,https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+Live India (576p),LiveIndia.in,IN News,YES,playing,0.6,ptuf.ridsys.in,http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
+Living India News (1080p),LivingIndiaNews.in,IN News,YES,playing,2.3,stream.ottlive.co.in,https://stream.ottlive.co.in/livingindia/index.m3u8
+Living India News (576p),LivingIndiaNews.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8
+M News (1080p),MNews.pk,PK News,YES,playing,3.0,cdn.rabta.stream,https://cdn.rabta.stream/M-News/index.m3u8
+Madhimugam TV (576p),MadhimugamTV.in,IN News,YES,playing,1.0,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Madhimugam TV (576p),MadhimugamTV.in,IN News,YES,playing,2.8,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 Mahaa News (576p),MahaaNews.in,IN News,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlMAHAANEWS/index.m3u8
-Malai Murasu TV (1080p),MalaiMurasuTV.in,IN News,YES,playing,2.3,amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv,https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
-Malai Murasu TV (576p),MalaiMurasuTV.in,IN News,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
-Manorama News (1080p),ManoramaNews.in,IN News,YES,playing,1.4,mmtvnews1.akamaized.net,https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
-Manorama News (576p),ManoramaNews.in,IN News,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8
+Malai Murasu TV (1080p),MalaiMurasuTV.in,IN News,YES,playing,2.1,amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv,https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
+Malai Murasu TV (576p),MalaiMurasuTV.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
+Manorama News (1080p),ManoramaNews.in,IN News,YES,playing,1.3,mmtvnews1.akamaized.net,https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+Manorama News (576p),ManoramaNews.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8
 Mantavya News (576p),MantavyaNews.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
-Mantavya News (576p),MantavyaNews.in,IN News,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8
-Mathrubhumi News,MathrubhumiNews.in,IN News,YES,playing,1.5,mathrubhumicdn.vidgyor.com,https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
-Mathrubhumi News (576p),MathrubhumiNews.in,IN News,YES,playing,0.7,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
-Mathrubhumi News (576p),MathrubhumiNews.in,IN News,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8
-Media One (576p),MediaOne.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8
-Mh 1 News (360p),Mh1News.in,IN News,YES,playing,0.7,livestream.jswk.online,https://livestream.jswk.online/mhonenews/live/index.m3u8
-Mirror Now (720p),MirrorNow.in,IN News,YES,playing,1.8,dai.google.com,https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
-Moon TV (576p),MoonTV.in,IN News,YES,playing,0.9,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+Mantavya News (576p),MantavyaNews.in,IN News,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8
+Mathrubhumi News,MathrubhumiNews.in,IN News,YES,playing,1.3,mathrubhumicdn.vidgyor.com,https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
+Mathrubhumi News (576p),MathrubhumiNews.in,IN News,YES,playing,0.4,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
+Mathrubhumi News (576p),MathrubhumiNews.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8
+Media One (576p),MediaOne.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8
+MediBizTV (720p),MediBizTV.in,IN News,YES,playing,0.6,43wrzjnpqoxe-hls-live.wmncdn.net,https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+Mh 1 News (360p),Mh1News.in,IN News,YES,playing,0.3,livestream.jswk.online,https://livestream.jswk.online/mhonenews/live/index.m3u8
+Mirror Now (720p),MirrorNow.in,IN News,YES,playing,1.7,dai.google.com,https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
+MKN Marathi (576p),MKNMarathi.in,IN News,YES,playing,8.1,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
+Moon TV (576p),MoonTV.in,IN News,YES,playing,0.7,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
 NDTV 24X7 (480p),NDTV24x7.in,IN News,YES,playing,0.5,ndtv24x7elemarchana.akamaized.net,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-NDTV 24x7 (720p),NDTV24x7.in,IN News,YES,playing,0.3,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
-NDTV India (480p),NDTVIndia.in,IN News,YES,playing,1.5,ndtvindiaelemarchana.akamaized.net,https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+NDTV 24x7 (720p),NDTV24x7.in,IN News,YES,playing,0.4,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
+NDTV India (480p),NDTVIndia.in,IN News,YES,playing,0.1,ndtvindiaelemarchana.akamaized.net,https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 NDTV India (720p),NDTVIndia.in,IN News,YES,playing,0.6,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8
-NDTV Madhya Pradesh Chhattisgarh (1080p),NDTVMadhyaPradeshChhattisgarh.in,IN News,YES,playing,2.7,ndtvregional.akamaized.net,https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
-NDTV Marathi (1080p),NDTVMarathi.in,IN News,YES,playing,2.9,web-ndtv-marathi.akamaized.net,https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
-NDTV Rajasthan (1080p),NDTVRajasthan.in,IN News,YES,playing,2.6,ndtvregional.akamaized.net,https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
+NDTV Madhya Pradesh Chhattisgarh (1080p),NDTVMadhyaPradeshChhattisgarh.in,IN News,YES,playing,1.4,ndtvregional.akamaized.net,https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
+NDTV Marathi (1080p),NDTVMarathi.in,IN News,YES,playing,1.7,web-ndtv-marathi.akamaized.net,https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+NDTV Rajasthan (1080p),NDTVRajasthan.in,IN News,YES,playing,1.1,ndtvregional.akamaized.net,https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
 NE News (576p),NENews.in,IN News,YES,playing,3.0,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8
-Neo News (1080p),NeoNews.pk,PK News,YES,playing,2.0,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
-News 1 India (396p),News1India.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
-News 1 India (576p),News1India.in,IN News,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
+Neo News (1080p),NeoNews.pk,PK News,YES,playing,1.7,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+News 1 India (396p),News1India.in,IN News,YES,playing,0.7,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
+News 1 India (576p),News1India.in,IN News,YES,playing,2.6,tvsen6.aynaott.com,https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
+News 1 India (576p),News1India.in,IN News,YES,playing,2.8,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
 News 1st (576p),News1st.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
-News 24 (576p),News24.in,IN News,YES,playing,2.7,tvsen5.aynaott.com,https://tvsen5.aynaott.com/News24/index.m3u8
+News 1st (576p),News1st.in,IN News,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8
 News 24 (576p),News24.in,IN News,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8
-News 24 (720p),News24.in,IN News,YES,playing,2.3,vidcdn.vidgyor.com,https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-News 24 MP & Chhattisgarh (576p),News24MPChhattisgarh.in,IN News,YES,playing,2.8,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8
-News 7 Tamil (576p),News7Tamil.in,IN News,YES,playing,0.9,segment.yuppcdn.net,https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-News 7 Tamil (576p),News7Tamil.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/NEWS7TAMIL/ORIGIN/index.m3u8
-News Live Bangla (576p),NewsLiveBangla.in,IN News,YES,playing,3.0,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
-News Nation (1080p),NewsNation.in,IN News,YES,playing,0.9,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-News Nation (576p),NewsNation.in,IN News,YES,playing,2.9,streams.tangotv.in,https://streams.tangotv.in/NEWSNATION/ORIGIN/index.m3u8
-News One (720p),NewsOne.pk,PK News,YES,playing,2.0,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-News Tamil 24x7 (576p),NewsTamil24x7.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
-News18 Assam North-East (1080p),News18AssamNorthEast.in,IN News,YES,playing,3.0,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
-News18 Bihar Jharkhand (1080p),News18BiharJharkhand.in,IN News,YES,playing,2.5,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
-News18 Delhi NCR JK (1080p),News18DelhiNCRJK.in,IN News,YES,playing,3.0,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
-News18 India (1080p),News18India.in,IN News,YES,playing,2.9,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
-News18 Kerala (1080p),News18Kerala.in,IN News,YES,playing,1.5,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
-News18 Madhya Pradesh/Chhattisgarh (1080p),News18MadhyaPradeshChhattisgarh.in,IN News,YES,playing,3.1,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
-News18 Marathi (1080p),News18Marathi.in,IN News,YES,playing,2.7,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
-News18 Punjab/Haryana/Himachal (1080p),News18PunjabHaryanaHimachal.in,IN News,YES,playing,2.6,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
-News18 Urdu (1080p),News18Urdu.in,IN News,YES,playing,2.2,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
-News9Live (1080p),News9Live.in,IN News,YES,playing,1.4,amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv,https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
-News9Live (720p),News9Live.in,IN News,YES,playing,1.1,vg-tv9yupp.vgcdn.net,https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
-NewsX (576p),NewsX.in,IN News,YES,playing,3.1,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
-NewsX World (576p),NewsXWorld.in,IN News,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
-NK TV 24x7 (1080p),NKTV24x7.in,IN News,YES,playing,2.8,nktv.smartstream.video,https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
-NK TV Bangla (1080p),NKTVBangla.in,IN News,YES,playing,3.8,nktv.smartstream.video,https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
-Northeast Live (576p),NortheastLive.in,IN News,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8
-Northeast Live (720p),NortheastLive.in,IN News,YES,playing,2.7,server.thelegitpro.in,https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
-NTV Telugu (1080p),NTVTelugu.in,IN News,YES,playing,3.3,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
-NTV Telugu (576p),NTVTelugu.in,IN News,YES,playing,1.4,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
-Polimer News (576p),PolimerNews.in,IN News,YES,playing,0.4,segment.yuppcdn.net,https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-Polimer News (576p),PolimerNews.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/POLIMERNEWS/ORIGIN/index.m3u8
+News 24 (720p),News24.in,IN News,YES,playing,2.1,vidcdn.vidgyor.com,https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+News 24 MP & Chhattisgarh (576p),News24MPChhattisgarh.in,IN News,YES,playing,3.0,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8
+News 7 Tamil (576p),News7Tamil.in,IN News,YES,playing,0.1,segment.yuppcdn.net,https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+News 7 Tamil (576p),News7Tamil.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/NEWS7TAMIL/ORIGIN/index.m3u8
+News Live Bangla (576p),NewsLiveBangla.in,IN News,YES,playing,2.9,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
+News Nation (1080p),NewsNation.in,IN News,YES,playing,1.0,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+News Nation (576p),NewsNation.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/NEWSNATION/ORIGIN/index.m3u8
+News One (720p),NewsOne.pk,PK News,YES,playing,1.7,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+News Tamil 24x7 (576p),NewsTamil24x7.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
+News18 Assam North-East (1080p),News18AssamNorthEast.in,IN News,YES,playing,2.3,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
+News18 Bangla (1080p),News18Bangla.in,IN News,YES,playing,1.8,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+News18 Bihar Jharkhand (1080p),News18BiharJharkhand.in,IN News,YES,playing,2.7,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
+News18 Delhi NCR JK (1080p),News18DelhiNCRJK.in,IN News,YES,playing,2.8,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
+News18 Gujarati (1080p),News18Gujarati.in,IN News,YES,playing,2.3,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
+News18 India (1080p),News18India.in,IN News,YES,playing,1.9,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+News18 Kerala (1080p),News18Kerala.in,IN News,YES,playing,2.1,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+News18 Madhya Pradesh/Chhattisgarh (1080p),News18MadhyaPradeshChhattisgarh.in,IN News,YES,playing,1.7,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
+News18 Marathi (1080p),News18Marathi.in,IN News,YES,playing,1.6,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+News18 Odia (1080p),News18Odia.in,IN News,YES,playing,1.8,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
+News18 Punjab/Haryana/Himachal (1080p),News18PunjabHaryanaHimachal.in,IN News,YES,playing,2.0,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
+News18 Rajasthan (1080p),News18Rajasthan.in,IN News,YES,playing,1.9,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
+News18 Tamil Nadu (1080p),News18TamilNadu.in,IN News,YES,playing,2.2,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+News18 Urdu (1080p),News18Urdu.in,IN News,YES,playing,2.0,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
+News18 Uttar Pradesh Uttarakhand (1080p),News18UttarPradeshUttarakhand.in,IN News,YES,playing,1.8,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
+News9Live (1080p),News9Live.in,IN News,YES,playing,1.3,amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv,https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+News9Live (720p),News9Live.in,IN News,YES,playing,0.9,vg-tv9yupp.vgcdn.net,https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
+NewsX (576p),NewsX.in,IN News,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
+NewsX World (576p),NewsXWorld.in,IN News,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
+NK TV 24x7 (1080p),NKTV24x7.in,IN News,YES,playing,2.6,nktv.smartstream.video,https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
+NK TV Bangla (1080p),NKTVBangla.in,IN News,YES,playing,3.9,nktv.smartstream.video,https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
+Northeast Live (576p),NortheastLive.in,IN News,YES,playing,2.8,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8
+Northeast Live (720p),NortheastLive.in,IN News,YES,playing,2.8,server.thelegitpro.in,https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
+NTV Telugu (576p),NTVTelugu.in,IN News,YES,playing,1.3,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
+Polimer News (576p),PolimerNews.in,IN News,YES,playing,0.5,segment.yuppcdn.net,https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+Polimer News (576p),PolimerNews.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/POLIMERNEWS/ORIGIN/index.m3u8
 Power TV (576p),PowerTV.in,IN News,YES,playing,2.8,powertvkannada.com,https://powertvkannada.com/hls/stream.m3u8
 Power TV (576p),PowerTV.in,IN News,YES,playing,3.0,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8
-Prag News (576p),PragNews.in,IN News,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
+Prag News (576p),PragNews.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
 Prameya News7 (576p),PrameyaNews7.in,IN News,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
-Pratham Khabar 24x7 (576p),PrathamKhabar24x7.in,IN News,YES,playing,3.3,livelegitpro.in,https://livelegitpro.in/hls2/newstime/index.m3u8
-Pratidin Time (576p),PratidinTime.in,IN News,YES,playing,2.9,streams.tangotv.in,https://streams.tangotv.in/PROTIDINTIME/ORIGIN/index.m3u8
+Pratham Khabar 24x7 (576p),PrathamKhabar24x7.in,IN News,YES,playing,3.0,livelegitpro.in,https://livelegitpro.in/hls2/newstime/index.m3u8
+Pratidin Time (576p),PratidinTime.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/PROTIDINTIME/ORIGIN/index.m3u8
 Prime News (576p),PrimeNews.in,IN News,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
-Prime9 News (576p),Prime9News.in,IN News,YES,playing,2.8,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
-Prudent Media (1080p),PrudentMedia.in,IN News,YES,playing,0.6,prudentmcdn.rixcast.com,https://prudentmcdn.rixcast.com/prudentm.m3u8
-PTC News (576p),PTCNews.in,IN News,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8
-Public TV (576p),PublicTV.in,IN News,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/PUBLICTV/ORIGIN/index.m3u8
-Pudhari News (576p),PudhariNews.in,IN News,YES,playing,2.9,streams.tangotv.in,https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
-Puthiya Thalaimurai (576p),PuthiyaThalaimurai.in,IN News,YES,playing,0.9,segment.yuppcdn.net,https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-Puthiya Thalaimurai (576p),PuthiyaThalaimurai.in,IN News,YES,playing,2.9,streams.tangotv.in,https://streams.tangotv.in/PUTHIYATHALAIMURAI/ORIGIN/index.m3u8
+Prime9 News (576p),Prime9News.in,IN News,YES,playing,3.1,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
+Prudent Media (1080p),PrudentMedia.in,IN News,YES,playing,2.0,prudentmcdn.rixcast.com,https://prudentmcdn.rixcast.com/prudentm.m3u8
+PTC News (576p),PTCNews.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8
+Public TV (576p),PublicTV.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/PUBLICTV/ORIGIN/index.m3u8
+Pudhari News (576p),PudhariNews.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
+Puthiya Thalaimurai (576p),PuthiyaThalaimurai.in,IN News,YES,playing,0.5,segment.yuppcdn.net,https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+Puthiya Thalaimurai (576p),PuthiyaThalaimurai.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/PUTHIYATHALAIMURAI/ORIGIN/index.m3u8
 Puthiya Thalaimurai (576p),PuthiyaThalaimurai.in,IN News,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
 Raj News Kannada (576p),RajNewsKannada.in,IN News,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8
-Real News Kerala (1080p),RealNewsKerala.in,IN News,YES,playing,1.4,bk7l298nyx53-hls-live.5centscdn.com,https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+Real News Kerala (1080p),RealNewsKerala.in,IN News,YES,playing,2.4,bk7l298nyx53-hls-live.5centscdn.com,https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 Reporter TV (576p),ReporterTV.in,IN News,YES,playing,0.5,segment.yuppcdn.net,https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 Reporter TV (576p),ReporterTV.in,IN News,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlREPORTERTV/index.m3u8
-Republic Bangla (1080p),RepublicBangla.in,IN News,YES,playing,4.0,vg-republictvlive.akamaized.net,https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
-Republic Bangla (576p),RepublicBangla.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
+Republic Bangla (1080p),RepublicBangla.in,IN News,YES,playing,3.2,vg-republictvlive.akamaized.net,https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+Republic Bangla (576p),RepublicBangla.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
 Republic Bharat (1080p),RepublicBharat.in,IN News,YES,playing,0.4,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
-Republic Bharat (1080p),RepublicBharat.in,IN News,YES,playing,3.9,vg-republictvlive.akamaized.net,https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
-Republic Bharat (576p),RepublicBharat.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8
-Republic Kannada (1080p),RepublicKannada.in,IN News,YES,playing,3.1,vg-republictvlive.akamaized.net,https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
-Republic Kannada (576p),RepublicKannada.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/REPUBLICKANNADA/ORIGIN/index.m3u8
-Republic TV (1080p),RepublicTV.in,IN News,YES,playing,0.4,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8
-Republic TV (1080p),RepublicTV.in,IN News,YES,playing,0.9,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
-Republic TV (1080p),RepublicTV.in,IN News,YES,playing,2.0,samsung-republictv.amagi.tv,https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
-Rozana Spokesman (1080p),RozanaSpokesman.in,IN News,YES,playing,3.2,live1.ottlive.co.in,https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
-RT India (1080p),RTIndia.in,IN News,YES,playing,2.8,rt-india.rttv.com,https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
-Sadhna News Madhya Pradesh/Chhattisgarh (576p),SadhnaNewsMadhyaPradeshChhattisgarh.in,IN News,YES,playing,3.1,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8
-Sadhna Plus News (720p),SadhnaPlusNews.in,IN News,YES,playing,1.5,6n3yow8pl9ok-hls-live.5centscdn.com,https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
-Sakshi TV (576p),SakshiTV.in,IN News,YES,playing,0.5,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
-Sakshi TV (576p),SakshiTV.in,IN News,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
+Republic Bharat (1080p),RepublicBharat.in,IN News,YES,playing,2.6,vg-republictvlive.akamaized.net,https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+Republic Bharat (576p),RepublicBharat.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8
+Republic Kannada (576p),RepublicKannada.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/REPUBLICKANNADA/ORIGIN/index.m3u8
+Republic TV (1080p),RepublicTV.in,IN News,YES,playing,0.3,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8
+Republic TV (1080p),RepublicTV.in,IN News,YES,playing,0.8,d3qs3d2rkhfqrt.cloudfront.net,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+Republic TV (1080p),RepublicTV.in,IN News,YES,playing,1.8,samsung-republictv.amagi.tv,https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
+Rozana Spokesman (1080p),RozanaSpokesman.in,IN News,YES,playing,4.5,live1.ottlive.co.in,https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
+RT India (1080p),RTIndia.in,IN News,YES,playing,2.5,rt-india.rttv.com,https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+Sadhna News Madhya Pradesh/Chhattisgarh (576p),SadhnaNewsMadhyaPradeshChhattisgarh.in,IN News,YES,playing,2.7,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8
+Sadhna Plus News (720p),SadhnaPlusNews.in,IN News,YES,playing,1.4,6n3yow8pl9ok-hls-live.5centscdn.com,https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+Sakshi TV (576p),SakshiTV.in,IN News,YES,playing,0.3,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
+Sakshi TV (576p),SakshiTV.in,IN News,YES,playing,2.8,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
 Salaam TV (576p),SalaamTV.in,IN News,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlZEESALAM/index.m3u8
-Salaam TV (720p),SalaamTV.in,IN News,YES,playing,1.3,d2o3r1shda7xvv.cloudfront.net,https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
-Salaam TV (720p),SalaamTV.in,IN News,YES,playing,2.6,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
-Samay Kolkata (1080p),SamayKolkata.in,IN News,YES,playing,3.1,server.livelegitpro.in,https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
-Sandesh News (576p),SandeshNews.in,IN News,YES,playing,3.0,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
+Salaam TV (720p),SalaamTV.in,IN News,YES,playing,1.5,d2o3r1shda7xvv.cloudfront.net,https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
+Salaam TV (720p),SalaamTV.in,IN News,YES,playing,2.1,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
+Samachar Plus 24x7 (576p),SamacharPlus24x7.in,IN News,YES,playing,2.9,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
+Sandesh News (576p),SandeshNews.in,IN News,YES,playing,2.9,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
+Sky News Urdu (720p),SkyNewsUrdu.pk,PK News,YES,playing,0.4,lbgo.bozztv.com,https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+Such TV,SuchTV.pk,PK News,YES,playing,2.0,video.primexsports.com,https://video.primexsports.com/suchnews/live/playlist.m3u8
 Sudarshan News (396p),SudarshanNews.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/sudarshan/playlist.m3u8
-Sudarshan News (576p),SudarshanNews.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/SUDARSHANNEWS/ORIGIN/index.m3u8
-Suvarna News (576p),SuvarnaNews.in@SD,IN News,YES,playing,2.9,streams.tangotv.in,https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
+Sudarshan News (576p),SudarshanNews.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/SUDARSHANNEWS/ORIGIN/index.m3u8
+Suvarna News (576p),SuvarnaNews.in@SD,IN News,YES,playing,3.8,streams.tangotv.in,https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
 Swadesh News (576p),SwadeshNews.in,IN News,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8
-Swaraj Express SMBC (576p),SwarajExpressSMBC.in,IN News,YES,playing,0.8,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8
+Swaraj Express SMBC (576p),SwarajExpressSMBC.in,IN News,YES,playing,0.7,d1msejlow1t3l4.cloudfront.net,https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8
 Swatantra TV (1080p),SwatantraTV.in,IN News,YES,playing,3.1,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
-T News (576p),TNews.in,IN News,YES,playing,2.5,yuppnimresmum.akamaized.net,https://yuppnimresmum.akamaized.net/120723/smil:tnews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+T News (576p),TNews.in,IN News,YES,playing,1.8,yuppnimresmum.akamaized.net,https://yuppnimresmum.akamaized.net/120723/smil:tnews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 T News (576p),TNews.in,IN News,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8
 Tamil Janam (576p),TamilJanam.in,IN News,YES,playing,3.0,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
-Thanthi TV (576p),ThanthiTV.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
-Thanthi TV (576p),ThanthiTV.in,IN News,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8
+Thanthi TV (576p),ThanthiTV.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
+Thanthi TV (576p),ThanthiTV.in,IN News,YES,playing,2.9,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8
 Times Now Navbharat HD (1080p),TimesNowNavbharat.in@HD,IN News,YES,playing,0.7,yupprestreamliveus.akamaized.net,https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8
-TNP News (1080p),TNPNews.in,IN News,YES,playing,2.7,server.thelegitpro.in,https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
-TOI Global (1080p),TOIGlobal.in,IN News,YES,playing,2.2,live.sli.ke,https://live.sli.ke/live/npnhm84gz9/master.m3u8
-TV13 Gujarati (480p),TV13Gujarati.in,IN News,YES,playing,4.1,live.wrencdn.in,https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+TNP News (1080p),TNPNews.in,IN News,YES,playing,2.8,server.thelegitpro.in,https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
+TOI Global (1080p),TOIGlobal.in,IN News,YES,playing,1.6,live.sli.ke,https://live.sli.ke/live/npnhm84gz9/master.m3u8
+TV13 Gujarati (480p),TV13Gujarati.in,IN News,YES,playing,6.3,live.wrencdn.in,https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
 TV5 Kannada (576p),TV5Kannada.in,IN News,YES,playing,2.5,yuppnimresmum.akamaized.net,https://yuppnimresmum.akamaized.net/050522/tv5kannada/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-TV5 Kannada (576p),TV5Kannada.in,IN News,YES,playing,3.0,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
-TV5 News (576p),TV5News.in,IN News,YES,playing,0.6,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
-TV5 News (576p),TV5News.in,IN News,YES,playing,2.5,yuppnimresmum.akamaized.net,https://yuppnimresmum.akamaized.net/110322/tv5/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-TV5 News (576p),TV5News.in,IN News,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlTV5NEWS/index.m3u8
-TV9 Bangla (576p),TV9Bangla.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/TV9BANGLA/ORIGIN/index.m3u8
-TV9 Bangla (720p),TV9Bangla.in,IN News,YES,playing,1.9,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-TV9 Bharatvarsh (576p),TV9Bharatvarsh.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
-TV9 Bharatvarsh (720p),TV9Bharatvarsh.in,IN News,YES,playing,1.0,vg-tv9yupp.vgcdn.net,https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8
-TV9 Bharatvarsh (720p),TV9Bharatvarsh.in,IN News,YES,playing,1.7,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-TV9 Gujarati (576p),TV9Gujarati.in,IN News,YES,playing,3.0,streams.tangotv.in,https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
-TV9 Gujarati (720p),TV9Gujarati.in,IN News,YES,playing,1.1,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
-TV9 Kannada (576p),TV9Kannada.in,IN News,YES,playing,2.9,streams.tangotv.in,https://streams.tangotv.in/TV9KANNADA/ORIGIN/index.m3u8
-TV9 Kannada (720p),TV9Kannada.in,IN News,YES,playing,1.7,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
-TV9 Marathi (576p),TV9Marathi.in,IN News,YES,playing,2.9,streams.tangotv.in,https://streams.tangotv.in/TV9MARATHI/ORIGIN/index.m3u8
-TV9 Marathi (720p),TV9Marathi.in,IN News,YES,playing,1.8,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-TV9 Telugu (576p),TV9Telugu.in,IN News,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/TV9TELUGU/ORIGIN/index.m3u8
-TV9 Telugu (720p),TV9Telugu.in,IN News,YES,playing,1.7,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
-V6 News (576p),V6News.in,IN News,YES,playing,0.7,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
-V6 News (576p),V6News.in,IN News,YES,playing,1.3,d1rc86nwwc9fag.cloudfront.net,https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-V6 News (576p),V6News.in,IN News,YES,playing,2.8,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2V6NEWS/index.m3u8
-VIP News (360p),VIPNews.in,IN News,YES,playing,2.0,live.vipnews24x7.co.in,https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-WION (1080p),WION.in,IN News,YES,playing,0.4,d7x8z4yuq42qn.cloudfront.net,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-WION (720p),WION.in,IN News,YES,playing,0.6,wion-klowdtv.amagi.tv,https://wion-klowdtv.amagi.tv/playlist.m3u8
-WION (720p),WION.in,IN News,YES,playing,0.7,d7x8z4yuq42qn.cloudfront.net,https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
-World Punjabi TV (1080p),WorldPunjabiTV.in,IN News,YES,playing,5.5,live1.ottlive.co.in,https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
-Zee 24 Ghanta,Zee24Ghanta.in,IN News,YES,playing,1.1,d2dsoyvkr33m05.cloudfront.net,https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
-Zee 24 Ghanta (576p),Zee24Ghanta.in,IN News,YES,playing,2.5,tvsen6.aynaott.com,https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
-Zee 24 Kalak (720p),Zee24Kalak.in,IN News,YES,playing,2.3,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/14b7c8ec-16da-47f2-8d7e-5bbaec67b3e2/3.m3u8
-Zee 24 Taas (576p),Zee24Taas.in,IN News,YES,playing,3.1,streams.tangotv.in,https://streams.tangotv.in/ZEE24TAAS/ORIGIN/index.m3u8
+TV5 Kannada (576p),TV5Kannada.in,IN News,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
+TV5 News (576p),TV5News.in,IN News,YES,playing,0.3,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
+TV5 News (576p),TV5News.in,IN News,YES,playing,2.2,yuppnimresmum.akamaized.net,https://yuppnimresmum.akamaized.net/110322/tv5/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+TV5 News (576p),TV5News.in,IN News,YES,playing,2.8,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlTV5NEWS/index.m3u8
+TV9 Bangla (576p),TV9Bangla.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/TV9BANGLA/ORIGIN/index.m3u8
+TV9 Bangla (720p),TV9Bangla.in,IN News,YES,playing,1.5,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+TV9 Bharatvarsh (576p),TV9Bharatvarsh.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
+TV9 Bharatvarsh (720p),TV9Bharatvarsh.in,IN News,YES,playing,0.9,vg-tv9yupp.vgcdn.net,https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8
+TV9 Bharatvarsh (720p),TV9Bharatvarsh.in,IN News,YES,playing,1.2,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+TV9 Gujarati (576p),TV9Gujarati.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
+TV9 Gujarati (720p),TV9Gujarati.in,IN News,YES,playing,1.2,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
+TV9 Kannada (576p),TV9Kannada.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/TV9KANNADA/ORIGIN/index.m3u8
+TV9 Kannada (720p),TV9Kannada.in,IN News,YES,playing,1.9,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+TV9 Marathi (576p),TV9Marathi.in,IN News,YES,playing,2.8,streams.tangotv.in,https://streams.tangotv.in/TV9MARATHI/ORIGIN/index.m3u8
+TV9 Marathi (720p),TV9Marathi.in,IN News,YES,playing,1.1,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+TV9 Telugu (576p),TV9Telugu.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/TV9TELUGU/ORIGIN/index.m3u8
+TV9 Telugu (720p),TV9Telugu.in,IN News,YES,playing,2.2,dyjmyiv3bp2ez.cloudfront.net,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+V6 News (576p),V6News.in,IN News,YES,playing,0.3,yuppmedtaorire.akamaized.net,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
+V6 News (576p),V6News.in,IN News,YES,playing,0.6,d1rc86nwwc9fag.cloudfront.net,https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+V6 News (576p),V6News.in,IN News,YES,playing,2.9,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2V6NEWS/index.m3u8
+Velicham TV (576p),VelichamTV.in,IN News,YES,playing,3.1,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
+VIP News (360p),VIPNews.in,IN News,YES,playing,0.9,live.vipnews24x7.co.in,https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+WION (1080p),WION.in,IN News,YES,playing,0.8,d7x8z4yuq42qn.cloudfront.net,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+WION (720p),WION.in,IN News,YES,playing,0.5,wion-klowdtv.amagi.tv,https://wion-klowdtv.amagi.tv/playlist.m3u8
+WION (720p),WION.in,IN News,YES,playing,1.3,d7x8z4yuq42qn.cloudfront.net,https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+World Punjabi TV (1080p),WorldPunjabiTV.in,IN News,YES,playing,5.7,live1.ottlive.co.in,https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
+Zee 24 Ghanta,Zee24Ghanta.in,IN News,YES,playing,1.4,d2dsoyvkr33m05.cloudfront.net,https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
+Zee 24 Ghanta (576p),Zee24Ghanta.in,IN News,YES,playing,2.6,tvsen6.aynaott.com,https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
+Zee 24 Kalak (720p),Zee24Kalak.in,IN News,YES,playing,1.5,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/14b7c8ec-16da-47f2-8d7e-5bbaec67b3e2/3.m3u8
+Zee 24 Taas (576p),Zee24Taas.in,IN News,YES,playing,2.7,streams.tangotv.in,https://streams.tangotv.in/ZEE24TAAS/ORIGIN/index.m3u8
 Zee 24 Taas (720p),Zee24Taas.in,IN News,YES,playing,1.3,dgrvlduwztkd4.cloudfront.net,https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-Zee Bharat (576p),ZeeBharat.in,IN News,YES,playing,3.0,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
-Zee Bharat (720p),ZeeBharat.in,IN News,YES,playing,3.5,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
-Zee Bihar Jharkhand (720p),ZeeBiharJharkhand.in,IN News,YES,playing,0.6,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
-Zee Bihar Jharkhand (720p),ZeeBiharJharkhand.in,IN News,YES,playing,2.3,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
-Zee Delhi NCR Haryana (720p),ZeeDelhiNCRHaryana.in,IN News,YES,playing,2.4,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
-Zee Kannada News (720p),ZeeKannadaNews.in,IN News,YES,playing,1.5,d3vzwoqcbpfm8p.cloudfront.net,https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
-Zee Madhya Pradesh Chhattisgarh (720p),ZeeMadhyaPradeshChhattisgarh.in,IN News,YES,playing,2.2,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
+Zee Bharat (576p),ZeeBharat.in,IN News,YES,playing,2.8,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
+Zee Bharat (720p),ZeeBharat.in,IN News,YES,playing,2.0,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+Zee Bihar Jharkhand (720p),ZeeBiharJharkhand.in,IN News,YES,playing,0.5,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
+Zee Bihar Jharkhand (720p),ZeeBiharJharkhand.in,IN News,YES,playing,1.9,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
+Zee Delhi NCR Haryana (720p),ZeeDelhiNCRHaryana.in,IN News,YES,playing,2.6,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
+Zee Kannada News (720p),ZeeKannadaNews.in,IN News,YES,playing,1.2,d3vzwoqcbpfm8p.cloudfront.net,https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+Zee Madhya Pradesh Chhattisgarh (720p),ZeeMadhyaPradeshChhattisgarh.in,IN News,YES,playing,1.0,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
 Zee News (1080p),ZeeNews.in,IN News,YES,playing,0.7,dknttpxmr0dwf.cloudfront.net,https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 Zee News (1080p),ZeeNews.in,IN News,YES,playing,2.4,dt3lrqnyx3dks.cloudfront.net,https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
-Zee News (720p),ZeeNews.in,IN News,YES,playing,2.6,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8
-Zee Punjab Haryana Himachal (720p),ZeePunjabHaryanaHimachal.in,IN News,YES,playing,2.7,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
-Zee Rajasthan (720p),ZeeRajasthan.in,IN News,YES,playing,2.2,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
-Zee Telugu News (720p),ZeeTeluguNews.in,IN News,YES,playing,1.6,d116gfrn8orazi.cloudfront.net,https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
-Zee Uttar Pradesh/Uttarakhand (576p),ZeeUttarPradeshUttarakhand.in,IN News,YES,playing,2.8,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8
-Zee Uttar Pradesh/Uttarakhand (720p),ZeeUttarPradeshUttarakhand.in,IN News,YES,playing,2.1,duw35ict5q7th.cloudfront.net,https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-ZillarBarta News,ZillarBartaNews.in,IN News,YES,playing,3.7,server.zillarbarta.com,https://server.zillarbarta.com/zillarbarta/index.m3u8
-10 TV (576p),10TV.in,IN News,no,HTTP 404,0.8,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/391/master.m3u8
+Zee News (720p),ZeeNews.in,IN News,YES,playing,2.2,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8
+Zee Punjab Haryana Himachal (720p),ZeePunjabHaryanaHimachal.in,IN News,YES,playing,3.0,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
+Zee Rajasthan (720p),ZeeRajasthan.in,IN News,YES,playing,2.0,vg-zeefta.akamaized.net,https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
+Zee Telugu News (720p),ZeeTeluguNews.in,IN News,YES,playing,2.2,d116gfrn8orazi.cloudfront.net,https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+Zee Uttar Pradesh/Uttarakhand (576p),ZeeUttarPradeshUttarakhand.in,IN News,YES,playing,2.9,mumt07.tangotv.in,https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8
+Zee Uttar Pradesh/Uttarakhand (720p),ZeeUttarPradeshUttarakhand.in,IN News,YES,playing,1.9,duw35ict5q7th.cloudfront.net,https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+10 TV (576p),10TV.in,IN News,no,HTTP 404,0.7,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/391/master.m3u8
 10 TV (720p),10TV.in,IN News,no,TimeoutError,8.7,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
-4TV News (576p),4TVNews.in,IN News,no,HTTP 404,0.7,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1007/master.m3u8
+4TV News (576p),4TVNews.in,IN News,no,HTTP 404,0.8,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1007/master.m3u8
+7 News (720p),7News.pk,PK News,no,segment HTTP 404,1.5,sscsott.com,https://sscsott.com/7news/live/index.m3u8
 99TV (720p),99TV.in,IN News,no,HTTP 404,0.7,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/1211/master.m3u8
 Aaj News (576p),AajNews.pk,PK News,no,unreachable (timed out),8.0,115.42.65.142:9981,http://115.42.65.142:9981/stream/channelid/750987367
 Abb Takk (576p),AbbTakk.pk,PK News,no,unreachable (timed out),8.0,115.42.65.142:9981,http://115.42.65.142:9981/stream/channelid/852828604
 ABN Andhra Jyoti (576p),ABNAndhraJyoti.in,IN News,no,HTTP 404,0.8,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/407/master.m3u8
-ABN Andhra Jyoti (720p),ABNAndhraJyoti.in,IN News,no,segment HTTP 404,2.8,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 ABN News (1080p),ABNNews.pk,PK News,no,unreachable (timed out),8.0,115.42.65.142:9981,http://115.42.65.142:9981/stream/channelid/966869781
-Aik News,AikNews.pk@SD,PK News,no,TimeoutError,9.0,cdn23lhr.tamashaweb.com:8087,https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
-AKD Calcutta News (1080p),AKDCalcuttaNews.in,IN News,no,segment HTTP 404,2.9,live.legitpro.co.in,https://live.legitpro.co.in/cnnnews/index.m3u8
-AKD Calcutta News (576p),AKDCalcuttaNews.in,IN News,no,HTTP 404,0.8,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/237/master.m3u8
-Bansal News (720p),BansalNews.in,IN News,no,HTTP 401,0.3,8yzmq2gbdvax-hls-live.wmncdn.net,https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
-Bharat Express,BharatExpress.in,IN News,no,HTTP 404,0.8,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1139/master.m3u8
+Aik News,AikNews.pk@SD,PK News,no,HTTP 404,1.3,cdn23lhr.tamashaweb.com:8087,https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
+AKD Calcutta News (1080p),AKDCalcuttaNews.in,IN News,no,segment HTTP 404,4.3,live.legitpro.co.in,https://live.legitpro.co.in/cnnnews/index.m3u8
+AKD Calcutta News (576p),AKDCalcuttaNews.in,IN News,no,HTTP 404,0.7,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/237/master.m3u8
+ANB News (720p),ANBNews.in,IN News,no,segment HTTP 404,2.7,server.livelegitpro.in:9899,https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
+APN (576p),APN.in,IN News,no,segment HTTP 404,2.7,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
+Bansal News (720p),BansalNews.in,IN News,no,HTTP 401,0.5,8yzmq2gbdvax-hls-live.wmncdn.net,https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
+Bharat Express,BharatExpress.in,IN News,no,HTTP 404,0.7,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1139/master.m3u8
 Bharat Samachar (576p),BharatSamachar.in,IN News,no,segment HTTP 404,2.8,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8
-Bharat Samachar (576p),BharatSamachar.in,IN News,no,TimeoutError,8.6,tvsen3.aynaott.com,https://tvsen3.aynaott.com/m94BZDYb/index.m3u8
 BIG TV (720p),BIGTV.in,IN News,no,HTTP 404,0.7,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/1059/master.m3u8
-BRK News (576p),BRKNews.in,IN News,no,HTTP 404,0.7,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/1037/master.m3u8
+BRK News (576p),BRKNews.in,IN News,no,HTTP 404,0.6,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/1037/master.m3u8
 Chardikla Time TV,ChardiklaTimeTV.in,IN News,no,HTTP 404,0.7,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1627/master.m3u8
 City 41 (576p),City41.pk,PK News,no,unreachable (timed out),8.0,163.61.227.29:8000,http://163.61.227.29:8000/play/a02r/index.m3u8
 CVR English (720p),CVREnglish.in,IN News,no,HTTP 404,0.7,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/425/master.m3u8
 DY 365 (360p),DY365.in,IN News,no,HTTP 403,1.1,cdn.smartstream.video,https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-Global Punjab (1080p),GlobalPunjab.in,IN News,no,segment HTTP 404,2.9,server.livelegitpro.in,https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
-GTC News (1080p),GTCNews.in,IN News,no,segment HTTP 404,2.6,vglivessai.akamaized.net,https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
 Hindi Khabar (576p),HindiKhabar.in,IN News,no,HTTP 404,0.7,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1041/master.m3u8
 HMTV (720p),HMTV.in,IN News,no,HTTP 404,0.7,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/280/master.m3u8
-Hornbill TV (576p),HornbillTV.in,IN News,no,HTTP 404,0.8,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1463/master.m3u8
-Hum News,HumNews.pk,PK News,no,HTTP 400,0.4,103.86.135.164:9981,http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C
-India Ahead (576p),IndiaAhead.in,IN News,no,HTTP 404,0.7,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/269/master.m3u8
-India Ahead (576p),IndiaAhead.in,IN News,no,segment HTTP 404,3.0,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
-India Voice (576p),IndiaVoice.in,IN News,no,HTTP 404,1.0,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
-Indywood TV (720p),IndywoodTV.in,IN News,no,HTTP 404,2.8,43wrzjnpqoxe-hls-live.wmncdn.net,https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+Hornbill TV (576p),HornbillTV.in,IN News,no,HTTP 404,0.7,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1463/master.m3u8
+Hum News,HumNews.pk,PK News,no,HTTP 400,0.5,103.86.135.164:9981,http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C
+India Ahead (576p),IndiaAhead.in,IN News,no,HTTP 404,0.6,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/269/master.m3u8
+India Voice (576p),IndiaVoice.in,IN News,no,HTTP 404,0.8,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8
 INews (720p),INews.in,IN News,no,HTTP 404,0.7,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/411/master.m3u8
-Kairali News (720p),KairaliNews.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1469/master.m3u8
+Kairali News (720p),KairaliNews.in,IN News,no,HTTP 404,0.8,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1469/master.m3u8
 Kalinga TV,KalingaTV.in,IN News,no,HTTP 404,0.7,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1470/master.m3u8
 Kashish News,KashishNews.in,IN News,no,HTTP 404,0.9,cdn-7.pishow.tv,https://cdn-7.pishow.tv/live/1471/master.m3u8
-Khabrain Abhi Tak (576p),KhabrainAbhiTak.in,IN News,no,segment HTTP 404,2.8,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2KHABRAINABHITAK/index.m3u8
 Kohenoor News (576p),KohenoorNews.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a00r/index.m3u8
 Lahore Rang (1080p),LahoreRang.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a01q/index.m3u8
-Lokshahi News (1080p),LokshahiNews.in,IN News,no,unreachable (timed out),8.1,see.lokshahi.live,https://see.lokshahi.live/live/index.m3u8
+Lokshahi News (1080p),LokshahiNews.in,IN News,no,unreachable (timed out),8.0,see.lokshahi.live,https://see.lokshahi.live/live/index.m3u8
 M Sign Media (720p),MSignMedia.in,IN News,no,unreachable ([Errno -3] Temporary failure in name res),10.0,rtmp2.logicwebs.in:1935,http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
 Madhimugam TV (576p),MadhimugamTV.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1476/master.m3u8
 Mahaa News,MahaaNews.in,IN News,no,HTTP 404,0.7,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/401/master.m3u8
 Malabar News (720p),MalabarNews.in,IN News,no,unreachable ([Errno -3] Temporary failure in name res),10.0,cloud.logicwebs.in:1935,http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 Malai Murasu TV (720p),MalaiMurasuTV.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1606/master.m3u8
 Mantavya News (576p),MantavyaNews.in,IN News,no,unreachable (timed out),8.1,mumt02.tangotv.in,https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
-Mashriq TV,MashriqTV.pk,PK News,no,HTTP 404,0.7,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/108M/chunks.m3u8
+Mashriq TV,MashriqTV.pk,PK News,no,HTTP 404,0.5,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/108M/chunks.m3u8
 Mashriq TV (576p),MashriqTV.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a02s/index.m3u8
-Media One (720p),MediaOne.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1481/master.m3u8
-MediBizTV (720p),MediBizTV.in,IN News,no,HTTP 404,2.8,43wrzjnpqoxe-hls-live.wmncdn.net,https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+Media One (720p),MediaOne.in,IN News,no,HTTP 404,0.8,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1481/master.m3u8
 Metro1 News (576p),Metro1News.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a04u/index.m3u8
-Mirror Now (720p),MirrorNow.in,IN News,no,segment HTTP 404,0.9,pubads.g.doubleclick.net,https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
-MKN Marathi (576p),MKNMarathi.in,IN News,no,HTTP 404,1.0,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
+Mirror Now (720p),MirrorNow.in,IN News,no,segment HTTP 404,0.5,pubads.g.doubleclick.net,https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 Moon TV,MoonTV.in,IN News,no,HTTP 404,0.7,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1121/master.m3u8
-Nagaland TV (576p),NagalandTV.in,IN News,no,HTTP 404,0.9,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
+Nagaland TV (576p),NagalandTV.in,IN News,no,HTTP 404,1.0,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
 NDTV India (720p),NDTVIndia.in,IN News,no,unreachable (timed out),8.0,103.213.31.109:90,http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8
 Neo News (1080p),NeoNews.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a01p/index.m3u8
-News 1 India (576p),News1India.in,IN News,no,HTTP 404,0.8,tvsen6.aynaott.com,https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
 News 1st (576p),News1st.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/268/master.m3u8
-News 1st (576p),News1st.in,IN News,no,segment HTTP 404,2.8,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8
+News 24 (576p),News24.in,IN News,no,HTTP 404,0.9,tvsen5.aynaott.com,https://tvsen5.aynaott.com/News24/index.m3u8
 News 7 Tamil,News7Tamil.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1498/master.m3u8
 News Daily 24 (576p),NewsDaily24.in,IN News,no,HTTP 404,0.7,cdn-6.pishow.tv,https://cdn-6.pishow.tv/live/10009/master.m3u8
-News India 24x7,NewsIndia24x7.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/273/master.m3u8
+News India 24x7,NewsIndia24x7.in,IN News,no,HTTP 404,0.8,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/273/master.m3u8
 News J (720p),NewsJ.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1279/master.m3u8
-News Live (576p),NewsLive.in,IN News,no,HTTP 404,0.8,cdn-6.pishow.tv,https://cdn-6.pishow.tv/live/10011/master.m3u8
-News Live Bangla (576p),NewsLiveBangla.in,IN News,no,HTTP 404,0.8,cdn-6.pishow.tv,https://cdn-6.pishow.tv/live/10003/master.m3u8
+News Live (576p),NewsLive.in,IN News,no,HTTP 404,0.7,cdn-6.pishow.tv,https://cdn-6.pishow.tv/live/10011/master.m3u8
+News Live Bangla (576p),NewsLiveBangla.in,IN News,no,HTTP 404,0.7,cdn-6.pishow.tv,https://cdn-6.pishow.tv/live/10003/master.m3u8
 News Malayalam 24x7 (576p),NewsMalayalam24x7.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1629/master.m3u8
 News Nation,NewsNation.in,IN News,no,HTTP 404,0.7,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1493/master.m3u8
 News One (576p),NewsOne.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a04j/index.m3u8
-News Tamil 24x7 (576p),NewsTamil24x7.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1433/master.m3u8
-News18 Bangla (1080p),News18Bangla.in,IN News,no,IncompleteRead,0.9,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
-News18 Gujarati (1080p),News18Gujarati.in,IN News,no,IncompleteRead,0.9,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
-News18 Kannada (1080p),News18Kannada.in,IN News,no,IncompleteRead,0.8,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
+News Tamil 24x7 (576p),NewsTamil24x7.in,IN News,no,HTTP 404,0.8,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1433/master.m3u8
+News18 Kannada (1080p),News18Kannada.in,IN News,no,IncompleteRead,0.7,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
 News18 Kerala (1080p),News18Kerala.in,IN News,no,HTTP 451,0.5,nw18live.cdn.jio.com,https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
-News18 Odia (1080p),News18Odia.in,IN News,no,segment IncompleteRead,1.7,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
-News18 Rajasthan (1080p),News18Rajasthan.in,IN News,no,IncompleteRead,0.9,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
-News18 Tamil Nadu (1080p),News18TamilNadu.in,IN News,no,IncompleteRead,0.8,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
-News18 Uttar Pradesh Uttarakhand (1080p),News18UttarPradeshUttarakhand.in,IN News,no,IncompleteRead,1.0,n18syndication.akamaized.net,https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
-NewsTime Bangla (576p),NewsTimeBangla.in,IN News,no,HTTP 404,0.8,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1494/master.m3u8
-NTV Telugu,NTVTelugu.in,IN News,no,HTTP 404,0.8,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/383/master.m3u8
+NewsTime Bangla (576p),NewsTimeBangla.in,IN News,no,HTTP 404,0.6,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1494/master.m3u8
+NTV Telugu,NTVTelugu.in,IN News,no,HTTP 404,0.7,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/383/master.m3u8
+NTV Telugu (1080p),NTVTelugu.in,IN News,no,segment HTTP 404,2.8,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 ON News HD (576p),ONNewsHD.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a046/index.m3u8
-Onkar Only Truth TV (576p),OnkarOnlyTruthTV.in,IN News,no,HTTP 403,1.4,5dd3981940faa.streamlock.net,https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8
+Onkar Only Truth TV (576p),OnkarOnlyTruthTV.in,IN News,no,HTTP 403,4.1,5dd3981940faa.streamlock.net,https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8
 Polimer News,PolimerNews.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1245/master.m3u8
-Pratidin Time (576p),PratidinTime.in,IN News,no,segment HTTP 404,2.4,server.thelegitpro.in,https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
-Prime News (576p),PrimeNews.in,IN News,no,unreachable (timed out),8.1,mumt02.tangotv.in,https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
-PTC News (576p),PTCNews.in,IN News,no,HTTP 404,0.7,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1502/master.m3u8
+Pratidin Time (576p),PratidinTime.in,IN News,no,segment HTTP 404,2.6,server.thelegitpro.in,https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
+Prime News (576p),PrimeNews.in,IN News,no,unreachable (timed out),8.0,mumt02.tangotv.in,https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
+PTC News (576p),PTCNews.in,IN News,no,HTTP 404,0.8,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/1502/master.m3u8
 PTC News (576p),PTCNews.in,IN News,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/182/master.m3u8
 PTV News (1080p),PTVNews.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a017/index.m3u8
 Public First (576p),PublicFirst.in,IN News,no,HTTP 404,1.0,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8
@@ -373,33 +374,32 @@ Public News (1080p),PublicNews.pk,PK News,no,unreachable (timed out),8.0,103.250
 Public TV (720p),PublicTV.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/439/master.m3u8
 Raj News (576p),RajNews.in,IN News,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/767.m3u8
 Raj Pariwar (576p),RajPariwar.in,IN News,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/533.m3u8
-RDX Goa (720p),RDXGoa.in,IN News,no,HTTP 401,0.2,g5nl6xoalpq6-hls-live.5centscdn.com,https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+RDX Goa (720p),RDXGoa.in,IN News,no,HTTP 401,0.3,g5nl6xoalpq6-hls-live.5centscdn.com,https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 Reporter TV,ReporterTV.in,IN News,no,HTTP 404,0.7,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/1510/master.m3u8
 Republic Bangla,RepublicBangla.in,IN News,no,HTTP 404,0.7,cdn-4.pishow.tv,https://cdn-4.pishow.tv/live/270/master.m3u8
-Republic Kannada,RepublicKannada.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/298/master.m3u8
+Republic Kannada,RepublicKannada.in,IN News,no,HTTP 404,0.8,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/298/master.m3u8
+Republic Kannada (1080p),RepublicKannada.in,IN News,no,HTTP 404,0.2,vg-republictvlive.akamaized.net,https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
 Roze News (576p),RozeNews.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a01k/index.m3u8
-Sakshi TV,SakshiTV.in,IN News,no,HTTP 404,0.8,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/409/master.m3u8
-Samachar Plus 24x7 (576p),SamacharPlus24x7.in,IN News,no,segment HTTP 404,2.8,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
+Sakshi TV,SakshiTV.in,IN News,no,HTTP 404,0.7,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/409/master.m3u8
+Samay Kolkata (1080p),SamayKolkata.in,IN News,no,segment HTTP 404,4.3,server.livelegitpro.in,https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 Sindh TV News (1080p),SindhTVNews.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a00v/index.m3u8
-Sky News Urdu (720p),SkyNewsUrdu.pk,PK News,no,HTTP 404,0.2,lbgo.bozztv.com,https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
-Star Bharat (576p),StarBharat.in,IN News,no,HTTP 404,0.5,103.253.18.58:8000,http://103.253.18.58:8000/play/a00u
-Such TV,SuchTV.pk,PK News,no,HTTP 404,0.8,video.primexsports.com,https://video.primexsports.com/suchnews/live/playlist.m3u8
-Sudarshan News (1080p),SudarshanNews.in,IN News,no,segment HTTP 404,2.6,ott.livelegitpro.in,https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
+Star Bharat (576p),StarBharat.in,IN News,no,HTTP 404,0.4,103.253.18.58:8000,http://103.253.18.58:8000/play/a00u
+Sudarshan News (1080p),SudarshanNews.in,IN News,no,segment HTTP 404,1.9,ott.livelegitpro.in,https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 Suno News HD (1080p),SunoNewsHD.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a02a/index.m3u8
 Swadesh News (720p),SwadeshNews.in,IN News,no,HTTP 404,0.7,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/465/master.m3u8
 Swaraj Express SMBC (576p),SwarajExpressSMBC.in,IN News,no,TimeoutError,8.7,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8
 Swaraj Express SMBC (720p),SwarajExpressSMBC.in,IN News,no,HTTP 404,0.7,cdn-2.pishow.tv,https://cdn-2.pishow.tv/live/477/master.m3u8
 T News (720p),TNews.in,IN News,no,HTTP 404,0.7,cdn-1.pishow.tv,https://cdn-1.pishow.tv/live/385/master.m3u8
-Thanthi TV (576p),ThanthiTV.in,IN News,no,HTTP 404,0.8,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1612/master.m3u8
+Thanthi TV (576p),ThanthiTV.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1612/master.m3u8
 Times Now (720p),TimesNow.in,IN News,no,HTTP 403,0.1,dztlhgid9me95.cloudfront.net,https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
-Times Now (720p),TimesNow.in,IN News,no,segment HTTP 404,0.7,pubads.g.doubleclick.net,https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
+Times Now (720p),TimesNow.in,IN News,no,segment HTTP 404,0.4,pubads.g.doubleclick.net,https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 Times Now Navbharat (1080p),TimesNowNavbharat.in,IN News,no,HTTP 403,0.0,dztlhgid9me95.cloudfront.net,https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8
-Times Now Navbharat (1080p),TimesNowNavbharat.in,IN News,no,HTTP 307,2.0,amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv,https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+Times Now Navbharat (1080p),TimesNowNavbharat.in,IN News,no,HTTP 307,1.9,amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv,https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
 Times Now World (1080p),TimesNowWorld.in,IN News,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/876.m3u8
 TV5 Kannada (576p),TV5Kannada.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/1526/master.m3u8
 Velicham TV (576p),VelichamTV.in,IN News,no,HTTP 404,0.7,cdn-3.pishow.tv,https://cdn-3.pishow.tv/live/461/master.m3u8
-Velicham TV (576p),VelichamTV.in,IN News,no,segment HTTP 404,2.8,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
 VSH News (576p),VSHNews.pk,PK News,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a00w/index.m3u8
 Zee 24 Ghanta (576p),Zee24Ghanta.in,IN News,no,unreachable (timed out),8.0,45.148.145.57,http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
-Zee Malayalam News (720p),ZeeMalayalamNews.in,IN News,no,unreachable ([Errno -5] No address associated with ho),0.0,d1ty2af03alkwd.cloudfront.net,https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
-Zee Tamil News (720p),ZeeTamilNews.in,IN News,no,segment URLError,0.2,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
+Zee Malayalam News (720p),ZeeMalayalamNews.in,IN News,no,unreachable ([Errno -5] No address associated with ho),0.1,d1ty2af03alkwd.cloudfront.net,https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+Zee Tamil News (720p),ZeeTamilNews.in,IN News,no,segment URLError,0.1,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
+ZillarBarta News,ZillarBartaNews.in,IN News,no,segment HTTP 404,3.5,server.zillarbarta.com,https://server.zillarbarta.com/zillarbarta/index.m3u8
