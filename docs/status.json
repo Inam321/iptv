@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-09-09T06:52:45Z",
+  "updated_at": "2026-09-10T06:48:52Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
-      "streams_tested": 404,
-      "channels_working": 204,
+      "streams_tested": 403,
+      "channels_working": 197,
       "kept_previous": false,
       "top_failures": {
         "HTTP 404": 56,
         "unreachable (timed out)": 27,
-        "segment HTTP 404": 12,
+        "segment HTTP 404": 16,
         "HTTP 403": 4,
-        "HTTP 401": 2
+        "HTTP 401": 3
       }
     },
     {
       "file": "music.m3u",
       "title": "India + Pakistan Music",
       "streams_tested": 90,
-      "channels_working": 41,
+      "channels_working": 39,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 15,
+        "HTTP 404": 17,
         "unreachable (timed out)": 7,
-        "segment HTTP 404": 4,
+        "segment HTTP 404": 5,
         "HTTP 403": 2,
         "unreachable ([Errno -5] No address associated with ho)": 2
       }
@@ -32,29 +32,29 @@
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
-      "streams_tested": 112,
-      "channels_working": 37,
+      "streams_tested": 110,
+      "channels_working": 36,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out)": 19,
-        "HTTP 404": 13,
-        "unreachable ([Errno 111] Connection refused)": 8,
+        "unreachable (timed out)": 23,
+        "HTTP 404": 14,
         "HTTP 403": 5,
-        "segment HTTP 403": 5
+        "segment HTTP 403": 5,
+        "segment HTTP 404": 4
       }
     },
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
-      "streams_tested": 177,
-      "channels_working": 89,
+      "streams_tested": 179,
+      "channels_working": 91,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 404": 21,
-        "unreachable (timed out)": 20,
-        "segment HTTP 404": 7,
-        "HTTP 403": 4,
-        "segment HTTP 403": 4
+        "unreachable (timed out)": 21,
+        "HTTP 404": 19,
+        "segment HTTP 404": 4,
+        "segment HTTP 403": 4,
+        "HTTP 403": 3
       }
     },
     {
@@ -67,8 +67,8 @@
         "unreachable (timed out)": 7,
         "segment HTTP 403": 1,
         "HTTP 429": 1,
-        "HTTP 404": 1,
-        "HTTP 458": 1
+        "HTTP 458": 1,
+        "HTTP 404": 1
       }
     },
     {
@@ -84,14 +84,14 @@
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 605,
-      "channels_working": 206,
+      "streams_tested": 599,
+      "channels_working": 208,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 115,
-        "segment HTTP 404": 55,
+        "HTTP 403": 109,
+        "segment HTTP 404": 53,
         "unreachable (timed out)": 43,
-        "HTTP 404": 21,
+        "HTTP 404": 28,
         "segment HTTP 403": 14
       }
     }
