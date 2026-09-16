@@ -1,33 +1,33 @@
 channel,tvg_id,group,working,reason,seconds,host,url
-Chithiram (576p),Chithiram.in,IN Kids,YES,playing,2.2,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/1243/master.m3u8
-Disney Channel (576p),DisneyChannel.in,IN Kids,YES,playing,2.0,202.70.146.135:8000,http://202.70.146.135:8000/play/a01q/index.m3u8
+Chithiram (576p),Chithiram.in,IN Kids,YES,playing,2.1,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/1243/master.m3u8
+Disney Channel (576p),DisneyChannel.in,IN Kids,YES,playing,1.8,202.70.146.135:8000,http://202.70.146.135:8000/play/a01q/index.m3u8
 Disney International HD (1080p),DisneyInternationalHD.in,IN Kids,YES,playing,1.9,202.70.146.135:8000,http://202.70.146.135:8000/play/a04p/index.m3u8
 Epic Kids Digital (1080p),EpicKids.in@Digital,IN Kids,YES,playing,3.6,cc-t8lqe1o99pszu.akamaized.net,https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
-ETV Bal Bharat (576p),ETVBalBharat.in,IN Kids,YES,playing,1.7,103.185.24.134:3001,http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
-God Stands Kids Club TV Arabic,GodStandsKidsClubTV.pk@Arabic,PK Kids,YES,playing,1.8,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+ETV Bal Bharat (576p),ETVBalBharat.in,IN Kids,YES,playing,1.6,103.185.24.134:3001,http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+God Stands Kids Club TV Arabic,GodStandsKidsClubTV.pk@Arabic,PK Kids,YES,playing,1.6,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 God Stands Kids Club TV Chinese,GodStandsKidsClubTV.pk@Chinese,PK Kids,YES,playing,1.7,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-God Stands Kids Club TV English,GodStandsKidsClubTV.pk,PK Kids,YES,playing,1.8,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+God Stands Kids Club TV English,GodStandsKidsClubTV.pk,PK Kids,YES,playing,1.7,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 Hungama TV (576p),HungamaTV.in,IN Kids,YES,playing,1.7,103.185.24.134:3001,http://103.185.24.134:3001/HUNGAMA/index.m3u8
 Minimax (360p),Minimax.pk,PK Kids,YES,playing,2.5,vodzong.mjunoon.tv:8087,https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-Nick Jr. (576p),NickJr.in,IN Kids,YES,playing,1.7,103.185.24.134:3001,http://103.185.24.134:3001/NICK-JR/index.m3u8
-Nick Jr. (576p),NickJr.in,IN Kids,YES,playing,1.9,202.70.146.135:8000,http://202.70.146.135:8000/play/a02n/index.m3u8
-Nickelodeon (576p),Nickelodeon.in,IN Kids,YES,playing,1.7,103.185.24.134:3001,http://103.185.24.134:3001/NICK/index.m3u8
-Sonic (576p),Sonic.in,IN Kids,YES,playing,1.7,103.185.24.134:3001,http://103.185.24.134:3001/SONIC/index.m3u8
-Sonic (576p),Sonic.in,IN Kids,YES,playing,1.9,202.70.146.135:8000,http://202.70.146.135:8000/play/a02t/index.m3u8
-Super Hungama (576p),SuperHungama.in,IN Kids,YES,playing,1.7,103.185.24.134:3001,http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
-The Jungle Book (1080p),TheJungleBook.in,IN Kids,YES,playing,3.4,cc-4bhi5osabejc9.akamaized.net,https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-Unique TV (576p),UniqueTV.in,IN Kids,YES,playing,3.2,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
-WOW Kidz (720p),WOWKidz.in@Telugu,IN Kids,YES,playing,1.4,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-WOW Kidz (720p),WOWKidz.in,IN Kids,YES,playing,1.6,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-WOW Kidz Tamil (720p),WOWKidz.in@Tamil,IN Kids,YES,playing,1.4,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-ZB Cartoon (1080p),ZBCartoon.in,IN Kids,YES,playing,4.4,server.zillarbarta.com,https://server.zillarbarta.com/zbcatun/video.m3u8
+Nick Jr. (576p),NickJr.in,IN Kids,YES,playing,1.8,202.70.146.135:8000,http://202.70.146.135:8000/play/a02n/index.m3u8
+Nickelodeon (576p),Nickelodeon.in,IN Kids,YES,playing,1.6,103.185.24.134:3001,http://103.185.24.134:3001/NICK/index.m3u8
+Sonic (576p),Sonic.in,IN Kids,YES,playing,1.6,103.185.24.134:3001,http://103.185.24.134:3001/SONIC/index.m3u8
+Sonic (576p),Sonic.in,IN Kids,YES,playing,2.2,202.70.146.135:8000,http://202.70.146.135:8000/play/a02t/index.m3u8
+Super Hungama (576p),SuperHungama.in,IN Kids,YES,playing,1.6,103.185.24.134:3001,http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+The Jungle Book (1080p),TheJungleBook.in,IN Kids,YES,playing,3.5,cc-4bhi5osabejc9.akamaized.net,https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+WOW Kidz (720p),WOWKidz.in,IN Kids,YES,playing,1.4,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+WOW Kidz (720p),WOWKidz.in@Telugu,IN Kids,YES,playing,1.7,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+WOW Kidz Tamil (720p),WOWKidz.in@Tamil,IN Kids,YES,playing,1.7,yuppparoriglin.akamaized.net,https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+ZB Cartoon (1080p),ZBCartoon.in,IN Kids,YES,playing,3.3,server.zillarbarta.com,https://server.zillarbarta.com/zbcatun/video.m3u8
 Disney Channel HD (1080p),DisneyChannel.in@HD,IN Kids,no,unreachable (timed out),8.0,66.102.126.10:8000,http://66.102.126.10:8000/play/a013/index.m3u8
 Hungama TV (576p),HungamaTV.in,IN Kids,no,unreachable (timed out),8.0,66.102.126.10:8000,http://66.102.126.10:8000/play/a023/index.m3u8
 Kids Zone (720p),KidsZone.pk,PK Kids,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a04m/index.m3u8
 Nick HD+ (1080p),NickHDPlus.in,IN Kids,no,unreachable (timed out),8.0,103.72.101.252:8080,http://103.72.101.252:8080/live/1226.m3u8
 Nick HD+ (1080p),NickHDPlus.in,IN Kids,no,unreachable (timed out),8.0,116.90.120.157:8000,http://116.90.120.157:8000/play/a0i3/index.m3u8
+Nick Jr. (576p),NickJr.in,IN Kids,no,segment HTTP 404,1.4,103.185.24.134:3001,http://103.185.24.134:3001/NICK-JR/index.m3u8
 Nickelodeon (576p),Nickelodeon.in,IN Kids,no,HTTP 458,0.5,dksmedia.tv,http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
 Nickelodeon (576p),Nickelodeon.in,IN Kids,no,HTTP 404,0.5,202.70.146.135:8000,http://202.70.146.135:8000/play/a04c/index.m3u8
-Sony Yay! (1080p),SonyYay.in,IN Kids,no,segment HTTP 403,0.2,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/yay.m3u8
+Sony Yay! (1080p),SonyYay.in,IN Kids,no,segment HTTP 403,0.4,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/yay.m3u8
 Sony Yay! (576p),SonyYay.in,IN Kids,no,unreachable (timed out),8.0,103.165.93.31:8095,http://103.165.93.31:8095/sonyYay/index.m3u8
+Unique TV (576p),UniqueTV.in,IN Kids,no,segment HTTP 404,2.8,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 Unique TV (576p),UniqueTV.in,IN Kids,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/688/master.m3u8

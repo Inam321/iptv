@@ -1,7 +1,7 @@
 #EXTM3U
 # India + Pakistan Entertainment
-# 91 verified working channels
-# updated 2026-09-15T06:56:54Z
+# 93 verified working channels
+# updated 2026-09-16T06:58:37Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="AakaashAath.in" tvg-name="Aakaash Aath" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Aakaash Aath (576p)
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
@@ -23,6 +23,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlis
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsMENA.in@HD" tvg-name="Colors MENA" tvg-logo="https://i.imgur.com/LjNFTdC.png" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Colors MENA HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsSuper.in" tvg-name="Colors Super" tvg-logo="https://dtil.tmsimg.com/assets/s158240_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="IN Entertainment",Colors Super (396p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ColorsTamil.in@HD" tvg-name="Colors Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors%20Tamil%20HD.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Colors Tamil HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" tvg-logo="https://i.imgur.com/BEr1r7L.png" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Dangal 2 (720p)
@@ -73,8 +75,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/mahaamax/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:-1 tvg-id="MangoMobileTV.in" tvg-name="Mango Mobile TV" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg" tvg-country="IN" tvg-language="tel" group-title="IN Entertainment",Mango Mobile TV (1080p)
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
-#EXTINF:-1 tvg-id="ManoranjanPrime.in" tvg-name="Manoranjan Prime" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrGNUi4TMw8UslbIJF1ja-NrA1Ps656h9cxrj6aTfl3Cm-_C2gxtBBAKz-fLdPk7rJ0YrXfNvcQaBSDFTUdPgSYt8sBA0xn4aSMPnl-J2hiKa7P3Ybjd3BlE3XjoAJ0d7HNvhy8mZFDbf1JfAdMVBpdnPBuim3y3x0zMw1D3ryOw3NCoOsPA5fMMplPbU/s500/manoranjan-prime-tv-schedule-on-dd-freedish.jpg" tvg-country="IN" tvg-language="bho" group-title="IN Entertainment",Manoranjan Prime
-https://cdn.pishow.tv/ott/live/1474/master.m3u8
+#EXTINF:-1 tvg-id="ManoranjanPrime.in" tvg-name="Manoranjan Prime" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrGNUi4TMw8UslbIJF1ja-NrA1Ps656h9cxrj6aTfl3Cm-_C2gxtBBAKz-fLdPk7rJ0YrXfNvcQaBSDFTUdPgSYt8sBA0xn4aSMPnl-J2hiKa7P3Ybjd3BlE3XjoAJ0d7HNvhy8mZFDbf1JfAdMVBpdnPBuim3y3x0zMw1D3ryOw3NCoOsPA5fMMplPbU/s500/manoranjan-prime-tv-schedule-on-dd-freedish.jpg" tvg-country="IN" tvg-language="bho" group-title="IN Entertainment",Manoranjan Prime (576p)
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" tvg-logo="https://dtil.tmsimg.com/assets/s143304_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Manoranjan TV (720p)
 https://cdn.pishow.tv/ott/live/1013/master.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-name="Mazhavil Manorama" tvg-logo="https://dtil.tmsimg.com/assets/s147769_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="mal" group-title="IN Entertainment",Mazhavil Manorama HD (1080p)
@@ -128,6 +130,8 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMarathi.in" tvg-name="Sony Marathi" tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="mar" group-title="IN Entertainment",Sony Marathi (1080p)
 https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Sony Pal (576p)
+http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" tvg-country="IN" tvg-language="asm" group-title="IN Entertainment",Spondon (1080p)
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-name="Star Jalsha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star-Jalsha--2000-x-1125--Transparent.png" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Star Jalsha HD (720p)
@@ -136,7 +140,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-name="Star Pravah" tvg-logo="https://dtil.tmsimg.com/assets/s143834_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="mar" group-title="IN Entertainment",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in@UK" tvg-name="Star Vijay" tvg-logo="https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Star Vijay (396p)
+#EXTINF:-1 tvg-id="StarVijay.in@UK" tvg-name="Star Vijay" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/iuxvzu.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Star Vijay (396p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-name="StarPlus" tvg-logo="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",StarPlus HD (1080p)
 http://41.205.93.154/STAR-PLUS/index.m3u8
