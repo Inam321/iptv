@@ -1,102 +1,100 @@
 channel,tvg_id,group,working,reason,seconds,host,url
-&TV HD (1080p),AndTV.in@HD,IN Movies,YES,playing,1.5,202.70.146.135:8000,http://202.70.146.135:8000/play/a06c/index.m3u8
-&TV International (1080p),AndTV.in@International,IN Movies,YES,playing,0.5,3f56f997.wurl.com,https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
-Alankar TV (720p),AlankarTV.in,IN Movies,YES,playing,1.2,livetv.tarangplus.in,https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
-Asianet Movies HD (720p),AsianetMovies.in@HD,IN Movies,YES,playing,0.4,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
-B4U Bhojpuri (1080p),B4UBhojpuri.in,IN Movies,YES,playing,0.5,cdnb4u.wiseplayout.com,https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-B4U Bhojpuri (576p),B4UBhojpuri.in,IN Movies,YES,playing,2.4,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
-B4U Bhojpuri (576p),B4UBhojpuri.in,IN Movies,YES,playing,2.6,streams.tangotv.in,https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
-B4U Kadak (576p),B4UKadak.in,IN Movies,YES,playing,2.4,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8
-B4U Kadak (576p),B4UKadak.in,IN Movies,YES,playing,2.6,streams.tangotv.in,https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
-B4U Kadak (576p),B4UKadak.in,IN Movies,YES,playing,2.8,tvsen3.aynaott.com,https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
-B4U Movies,B4UMovies.in,IN Movies,YES,playing,2.2,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/419/master.m3u8
-B4U Movies (576p),B4UMovies.in,IN Movies,YES,playing,2.5,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
-B4U Movies (576p),B4UMovies.in,IN Movies,YES,playing,2.6,streams.tangotv.in,https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
-Bhojpuri Cinema (576p),BhojpuriCinema.in,IN Movies,YES,playing,2.5,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
-Bhojpuri Cinema (576p),BhojpuriCinema.in,IN Movies,YES,playing,2.6,streams.tangotv.in,https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
-Bhojpuri Cinema (720p),BhojpuriCinema.in,IN Movies,YES,playing,1.6,live-bhojpuri.akamaized.net,https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-Colors Cineplex Bollywood (576p),ColorsCineplexBollywood.in,IN Movies,YES,playing,2.5,202.70.146.135:8000,http://202.70.146.135:8000/play/a058/index.m3u8
-Epic Bhojpuri (576p),EpicBhojpuri.in,IN Movies,YES,playing,2.4,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
-Epic Bhojpuri Digital (1080p),EpicBhojpuri.in@Digital,IN Movies,YES,playing,4.3,cc-8hy4a26pz2uos.akamaized.net,https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
-ETV Cinema HD (1080p),ETVCinema.in@HD,IN Movies,YES,playing,1.5,d27zlkxhgwrfgo.cloudfront.net,https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
-Filmax (576p),Filmax.pk,PK Movies,YES,playing,2.0,s3.ideationtec.live,https://s3.ideationtec.live/Filmax/Filmax.m3u8
-Goldmines (576p),Goldmines.in,IN Movies,YES,playing,2.5,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
-Goldmines (576p),Goldmines.in,IN Movies,YES,playing,2.6,streams.tangotv.in,https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
-Goldmines 2 (576p),Goldmines2.in,IN Movies,YES,playing,2.5,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
-Goldmines Action (576p),GoldminesAction.in,IN Movies,YES,playing,2.5,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
-Goldmines Bollywood (576p),GoldminesBollywood.in,IN Movies,YES,playing,2.4,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
-Goldmines Bollywood (576p),GoldminesBollywood.in,IN Movies,YES,playing,2.5,streams.tangotv.in,https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
-Goldmines Bollywood (576p),GoldminesBollywood.in,IN Movies,YES,playing,2.8,tvsen6.aynaott.com,https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
-Goldmines Movies (576p),GoldminesMovies.in,IN Movies,YES,playing,2.5,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
-Goldmines Movies (576p),GoldminesMovies.in,IN Movies,YES,playing,2.5,streams.tangotv.in,https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
-Goldmines Movies (576p),GoldminesMovies.in,IN Movies,YES,playing,2.7,tvsen3.aynaott.com,https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
-Indywood TV (720p),IndywoodTV.in,IN Movies,YES,playing,1.2,43wrzjnpqoxe-hls-live.wmncdn.net,https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
-Kairali We (576p),KairaliWe.in,IN Movies,YES,playing,2.2,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/1530/master.m3u8
-Kairali We (576p),KairaliWe.in,IN Movies,YES,playing,2.6,streams.tangotv.in,https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
-Kairali We (576p),KairaliWe.in,IN Movies,YES,playing,2.5,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
-Maha Movie (576p),MahaMovie.in,IN Movies,YES,playing,2.0,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/10007/master.m3u8
-Manoranjan Grand (576p),ManoranjanGrand.in,IN Movies,YES,playing,2.5,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8
-Manoranjan Grand (576p),ManoranjanGrand.in,IN Movies,YES,playing,2.6,streams.tangotv.in,https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
-Manoranjan Grand (720p),ManoranjanGrand.in,IN Movies,YES,playing,2.2,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/1011/master.m3u8
-Manoranjan Movies (576p),ManoranjanMovies.in,IN Movies,YES,playing,0.6,107.167.16.138,http://107.167.16.138/manoranjanmovies/index.m3u8?token=test
-Manoranjan Movies (576p),ManoranjanMovies.in,IN Movies,YES,playing,2.5,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
-MH One Movies (576p),MHOneMovies.in,IN Movies,YES,playing,2.5,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
-MNX (576p),MNX.in,IN Movies,YES,playing,1.5,59.103.38.46:8000,http://59.103.38.46:8000/play/a052/index.m3u8
-NH BollyGold (1080p),NHBollyGold.in,IN Movies,YES,playing,2.1,0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com,https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
-NH Tamil Gold (1080p),NHTamilGold.in,IN Movies,YES,playing,2.3,d3arbp6l7f096k.cloudfront.net,https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
-Oscar Movies Bhojpuri (576p),OscarMoviesBhojpuri.in,IN Movies,YES,playing,2.4,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
-Oscar Movies Bhojpuri (720p),OscarMoviesBhojpuri.in,IN Movies,YES,playing,2.0,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/233/master.m3u8
-Pitaara (576p),Pitaara.in,IN Movies,YES,playing,2.5,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
-Pitaara (576p),Pitaara.in,IN Movies,YES,playing,2.6,streams.tangotv.in,https://streams.tangotv.in/PITAARA/ORIGIN/index.m3u8
-Pitaara (720p),Pitaara.in,IN Movies,YES,playing,2.4,vg-pitaaratvlive.akamaized.net,https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-Pocket Films,PocketFilms.in,IN Movies,YES,playing,1.5,vglivessai.akamaized.net,https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
-Public Movies (576p),PublicMovies.in,IN Movies,YES,playing,2.5,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
-Punjabi Shorts (1080p),PunjabiShorts.in,IN Movies,YES,playing,3.8,vglivessai.akamaized.net,https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
-Raj Digital Plus (1080p),RajDigitalPlus.in,IN Movies,YES,playing,3.2,livestream.rajtv.tv,https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
-Shemaroo Filmi Gaane (1080p),ShemarooFilmiGaane.in,IN Movies,YES,playing,2.0,prod-runn.cdn.runn.tv,https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
-Shemaroo Josh (576p),ShemarooJosh.in,IN Movies,YES,playing,2.4,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
-Shemaroo Josh (720p),ShemarooJosh.in,IN Movies,YES,playing,0.8,airtelapp.shemaroo.com,https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-Shubh Cinema TV (576p),ShubhCinemaTV.in,IN Movies,YES,playing,2.5,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
-Shubh Cinema TV (720p),ShubhCinemaTV.in,IN Movies,YES,playing,2.1,d393sxaxig6bax.cloudfront.net,https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
-Sony Max 2 (576p),SonyMax2.in,IN Movies,YES,playing,0.6,107.167.16.138,http://107.167.16.138/sonymax2/index.m3u8?token=test
-Sony Pix HD (1080p),SonyPix.in@HD,IN Movies,YES,stream data,0.7,sl.vodep39240327.workers.dev,https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
-Sony Wah (1080p),SonyWah.in,IN Movies,YES,stream data,0.8,sl.vodep39240327.workers.dev,https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
-South Station (1080p),SouthStation.in,IN Movies,YES,playing,2.4,cc-yw7ztecy8do3q.akamaized.net,https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-Star Gold 2 (576p),StarGold2.in,IN Movies,YES,playing,0.6,107.167.16.138,http://107.167.16.138/stargold2/index.m3u8?token=test
-Star Maa Movies HD (720p),StarMaaMovies.in@HD,IN Movies,YES,playing,0.2,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-Studio One + (576p),StudioOnePlus.in,IN Movies,YES,playing,0.6,d2gvyg6lvauoko.cloudfront.net,https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-Studio One + (576p),StudioOnePlus.in,IN Movies,YES,playing,2.5,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8
-Studio One + (720p),StudioOnePlus.in,IN Movies,YES,playing,2.1,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/276/master.m3u8
-Suriyan TV (576p),SuriyanTV.in,IN Movies,YES,playing,2.4,hlslive.olidigital.in,https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
-Suriyan TV (576p),SuriyanTV.in,IN Movies,YES,playing,3.1,stream.sscloud7.com,https://stream.sscloud7.com/live/suriyantv/index.m3u8
-Thalaa TV (1080p),ThalaaTV.in,IN Movies,YES,playing,2.0,streams2.sofast.tv,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
-The Movie Club +2 (1080p),TheMovieClub.in@Plus2,IN Movies,YES,playing,2.1,d3gnyty2vddhsg.cloudfront.net,https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
-Tolly TV (1080p),TollyTV.in,IN Movies,YES,playing,1.3,streams2.sofast.tv,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
-Zee Action (576p),ZeeAction.in,IN Movies,YES,playing,0.6,107.167.16.138,http://107.167.16.138/zeeaction/index.m3u8?token=test
+&TV HD (1080p),AndTV.in@HD,IN Movies,YES,playing,1.9,202.70.146.135:8000,http://202.70.146.135:8000/play/a06c/index.m3u8
+&TV International (1080p),AndTV.in@International,IN Movies,YES,playing,1.0,3f56f997.wurl.com,https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+Alankar TV (720p),AlankarTV.in,IN Movies,YES,playing,1.6,livetv.tarangplus.in,https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
+All Time Movies (576p),AllTimeMovies.in,IN Movies,YES,playing,2.3,tvsen6.aynaott.com,https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
+Asianet Movies HD (720p),AsianetMovies.in@HD,IN Movies,YES,playing,0.7,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
+B4U Bhojpuri (1080p),B4UBhojpuri.in,IN Movies,YES,playing,0.7,cdnb4u.wiseplayout.com,https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+B4U Bhojpuri (576p),B4UBhojpuri.in,IN Movies,YES,playing,3.4,streams.tangotv.in,https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
+B4U Kadak (576p),B4UKadak.in,IN Movies,YES,playing,3.1,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8
+B4U Kadak (576p),B4UKadak.in,IN Movies,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
+B4U Movies,B4UMovies.in,IN Movies,YES,playing,2.3,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/419/master.m3u8
+B4U Movies (576p),B4UMovies.in,IN Movies,YES,playing,3.1,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
+B4U Movies (576p),B4UMovies.in,IN Movies,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+Bhojpuri Cinema (576p),BhojpuriCinema.in,IN Movies,YES,playing,3.1,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
+Bhojpuri Cinema (576p),BhojpuriCinema.in,IN Movies,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
+Bhojpuri Cinema (720p),BhojpuriCinema.in,IN Movies,YES,playing,1.8,live-bhojpuri.akamaized.net,https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+Colors Cineplex Bollywood (576p),ColorsCineplexBollywood.in,IN Movies,YES,stream data,1.9,dksmedia.tv,http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=946375&extension=ts&play_token=5n2Zexr7WT
+Epic Bhojpuri (576p),EpicBhojpuri.in,IN Movies,YES,playing,3.1,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+Epic Bhojpuri Digital (1080p),EpicBhojpuri.in@Digital,IN Movies,YES,playing,3.5,cc-8hy4a26pz2uos.akamaized.net,https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
+Filmax (576p),Filmax.pk,PK Movies,YES,playing,1.5,s3.ideationtec.live,https://s3.ideationtec.live/Filmax/Filmax.m3u8
+Goldmines (576p),Goldmines.in,IN Movies,YES,playing,3.1,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
+Goldmines (576p),Goldmines.in,IN Movies,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+Goldmines 2 (576p),Goldmines2.in,IN Movies,YES,playing,3.1,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+Goldmines Action (576p),GoldminesAction.in,IN Movies,YES,playing,3.1,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+Goldmines Bollywood (576p),GoldminesBollywood.in,IN Movies,YES,playing,2.3,tvsen6.aynaott.com,https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
+Goldmines Bollywood (576p),GoldminesBollywood.in,IN Movies,YES,playing,3.1,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+Goldmines Bollywood (576p),GoldminesBollywood.in,IN Movies,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+Goldmines Movies (576p),GoldminesMovies.in,IN Movies,YES,playing,3.1,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
+Goldmines Movies (576p),GoldminesMovies.in,IN Movies,YES,playing,3.3,streams.tangotv.in,https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
+Indywood TV (720p),IndywoodTV.in,IN Movies,YES,playing,0.8,43wrzjnpqoxe-hls-live.wmncdn.net,https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+Kairali We (576p),KairaliWe.in,IN Movies,YES,playing,2.3,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/1530/master.m3u8
+Kairali We (576p),KairaliWe.in,IN Movies,YES,playing,3.1,mumt01.tangotv.in,https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
+Kairali We (576p),KairaliWe.in,IN Movies,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
+Maha Movie (576p),MahaMovie.in,IN Movies,YES,playing,2.3,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/10007/master.m3u8
+Manoranjan Grand (576p),ManoranjanGrand.in,IN Movies,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
+Manoranjan Grand (576p),ManoranjanGrand.in,IN Movies,YES,playing,3.2,mumt06.tangotv.in,https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8
+Manoranjan Movies (576p),ManoranjanMovies.in,IN Movies,YES,playing,0.2,107.167.16.138,http://107.167.16.138/manoranjanmovies/index.m3u8?token=test
+Manoranjan Movies (576p),ManoranjanMovies.in,IN Movies,YES,playing,3.1,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+MH One Movies (576p),MHOneMovies.in,IN Movies,YES,playing,3.1,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
+NH BollyGold (1080p),NHBollyGold.in,IN Movies,YES,playing,2.7,0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com,https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+NH Tamil Gold (1080p),NHTamilGold.in,IN Movies,YES,playing,2.7,d3arbp6l7f096k.cloudfront.net,https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+Oscar Movies Bhojpuri (576p),OscarMoviesBhojpuri.in,IN Movies,YES,playing,3.1,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
+Oscar Movies Bhojpuri (720p),OscarMoviesBhojpuri.in,IN Movies,YES,playing,2.3,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/233/master.m3u8
+Pitaara (576p),Pitaara.in,IN Movies,YES,playing,3.1,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
+Pitaara (576p),Pitaara.in,IN Movies,YES,playing,3.2,streams.tangotv.in,https://streams.tangotv.in/PITAARA/ORIGIN/index.m3u8
+Pitaara (720p),Pitaara.in,IN Movies,YES,playing,5.3,vg-pitaaratvlive.akamaized.net,https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+Pocket Films,PocketFilms.in,IN Movies,YES,playing,1.3,vglivessai.akamaized.net,https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
+Public Movies (576p),PublicMovies.in,IN Movies,YES,playing,3.1,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+Punjabi Shorts (1080p),PunjabiShorts.in,IN Movies,YES,playing,2.0,vglivessai.akamaized.net,https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+Raj Digital Plus (1080p),RajDigitalPlus.in,IN Movies,YES,playing,5.5,livestream.rajtv.tv,https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+Shemaroo Josh (576p),ShemarooJosh.in,IN Movies,YES,playing,3.1,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
+Shubh Cinema TV (576p),ShubhCinemaTV.in,IN Movies,YES,playing,3.1,mumt03.tangotv.in,https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
+Shubh Cinema TV (720p),ShubhCinemaTV.in,IN Movies,YES,playing,3.7,d393sxaxig6bax.cloudfront.net,https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+Sony Max (576p),SonyMax.in,IN Movies,YES,stream data,2.0,dksmedia.tv,http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
+Sony Max 2 (576p),SonyMax2.in,IN Movies,YES,playing,0.2,107.167.16.138,http://107.167.16.138/sonymax2/index.m3u8?token=test
+Sony Pix HD (1080p),SonyPix.in@HD,IN Movies,YES,stream data,0.6,sl.vodep39240327.workers.dev,https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
+Sony Wah (1080p),SonyWah.in,IN Movies,YES,stream data,0.7,sl.vodep39240327.workers.dev,https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+South Station (1080p),SouthStation.in,IN Movies,YES,playing,2.9,cc-yw7ztecy8do3q.akamaized.net,https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+Star Gold 2 (576p),StarGold2.in,IN Movies,YES,playing,0.2,107.167.16.138,http://107.167.16.138/stargold2/index.m3u8?token=test
+Star Maa Movies HD (720p),StarMaaMovies.in@HD,IN Movies,YES,playing,0.3,da86m1sqpm3o0.cloudfront.net,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+Studio One + (576p),StudioOnePlus.in,IN Movies,YES,playing,1.0,d2gvyg6lvauoko.cloudfront.net,https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+Studio One + (576p),StudioOnePlus.in,IN Movies,YES,playing,3.1,mumt04.tangotv.in,https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8
+Studio One + (720p),StudioOnePlus.in,IN Movies,YES,playing,2.3,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/276/master.m3u8
+Suriyan TV (576p),SuriyanTV.in,IN Movies,YES,playing,2.0,hlslive.olidigital.in,https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
+Suriyan TV (576p),SuriyanTV.in,IN Movies,YES,playing,2.7,stream.sscloud7.com,https://stream.sscloud7.com/live/suriyantv/index.m3u8
+Thalaa TV (1080p),ThalaaTV.in,IN Movies,YES,playing,2.6,streams2.sofast.tv,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+The Movie Club +2 (1080p),TheMovieClub.in@Plus2,IN Movies,YES,playing,2.2,d3gnyty2vddhsg.cloudfront.net,https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+Tolly TV (1080p),TollyTV.in,IN Movies,YES,playing,2.9,streams2.sofast.tv,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+Zee Action (576p),ZeeAction.in,IN Movies,YES,playing,0.2,107.167.16.138,http://107.167.16.138/zeeaction/index.m3u8?token=test
 Zee Cinema (576p),ZeeCinema.in,IN Movies,YES,playing,0.7,d1g8wgjurz8via.cloudfront.net,https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-Zee Cinema APAC (720p),ZeeCinema.in@APAC,IN Movies,YES,playing,0.2,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-Zee Talkies (576p),ZeeTalkies.in,IN Movies,YES,playing,0.6,107.167.16.138,http://107.167.16.138/zeetalkies/index.m3u8?token=test
-&TV International (1080p),AndTV.in@International,IN Movies,no,too little data,0.2,amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv,https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-&xplor HD (1080p),AndxplorHD.in,IN Movies,no,HTTP 458,0.5,dksmedia.tv,http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
-All Time Movies (576p),AllTimeMovies.in,IN Movies,no,HTTP 404,0.8,tvsen6.aynaott.com,https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
-Bollygold (1080p),Bollygold.in,IN Movies,no,segment HTTP 404,2.2,jmp2.uk,https://jmp2.uk/stvp-IN4000600Q
-Colors Cineplex Bollywood (576p),ColorsCineplexBollywood.in,IN Movies,no,HTTP 429,0.4,dksmedia.tv,http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=946375&extension=ts&play_token=5n2Zexr7WT
-ETV Cinema (396p),ETVCinema.in,IN Movies,no,variant manifest failed,0.2,yupplivegcpusa.yuppcdn.net,https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-ETV Cinema HD (1080p),ETVCinema.in@HD,IN Movies,no,HTTP 404,0.8,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
+Zee Cinema APAC (720p),ZeeCinema.in@APAC,IN Movies,YES,playing,0.4,raw.githubusercontent.com,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+Zee Talkies (576p),ZeeTalkies.in,IN Movies,YES,playing,0.2,107.167.16.138,http://107.167.16.138/zeetalkies/index.m3u8?token=test
+&TV International (1080p),AndTV.in@International,IN Movies,no,too little data,0.4,amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv,https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+&xplor HD (1080p),AndxplorHD.in,IN Movies,no,HTTP 429,0.7,dksmedia.tv,http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
+B4U Bhojpuri (576p),B4UBhojpuri.in,IN Movies,no,segment HTTP 404,2.8,mumt05.tangotv.in,https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
+B4U Kadak (576p),B4UKadak.in,IN Movies,no,HTTP 404,0.7,tvsen3.aynaott.com,https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
+Bollygold (1080p),Bollygold.in,IN Movies,no,segment HTTP 404,1.4,jmp2.uk,https://jmp2.uk/stvp-IN4000600Q
+Colors Cineplex Bollywood (576p),ColorsCineplexBollywood.in,IN Movies,no,segment empty,1.7,202.70.146.135:8000,http://202.70.146.135:8000/play/a058/index.m3u8
+ETV Cinema (396p),ETVCinema.in,IN Movies,no,too little data,0.2,yupplivegcpusa.yuppcdn.net,https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+ETV Cinema HD (1080p),ETVCinema.in@HD,IN Movies,no,unreachable ([Errno -5] No address associated with ho),0.0,d27zlkxhgwrfgo.cloudfront.net,https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+ETV Cinema HD (1080p),ETVCinema.in@HD,IN Movies,no,HTTP 404,1.0,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
 Filmazia (576p),Filmazia.pk,PK Movies,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a02k/index.m3u8
-Goldmines (576p),Goldmines.in,IN Movies,no,HTTP 404,0.8,tvsen3.aynaott.com,https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
-NH BollyFlix (1080p),NHBollyFlix.in,IN Movies,no,segment HTTP 404,2.0,jmp2.uk,https://jmp2.uk/stvp-IN46000140Q
-Shemaroo Filmi Gaane (1080p),ShemarooFilmiGaane.in,IN Movies,no,unreachable (timed out),8.0,103.213.31.109:90,http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
-Sony Max (1080p),SonyMax.in,IN Movies,no,segment HTTP 403,0.2,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/max.m3u8
-Sony Max (576p),SonyMax.in,IN Movies,no,HTTP 458,0.2,dksmedia.tv,http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
+Goldmines (576p),Goldmines.in,IN Movies,no,HTTP 404,0.7,tvsen3.aynaott.com,https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
+Goldmines Movies (576p),GoldminesMovies.in,IN Movies,no,HTTP 404,0.7,tvsen3.aynaott.com,https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
+Manoranjan Grand (720p),ManoranjanGrand.in,IN Movies,no,segment HTTP 404,2.0,cdn.pishow.tv,https://cdn.pishow.tv/ott/live/1011/master.m3u8
+MNX (576p),MNX.in,IN Movies,no,segment empty,1.7,59.103.38.46:8000,http://59.103.38.46:8000/play/a052/index.m3u8
+NH BollyFlix (1080p),NHBollyFlix.in,IN Movies,no,segment HTTP 404,1.7,jmp2.uk,https://jmp2.uk/stvp-IN46000140Q
+Shemaroo Filmi Gaane (1080p),ShemarooFilmiGaane.in,IN Movies,no,HTTP 403,0.0,prod-runn.cdn.runn.tv,https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+Sony Max (1080p),SonyMax.in,IN Movies,no,segment HTTP 403,0.3,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/max.m3u8
 Sony Max 2 (1080p),SonyMax2.in,IN Movies,no,segment HTTP 403,0.1,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/max2.m3u8
 Sony Max 2 (576p),SonyMax2.in,IN Movies,no,unreachable (timed out),8.0,149.71.34.166:8000,http://149.71.34.166:8000/play/a00z/index.m3u8
-Sony Max HD (1080p),SonyMax.in@HD,IN Movies,no,segment HTTP 403,0.1,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
+Sony Max HD (1080p),SonyMax.in@HD,IN Movies,no,segment HTTP 403,0.3,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
 Sony Pix HD (1080p),SonyPix.in@HD,IN Movies,no,segment HTTP 403,0.1,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
-Sony Wah (1080p),SonyWah.in,IN Movies,no,segment HTTP 403,0.0,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/wah.m3u8
-The Movie Club (1080p),TheMovieClub.in,IN Movies,no,segment HTTP 404,0.8,sis-global.prod.samsungtv.plus,https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-The Movie Club (1080p),TheMovieClub.in,IN Movies,no,segment HTTP 404,2.4,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
+Sony Wah (1080p),SonyWah.in,IN Movies,no,segment HTTP 403,0.1,cloudplay-sonyliv.pages.dev,https://cloudplay-sonyliv.pages.dev/wah.m3u8
+The Movie Club (1080p),TheMovieClub.in,IN Movies,no,segment HTTP 404,1.5,sis-global.prod.samsungtv.plus,https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+The Movie Club (1080p),TheMovieClub.in,IN Movies,no,segment HTTP 404,3.0,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
 Zee Biskope (576p),ZeeBiskope.in,IN Movies,no,unreachable (timed out),8.0,103.175.73.12:8080,http://103.175.73.12:8080/live/347/master.m3u8
-Zee Cinema ME (432p),ZeeCinema.in@ME,IN Movies,no,HTTP 403,1.8,ev-eu-hw-fast-mpd.starzplayarabia.com,https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
-Zee Cinemalu HD (720p),ZeeCinemalu.in@HD,IN Movies,no,HTTP 404,0.8,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
+Zee Cinema ME (432p),ZeeCinema.in@ME,IN Movies,no,HTTP 403,1.9,ev-eu-hw-fast-mpd.starzplayarabia.com,https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
+Zee Cinemalu HD (720p),ZeeCinemalu.in@HD,IN Movies,no,HTTP 404,1.0,mumbai-edge.smartplaytv.in,https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 Zee South Flix (1080p),ZeeSouthFlix.in,IN Movies,no,HTTP 403,0.1,amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv,https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
