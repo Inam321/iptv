@@ -1,18 +1,18 @@
 channel,tvg_id,group,working,reason,seconds,host,url
-Fazal TV (1080p),FazalTV.pk,PK Religious,YES,playing,0.2,cdn9.live247stream.com,http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-God Stands Kids Club TV Arabic,GodStandsKidsClubTV.pk@Arabic,PK Religious,YES,playing,1.2,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
-God Stands Kids Club TV Chinese,GodStandsKidsClubTV.pk@Chinese,PK Religious,YES,playing,1.2,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-God Stands Kids Club TV English,GodStandsKidsClubTV.pk,PK Religious,YES,playing,1.2,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
-God Stands TV Arabic,GodStandsTV.pk@Arabic,PK Religious,YES,playing,1.2,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
-God Stands TV Chinese,GodStandsTV.pk@Chinese,PK Religious,YES,playing,1.2,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
-God Stands TV English,GodStandsTV.pk@English,PK Religious,YES,playing,1.4,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
-Grace Network (720p),GraceNetwork.pk,PK Religious,YES,playing,1.0,livecdn.live247stream.com,https://livecdn.live247stream.com/grace/tv/playlist.m3u8
-Isaac TV (720p),IsaacTV.pk,PK Religious,YES,playing,1.0,livecdn.live247stream.com,https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
-Joshua TV (720p),JoshuaTV.pk,PK Religious,YES,playing,1.0,livecdn.live247stream.com,https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
-King TV (720p),KingTV.pk,PK Religious,YES,playing,0.3,streamer12.vdn.dstreamone.net,https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
-Madani Channel English (720p),MadaniChannelEnglish.pk,PK Religious,YES,playing,1.0,streaming.madanichannel.tv,https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-Madani Channel English (720p),MadaniChannelEnglish.pk,PK Religious,YES,playing,2.0,tvsen7.aynascope.net,http://tvsen7.aynascope.net/MadaniTV/index.m3u8
-Madani Channel Urdu (720p),MadaniChannelUrdu.pk,PK Religious,YES,playing,1.0,streaming.madanichannel.tv,https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
-Paighan TV,PaighanTV.pk,PK Religious,YES,playing,1.0,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
+Fazal TV (1080p),FazalTV.pk,PK Religious,YES,playing,0.6,cdn9.live247stream.com,http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+God Stands Kids Club TV Arabic,GodStandsKidsClubTV.pk@Arabic,PK Religious,YES,playing,4.0,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+God Stands Kids Club TV Chinese,GodStandsKidsClubTV.pk@Chinese,PK Religious,YES,playing,3.7,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+God Stands Kids Club TV English,GodStandsKidsClubTV.pk,PK Religious,YES,playing,2.8,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+God Stands TV Arabic,GodStandsTV.pk@Arabic,PK Religious,YES,playing,3.6,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
+God Stands TV English,GodStandsTV.pk@English,PK Religious,YES,playing,5.8,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
+Grace Network (720p),GraceNetwork.pk,PK Religious,YES,playing,1.6,livecdn.live247stream.com,https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+Isaac TV (720p),IsaacTV.pk,PK Religious,YES,playing,1.6,livecdn.live247stream.com,https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
+Joshua TV (720p),JoshuaTV.pk,PK Religious,YES,playing,1.6,livecdn.live247stream.com,https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
+Madani Channel English (720p),MadaniChannelEnglish.pk,PK Religious,YES,playing,1.5,streaming.madanichannel.tv,https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
+Madani Channel English (720p),MadaniChannelEnglish.pk,PK Religious,YES,playing,1.5,tvsen7.aynascope.net,http://tvsen7.aynascope.net/MadaniTV/index.m3u8
+Madani Channel Urdu (720p),MadaniChannelUrdu.pk,PK Religious,YES,playing,1.6,streaming.madanichannel.tv,https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+Paighan TV,PaighanTV.pk,PK Religious,YES,playing,1.7,cdn4.mjunoon.tv:8087,https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
+God Stands TV Chinese,GodStandsTV.pk@Chinese,PK Religious,no,HTTP 404,3.0,online.godstands.tv:5443,https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
+King TV (720p),KingTV.pk,PK Religious,no,HTTP 404,0.3,streamer12.vdn.dstreamone.net,https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 Paighan TV (1080p),PaighanTV.pk,PK Religious,no,unreachable (timed out),8.0,116.90.120.151:8000,http://116.90.120.151:8000/play/a00h/index.m3u8
 Quran TV (576p),QuranTV.pk,PK Religious,no,unreachable (timed out),8.0,103.250.28.74:8000,http://103.250.28.74:8000/play/a03e/index.m3u8
