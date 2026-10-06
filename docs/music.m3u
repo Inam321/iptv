@@ -1,7 +1,7 @@
 #EXTM3U
 # India + Pakistan Music
-# 47 verified working channels
-# updated 2026-10-05T07:54:14Z
+# 48 verified working channels
+# updated 2026-10-06T08:17:51Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",7S Music (576p)
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
@@ -18,7 +18,7 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-name="Aaryaa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Aaryaa TV (1080p)
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Music",B4U Music (1080p)
-https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in@HD" tvg-name="Balle Balle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Balle Balle HD (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-name="Boogle Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Boogle Bollywood (720p)
@@ -39,6 +39,8 @@ https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-name="Isai Aruvi" tvg-logo="https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tam" group-title="IN Music",Isai Aruvi (396p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-id="KalikaTV.in" tvg-name="Kalika TV" tvg-logo="https://i.imgur.com/XWXFoJA.png" tvg-country="IN" tvg-language="mal" group-title="IN Music",Kalika TV (576p)
+http://server.applelive.in/kalikatv/kalikatv.m3u8
 #EXTINF:-1 tvg-id="Mastiii.in" tvg-name="Mastiii" tvg-logo="https://i.imgur.com/lxgXHx4.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Mastiii (576p)
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Music.in" tvg-name="Mh 1 Music" tvg-logo="https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="pan" group-title="IN Music",Mh 1 Music (720p)
@@ -66,7 +68,7 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="Raj Musix Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN Music",Raj Musix Telugu (720p)
 https://cdn.pishow.tv/ott/live/1213/master.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="tam" group-title="IN Music",Sana Plus (1080p)
-https://galaxyott.live/hls/sanaplus.m3u8
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Music",Sangeet Bangla (720p)
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="bho" group-title="IN Music",Sangeet Bhojpuri (576p)
@@ -92,7 +94,7 @@ http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4039f3b175376a61de/images/LOGO_HD/LOGO_HD_KN-eM9VvQ_ZoomTV1_1.png" tvg-country="IN" tvg-language="hin" group-title="IN Music",Zoom (720p)
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="8XM.pk@HD" tvg-name="8XM" tvg-logo="https://i.imgur.com/KLrfKRn.png" tvg-country="PK" tvg-language="urd" group-title="PK Music",8XM HD
-https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8
+https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 #EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" tvg-logo="https://i.imgur.com/HWb5Iat.png" tvg-country="PK" tvg-language="eng" group-title="PK Music",Jalwa TV
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
 #EXTINF:-1 tvg-id="JooMusic.pk" tvg-name="JooMusic" tvg-logo="https://i.imgur.com/KHuKQQL.png" tvg-country="PK" tvg-language="urd" group-title="PK Music",JooMusic (720p)

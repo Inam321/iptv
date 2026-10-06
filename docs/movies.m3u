@@ -1,7 +1,7 @@
 #EXTM3U
 # India + Pakistan Movies
-# 57 verified working channels
-# updated 2026-10-05T07:54:14Z
+# 62 verified working channels
+# updated 2026-10-06T08:17:51Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="AndTV.in@International" tvg-name="&TV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/%26TV_Transparent_c5cc189b-8493-48d2-b07c-3fa4f92d754a.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",&TV International (1080p)
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
@@ -18,7 +18,7 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U-Kadak-BLACK-transparent.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",B4U Kadak (576p)
 https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Movies",B4U Movies (576p)
-https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Bhojpuri%20Cinema.png" tvg-country="IN" tvg-language="bho" group-title="IN Movies",Bhojpuri Cinema (720p)
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" tvg-logo="https://dtil.tmsimg.com/assets/s142748_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Movies",Colors Bangla Cinema (576p)
@@ -26,27 +26,29 @@ http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors%20Cineplex%20HD.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Colors Cineplex (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors-Cineplex-Bollywood-Transparent.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Colors Cineplex Bollywood (576p)
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=946375&extension=ts&play_token=5n2Zexr7WT
+http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-name="Colors Cineplex Superhits" tvg-logo="https://dtil.tmsimg.com/assets/s142750_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Colors Cineplex Superhits (576p)
 http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
 #EXTINF:-1 tvg-id="ColorsGujaratiCinema.in" tvg-name="Colors Gujarati Cinema" tvg-logo="https://dtil.tmsimg.com/assets/s142751_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="guj" group-title="IN Movies",Colors Gujarati Cinema (576p)
 http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8
 #EXTINF:-1 tvg-id="ColorsKannadaCinema.in" tvg-name="Colors Kannada Cinema" tvg-logo="https://dtil.tmsimg.com/assets/s142752_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="IN Movies",Colors Kannada Cinema (576p)
 http://51.75.127.199:3141/colorskannadacinema/index.m3u8
-#EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/FILAMCHI_BHOJPURI_HINDI-transparent.png" tvg-country="IN" tvg-language="bho" group-title="IN Movies",Epic Bhojpuri (576p)
-https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="EpicBhojpuri.in@Digital" tvg-name="Epic Bhojpuri" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/FILAMCHI_BHOJPURI_HINDI-transparent.png" tvg-country="IN" tvg-language="bho" group-title="IN Movies",Epic Bhojpuri Digital (1080p)
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Goldmines%20Logo_Transparent.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Goldmines (576p)
-https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in" tvg-name="Goldmines 2" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Goldmines 2 (576p)
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Goldmines Action (576p)
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Goldmines Bollywood (576p)
-https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Goldmines Movies (576p)
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="IndywoodTV.in" tvg-name="Indywood TV" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" tvg-country="IN" tvg-language="eng" group-title="IN Movies",Indywood TV (720p)
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-name="Jalsha Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143219_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Movies",Jalsha Movies HD (1080p)
+http://103.151.60.162:2122/play/a00x/index.m3u8?hls
 #EXTINF:-1 tvg-id="KairaliWe.in" tvg-name="Kairali We" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/We%20TV.png" tvg-country="IN" tvg-language="mal" group-title="IN Movies",Kairali We (576p)
 https://cdn.pishow.tv/ott/live/1530/master.m3u8
 #EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Maha Movie (576p)
@@ -57,10 +59,14 @@ https://cdn.pishow.tv/ott/live/1011/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="MHOneMovies.in" tvg-name="MH One Movies" tvg-country="IN" tvg-language="hin" group-title="IN Movies",MH One Movies (576p)
 https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-name="Movies Now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4839f3b175376a61e2/images/LOGO_HD/LOGO_HD_hAgaZac_j_MoviesNow1_1.png" tvg-country="IN" tvg-language="eng" group-title="IN Movies",Movies Now HD (1080p)
+http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 #EXTINF:-1 tvg-id="NHBollyGold.in" tvg-name="NH BollyGold" tvg-logo="https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",NH BollyGold (1080p)
 https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
 #EXTINF:-1 tvg-id="NHTamilGold.in" tvg-name="NH Tamil Gold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png" tvg-country="IN" tvg-language="tam" group-title="IN Movies",NH Tamil Gold (1080p)
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/s143638_ld_h9_ab.png?lock=720x540" tvg-country="IN" tvg-language="bho" group-title="IN Movies",Oscar Movies Bhojpuri (720p)
+https://cdn.pishow.tv/ott/live/233/master.m3u8
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Pitaara-Logo_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="pan" group-title="IN Movies",Pitaara (720p)
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-id="PocketFilms.in" tvg-name="Pocket Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Pocket Films
@@ -71,22 +77,24 @@ https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
 #EXTINF:-1 tvg-id="RajDigitalPlus.in" tvg-name="Raj Digital Plus" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Raj%20Digital%20Plus.png" tvg-country="IN" tvg-language="tam" group-title="IN Movies",Raj Digital Plus (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1 tvg-id="RomedyNow.in" tvg-name="Romedy Now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3839f3b175376a61d9/images/LOGO_HD/LOGO_HD_pZo0YIZKB_RomedyNow1_1.png" tvg-country="IN" tvg-language="eng" group-title="IN Movies",Romedy Now (1080p)
+http://51.75.127.199:3141/romedynow/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooJosh.in" tvg-name="Shemaroo Josh" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ShemarooJosh_Transparent_3506d79a-bad8-4c99-905d-9b917076ad43.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Shemaroo Josh (576p)
 https://cdn.pishow.tv/ott/live/337/master.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" tvg-logo="https://i.imgur.com/RQhorAG.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Shubh Cinema TV (720p)
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 #EXTINF:-1 tvg-id="SidharthGold.in" tvg-name="Sidharth Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_Gold.png" tvg-country="IN" tvg-language="ori" group-title="IN Movies",Sidharth Gold (576p)
 http://51.75.127.199:3141/sidharthgold/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Sony Max (576p)
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony Max 2" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Sony Max 2 (576p)
 http://107.167.16.138/sonymax2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Sony Wah (1080p)
-https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Sony Max HD (1080p)
+http://103.185.24.134:3001/SonyMAX/index.m3u8
 #EXTINF:-1 tvg-id="SouthStation.in" tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",South Station (1080p)
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Star Gold (576p)
-http://51.75.127.199:3141/stargold/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-name="Star Gold 2" tvg-logo="https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Star Gold 2 HD (1080p)
+http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Star Gold HD (1080p)
+http://103.185.24.134:3001/Star-Gold/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="Star Gold Select" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Star Gold Select HD (1080p)
 http://51.75.127.199:3141/stargoldselecthd/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-name="Star Maa Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN Movies",Star Maa Movies HD (720p)
@@ -101,6 +109,8 @@ http://51.75.127.199:3141/starsuvarnaplus/index.m3u8
 http://51.75.127.199:3141/starutsavmovies/index.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-country="IN" tvg-language="tel" group-title="IN Movies",Studio One + (576p)
 https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="SuriyanTV.in" tvg-name="Suriyan TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" tvg-country="IN" tvg-language="tam" group-title="IN Movies",Suriyan TV (576p)
+https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="ThalaaTV.in" tvg-name="Thalaa TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" tvg-country="IN" tvg-language="tam" group-title="IN Movies",Thalaa TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in@Plus2" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",The Movie Club +2 (1080p)
@@ -113,7 +123,7 @@ http://51.75.127.199:3141/vijaysuper/index.m3u8
 http://107.167.16.138/zeeaction/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/960px-Zee_Cinema_2025.svg.png" tvg-country="IN" tvg-language="hin" group-title="IN Movies",Zee Cinema (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemalu.in@HD" tvg-name="Zee Cinemalu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="tel" group-title="IN Movies",Zee Cinemalu HD (1080p)
+http://51.75.127.199:3141/zeecinemaluhd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTalkies.in@HD" tvg-name="Zee Talkies" tvg-logo="https://i.imgur.com/GowDXFz.png" tvg-country="IN" tvg-language="mar" group-title="IN Movies",Zee Talkies HD (1080p)
 http://51.75.127.199:3141/zeetalkieshd/index.m3u8
-#EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" tvg-country="PK" tvg-language="urd" group-title="PK Movies",Filmax (576p)
-https://s3.ideationtec.live/Filmax/Filmax.m3u8
