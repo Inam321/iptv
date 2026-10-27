@@ -1,15 +1,15 @@
 # Playlist status
 
-Last updated: **2026-10-26T07:12:27Z**
+Last updated: **2026-10-27T07:00:55Z**
 
 | Playlist | Streams tested | Working channels |
 |---|---:|---:|
-| India + Pakistan News | 504 | 244 |
-| India + Pakistan Music | 104 | 52 |
-| India + Pakistan Movies | 103 | 47 |
-| India + Pakistan Entertainment | 212 | 100 |
-| India + Pakistan Kids | 35 | 16 |
+| India + Pakistan News | 504 | 245 |
+| India + Pakistan Music | 104 | 51 |
+| India + Pakistan Movies | 103 | 51 |
+| India + Pakistan Entertainment | 212 | 98 |
+| India + Pakistan Kids | 35 | 13 |
 | Pakistan Religious | 17 | 10 |
-| International Sports | 616 | 228 |
+| International Sports | 617 | 233 |
 
-Total: **697** working channels from 1591 streams tested.
+Total: **701** working channels from 1592 streams tested.
