@@ -1,20 +1,16 @@
 #EXTM3U
 # Pakistan Religious
-# 8 verified working channels
-# updated 2026-10-30T07:52:50Z
+# 6 verified working channels
+# updated 2026-10-31T07:42:58Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="FazalTV.pk" tvg-name="Fazal TV" tvg-logo="https://i.imgur.com/c0fvKia.png" tvg-country="PK" tvg-language="eng" group-title="PK Religious",Fazal TV (1080p)
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GraceNetwork.pk" tvg-name="Grace Network" tvg-logo="https://i.imgur.com/QSaZPJ4.png" tvg-country="PK" tvg-language="urd" group-title="PK Religious",Grace Network (720p)
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IsaacTV.pk" tvg-name="Isaac TV" tvg-logo="https://i.imgur.com/RHDbsiO.png" tvg-country="PK" tvg-language="eng" group-title="PK Religious",Isaac TV (720p)
-https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JoshuaTV.pk" tvg-name="Joshua TV" tvg-logo="https://i.imgur.com/x9xPR2h.png" tvg-country="PK" tvg-language="eng" group-title="PK Religious",Joshua TV (720p)
 https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KingTV.pk" tvg-name="King TV" tvg-logo="https://i.imgur.com/dujrwRE.png" tvg-country="PK" tvg-language="eng" group-title="PK Religious",King TV (720p)
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk" tvg-name="Madani Channel English" tvg-logo="https://i.imgur.com/Abi9j0A.png" tvg-country="PK" tvg-language="eng" group-title="PK Religious",Madani Channel English (720p)
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-name="Madani Channel Urdu" tvg-logo="https://i.imgur.com/MitLeCJ.png" tvg-country="PK" tvg-language="urd" group-title="PK Religious",Madani Channel Urdu (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" tvg-logo="https://i.imgur.com/zokC3gO.png" tvg-country="PK" tvg-language="urd" group-title="PK Religious",Paighan TV
