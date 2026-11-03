@@ -1,7 +1,7 @@
 #EXTM3U
 # India + Pakistan Entertainment
 # 94 verified working channels
-# updated 2026-11-02T08:36:51Z
+# updated 2026-11-03T08:48:39Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="AakaashAath.in" tvg-name="Aakaash Aath" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Aakaash Aath (576p)
 https://cdn.pishow.tv/ott/live/969/master.m3u8
@@ -106,8 +106,6 @@ https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 #EXTINF:-1 tvg-id="OliTV.in" tvg-name="Oli TV" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-country="IN" tvg-language="tam" group-title="IN Entertainment",Oli TV (1080p)
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-id="OnePaschima.in" tvg-name="One Paschima" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" tvg-country="IN" tvg-language="ory" group-title="IN Entertainment",One Paschima (400p)
-https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
 #EXTINF:-1 tvg-id="PasandTV.in" tvg-name="Pasand TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Pasand-Logo--transparent.png" tvg-country="IN" tvg-language="bho" group-title="IN Entertainment",Pasand TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
 #EXTINF:-1 tvg-id="PearTV.in" tvg-name="Pear TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="asm" group-title="IN Entertainment",Pear TV (576p)
@@ -146,8 +144,6 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Sony SAB (720p)
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" tvg-country="IN" tvg-language="asm" group-title="IN Entertainment",Spondon (576p)
-https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-name="Star Jalsha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star-Jalsha--2000-x-1125--Transparent.png" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Star Jalsha HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-name="Star Maa" tvg-logo="https://dtil.tmsimg.com/assets/s179620_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN Entertainment",Star Maa HD (720p)
@@ -192,6 +188,10 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
 #EXTINF:-1 tvg-id="ZeeTelugu.in@HD" tvg-name="Zee Telugu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S99J.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN Entertainment",Zee Telugu HD (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-name="Zee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Zee TV HD (720p)
+http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-id="Zingabad.in" tvg-name="Zingabad" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png" tvg-country="IN" tvg-language="hin" group-title="IN Entertainment",Zingabad (1080p)
+https://stream.ottlive.co.in/zingabad/index.m3u8
 #EXTINF:-1 tvg-id="ZodiakTV.in" tvg-name="Zodiak TV" tvg-logo="https://i.imgur.com/gE166hZ.jpeg" tvg-country="IN" tvg-language="ben" group-title="IN Entertainment",Zodiak TV (1080p)
 https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 #EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" tvg-logo="https://i.imgur.com/uu0UJme.png" tvg-country="PK" tvg-language="urd" group-title="PK Entertainment",A-Plus TV
