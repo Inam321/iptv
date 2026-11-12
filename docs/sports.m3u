@@ -1,7 +1,7 @@
 #EXTM3U
 # International Sports
-# 253 verified working channels
-# updated 2026-11-11T08:37:37Z
+# 260 verified working channels
+# updated 2026-11-12T08:56:46Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="CanalShowsport.ar" tvg-name="Canal Showsport" tvg-logo="https://i.imgur.com/0L9tW3Z.png" tvg-country="AR" tvg-language="spa" group-title="AR Sports",Canal Showsport (720p)
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
@@ -25,6 +25,18 @@ https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 #EXTINF:-1 tvg-id="SkyRacing1.au" tvg-name="Sky Racing 1" tvg-logo="https://i.imgur.com/Hf0EiaW.png" tvg-country="AU" tvg-language="eng" group-title="AU Sports",Sky Racing 1 (720p)
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="Max Sport 1" tvg-logo="https://i.imgur.com/0ohnpql.png" tvg-country="BG" tvg-language="bul" group-title="BG Sports",Max Sport 1 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
+http://213.91.179.28:8000/play/a0as
+#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2" tvg-logo="https://i.imgur.com/33m1wPN.png" tvg-country="BG" tvg-language="bul" group-title="BG Sports",Max Sport 2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0at
+#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="Max Sport 3" tvg-logo="https://i.imgur.com/eGiGgZ2.png" tvg-country="BG" tvg-language="bul" group-title="BG Sports",Max Sport 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0ar
+#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" tvg-logo="https://i.imgur.com/7IxXX6f.png" tvg-country="BG" tvg-language="bul" group-title="BG Sports",Max Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05n
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-name="Bahrain Sports 1" tvg-logo="https://i.imgur.com/fBpLsbC.png" tvg-country="BH" tvg-language="ara" group-title="BH Sports",Bahrain Sports 1 (720p)
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-name="Bahrain Sports 2" tvg-logo="https://i.imgur.com/ZkuZmIo.png" tvg-country="BH" tvg-language="ara" group-title="BH Sports",Bahrain Sports 2 (720p)
@@ -57,8 +69,8 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-country="CL" tvg-language="spa" group-title="CL Sports",TNT Sports (480p)
 http://205.235.6.29:8000/play/a0xa/index.m3u8
-#EXTINF:-1 tvg-id="TNTSportsPremium.cl@ArgentinaHD" tvg-name="TNT Sports Premium" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-country="CL" tvg-language="spa" group-title="CL Sports",TNT Sports Premium ArgentinaHD (1080p)
-http://181.78.79.131:8000/play/a0q9
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl@HD" tvg-name="TNT Sports Premium" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-country="CL" tvg-language="spa" group-title="CL Sports",TNT Sports Premium HD
+https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8
 #EXTINF:-1 tvg-id="TurfMovil.cl" tvg-name="Turf Movil" tvg-logo="https://i.imgur.com/TwIe4lK.png" tvg-country="CL" tvg-language="spa" group-title="CL Sports",Turf Movil (720p)
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 #EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm@SD" tvg-name="CRTV Sports and Entertainment" tvg-logo="https://i.imgur.com/DiIei9F.png" tvg-country="CM" tvg-language="fra" group-title="CM Sports",CRTV Sports and Entertainment (360p)
@@ -85,10 +97,23 @@ http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
 http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV" tvg-logo="https://i.imgur.com/SLrjImc.png" tvg-country="DE" tvg-language="deu" group-title="DE Sports",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" tvg-country="DE" tvg-language="deu" group-title="DE Sports",Sky Sport F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/51/index.m3u8
+#EXTINF:-1 tvg-id="SkySportGolf.de" tvg-name="Sky Sport Golf" tvg-logo="https://i.imgur.com/nhhbHvs.png" tvg-country="DE" tvg-language="deu" group-title="DE Sports",Sky Sport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/56/index.m3u8
+#EXTINF:-1 tvg-id="SkySportMix.de" tvg-name="Sky Sport Mix" tvg-logo="https://i.imgur.com/erx02nr.png" tvg-country="DE" tvg-language="deu" group-title="DE Sports",Sky Sport Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/53/index.m3u8
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/960px-Sky_Sport_News_2020.svg.png" tvg-country="DE" tvg-language="deu" group-title="DE Sports",Sky Sport News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/49/index.m3u8
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/960px-Sky_Sport_Tennis.svg.png" tvg-country="DE" tvg-language="deu" group-title="DE Sports",Sky Sport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://94.130.48.67:8042/stream/55/index.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-logo="https://i.imgur.com/lta5Mog.png" tvg-country="DE" tvg-language="deu" group-title="DE Sports",World of Freesports (1080p)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-name="CDN Deportes" tvg-logo="https://i.imgur.com/yU5LqTL.png" tvg-country="DO" tvg-language="spa" group-title="DO Sports",CDN Deportes (720p)
-https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="Esport3.es@Originals" tvg-name="Esport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" tvg-country="ES" tvg-language="cat" group-title="ES Sports",Esport3 (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-country="ES" tvg-language="spa" group-title="ES Sports",Real Madrid TV (726p)
@@ -99,6 +124,9 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia" tvg-logo="https://i.imgur.com/QPpbRcZ.png" tvg-country="FR" tvg-language="fra" group-title="FR Sports",Equidia (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-id="Eurosport.fr" tvg-name="Eurosport" tvg-logo="https://i.imgur.com/s4jDnJh.png" tvg-country="FR" tvg-language="eng" group-title="FR Sports",Eurosport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/122/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-country="FR" tvg-language="rus" group-title="FR Sports",Eurosport 1 Russia (1080p)
 https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Russia" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="rus" group-title="FR Sports",Eurosport 2 Russia (1080p)
@@ -141,12 +169,18 @@ http://88.212.7.14/live/sport1_hun/index.m3u8
 http://88.212.7.14/live/sport2_hun/index.m3u8
 #EXTINF:-1 tvg-id="F1Channel.ie" tvg-name="F1 Channel" tvg-logo="https://i.imgur.com/cjXzWsI.png" tvg-country="IE" tvg-language="eng" group-title="IE Sports",F1 Channel (1080p)
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-name="Setanta Sports 1 Eurasia" tvg-logo="https://i.imgur.com/zlJK7ca.png" tvg-country="IE" tvg-language="rus" group-title="IE Sports",Setanta Sports 1 Eurasia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" tvg-name="Setanta Sports 2 Eurasia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Setanta_Sports_2_2021.svg/revision/latest?cb=20230805211818" tvg-country="IE" tvg-language="rus" group-title="IE Sports",Setanta Sports 2 Eurasia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20Sports.png" tvg-country="IN" tvg-language="hin" group-title="IN Sports",DD Sports SD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.in@HD" tvg-name="Eurosport" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EUROSPORT_HD/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="eng" group-title="IN Sports",Eurosport HD (1080p)
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-name="Star Sports 2 Telugu" tvg-logo="https://dtil.tmsimg.com/assets/s158351_ld_h15_ab.png?lock=720x540" tvg-country="IN" tvg-language="tel" group-title="IN Sports",Star Sports 2 Telugu HD (576p)
-https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="Kabaddi24x7.in" tvg-name="Kabaddi 24x7" tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png" tvg-country="IN" tvg-language="hin" group-title="IN Sports",Kabaddi 24x7 (720p)
+https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaSport.iq" tvg-name="Al Iraqia Sport" tvg-logo="https://i.imgur.com/DrrlxTO.png" tvg-country="IQ" tvg-language="ara" group-title="IQ Sports",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-name="ACI Sport TV" tvg-logo="https://i.imgur.com/U8cHMOt.png" tvg-country="IT" tvg-language="ita" group-title="IT Sports",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="HorseTV.it" tvg-name="Horse TV" tvg-logo="https://i.imgur.com/nK4UUX4.png" tvg-country="IT" tvg-language="ita" group-title="IT Sports",Horse TV (720p)
@@ -180,8 +214,6 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk" tvg-name="Talent TV" tvg-logo="https://talenttv.lk/logo-footer.png" tvg-country="LK" tvg-language="eng" group-title="LK Sports",Talent TV (480p)
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
-#EXTINF:-1 tvg-id="LRTPlius.lt" tvg-name="LRT Plius" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png" tvg-country="LT" tvg-language="lit" group-title="LT Sports",LRT Plius (1080p)
-http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-logo="https://i.imgur.com/XjzK3gZ.png" tvg-country="MA" tvg-language="ara" group-title="MA Sports",Arryadia (720p)
 http://149.100.11.252:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="MRTVSports.mm" tvg-name="MRTV Sports" tvg-logo="https://i.imgur.com/cFTR4kC.png" tvg-country="MM" tvg-language="mya" group-title="MM Sports",MRTV Sports
@@ -196,6 +228,8 @@ http://181.78.106.127:5000/play/a009/index.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="SkySports1.mx" tvg-name="Sky Sports 1" tvg-logo="https://i.imgur.com/9onSfMi.png" tvg-country="MX" tvg-language="spa" group-title="MX Sports",Sky Sports 1 (1080p)
 http://45.228.234.9:8000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="SkySports2.mx" tvg-name="Sky Sports 2" tvg-logo="https://i.imgur.com/VM0a8Ny.png" tvg-country="MX" tvg-language="spa" group-title="MX Sports",Sky Sports 2 (1080p)
+http://200.115.120.1:8000/play/ca82266/index.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-name="Fast&FunBox" tvg-logo="https://i.imgur.com/a9ZtP17.png" tvg-country="NL" tvg-language="eng" group-title="NL Sports",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-name="FightBox" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-country="NL" tvg-language="eng" group-title="NL Sports",FightBox HD
@@ -206,6 +240,8 @@ https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/pla
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="BicolorPlusPremium.pe" tvg-name="Bicolor+ Premium" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png" tvg-country="PE" tvg-language="spa" group-title="PE Sports",Bicolor+ Premium
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="BicolorPlusPremium2.pe" tvg-name="Bicolor+ Premium 2" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png" tvg-country="PE" tvg-language="spa" group-title="PE Sports",Bicolor+ Premium 2 (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" tvg-logo="https://i.imgur.com/2fziU2B.png" tvg-country="PE" tvg-language="spa" group-title="PE Sports",L1 Max (1080p)
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-logo="https://i.imgur.com/SuVO9T7.png" tvg-country="PE" tvg-language="spa" group-title="PE Sports",Monterrico TV
@@ -222,21 +258,12 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" tvg-country="PK" tvg-language="urd" group-title="PK Sports",M Sports (1080p)
 https://cdn.rabta.stream/M-Sports/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="Canal+ Sport 2" tvg-logo="https://i.imgur.com/Aq2hnUj.png" tvg-country="PL" tvg-language="pol" group-title="PL Sports",Canal+ Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/94/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="Canal+ Sport 3" tvg-logo="https://i.imgur.com/QZwPFa8.png" tvg-country="PL" tvg-language="pol" group-title="PL Sports",Canal+ Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/93/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="Canal+ Sport 4" tvg-logo="https://i.imgur.com/BNAPYAx.png" tvg-country="PL" tvg-language="pol" group-title="PL Sports",Canal+ Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/95/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="Eleven Sports 1" tvg-logo="https://i.imgur.com/AOu4FXH.png" tvg-country="PL" tvg-language="eng" group-title="PL Sports",Eleven Sports 1
 http://92.114.85.87:8002/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="Eleven Sports 2" tvg-logo="https://i.imgur.com/bTIRgqG.png" tvg-country="PL" tvg-language="eng" group-title="PL Sports",Eleven Sports 2 (1080p)
 http://92.114.85.87:8002/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-name="Eleven Sports 3" tvg-logo="https://i.imgur.com/bWjGol4.png" tvg-country="PL" tvg-language="eng" group-title="PL Sports",Eleven Sports 3 (1080p)
-http://92.114.85.87:8002/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-name="Eleven Sports 4" tvg-logo="https://i.imgur.com/SEKXaAW.png" tvg-country="PL" tvg-language="eng" group-title="PL Sports",Eleven Sports 4 (1080p)
+http://92.114.85.87:8002/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="RACERInternational.pl" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" tvg-country="PL" tvg-language="eng" group-title="PL Sports",RACER International (1080p)
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" tvg-country="PT" tvg-language="eng" group-title="PT Sports",FUEL TV (1080p)
@@ -261,32 +288,28 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru" tvg-name="Boks TV" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Boks TV (576p)
 http://stream.mcquack.net/154/index.m3u8
+#EXTINF:-1 tvg-id="FONTV.ru" tvg-name="FON TV" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" tvg-country="RU" tvg-language="rus" group-title="RU Sports",FON TV (1080p)
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1 tvg-id="KHL.ru" tvg-name="KHL" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",KHL (576p)
 http://stream.mcquack.net/166/index.m3u8
-#EXTINF:-1 tvg-id="KHLPrime.ru@SD" tvg-name="KHL Prime" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-country="RU" group-title="RU Sports",KHL Prime (1080p)
-http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id="MatchArena.ru" tvg-name="Match! Arena" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Match! Arena (576p)
 http://stream.mcquack.net/163/index.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="Match! Igra" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Match! Igra (576p)
+http://stream.mcquack.net/188/index.m3u8
 #EXTINF:-1 tvg-id="MatchPremier.ru" tvg-name="Match! Premier" tvg-logo="https://i.imgur.com/GQPyHYK.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Match! Premier (576p)
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
-#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="Match! Strana" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Match! Strana (576p)
-http://stream.mcquack.net/143/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" tvg-name="Match! Ultra" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Match! Ultra (720p)
 http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",MMA TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="OkkoFutbol.ru" tvg-name="Okko Futbol" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Okko Futbol (576p)
 http://178.124.179.122:8080/Setanta1/index.m3u8
-#EXTINF:-1 tvg-id="RussianExtremeUltra.ru" tvg-name="Russian Extreme Ultra" tvg-logo="https://i.imgur.com/Dk8VbAc.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Russian Extreme Ultra (1440p)
-http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-name="Sportivnyy" tvg-logo="https://i.imgur.com/ujS6mMo.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="UDAR.ru@SD" tvg-name="UDAR" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" tvg-country="RU" group-title="RU Sports",UDAR (1080p)
 http://stream.mcquack.net/279/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",viju+ Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Volleyball.ru" tvg-name="Volleyball" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Volleyball (1080p)
-https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Astrahan.Ru Sport" tvg-logo="https://i.imgur.com/BKaEtqL.png" tvg-country="RU" tvg-language="rus" group-title="RU Sports",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-id="ATGLive.se" tvg-name="ATG Live" tvg-logo="https://i.imgur.com/bPWFXkL.png" tvg-country="SE" tvg-language="swe" group-title="SE Sports",ATG Live (720p)
@@ -341,8 +364,6 @@ http://stream.mcquack.net/396/index.m3u8
 http://stream.mcquack.net/485/index.m3u8
 #EXTINF:-1 tvg-id="MaincastCybersport.ua" tvg-name="Maincast Cybersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" tvg-country="UA" tvg-language="ukr" group-title="UA Sports",Maincast Cybersport (1080p)
 http://stream.mcquack.net/487/index.m3u8
-#EXTINF:-1 tvg-id="MaincastSport.ua" tvg-name="Maincast Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" tvg-country="UA" tvg-language="ukr" group-title="UA Sports",Maincast Sport (1080p)
-http://stream.mcquack.net/490/index.m3u8
 #EXTINF:-1 tvg-id="Sport1.ua" tvg-name="Sport 1" tvg-logo="https://i.imgur.com/Zjb8awW.png" tvg-country="UA" tvg-language="ukr" group-title="UA Sports",Sport 1 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/391/index.m3u8
@@ -352,15 +373,15 @@ http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.ua" tvg-name="Sport 2" tvg-logo="https://i.imgur.com/vk0j1mY.png" tvg-country="UA" tvg-language="ukr" group-title="UA Sports",Sport 2 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/392/index.m3u8
-#EXTINF:-1 tvg-id="Sport3.ua" tvg-name="Sport 3" tvg-logo="https://i.imgur.com/qkvavfH.png" tvg-country="UA" tvg-language="ukr" group-title="UA Sports",Sport 3 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/393/index.m3u8
 #EXTINF:-1 tvg-id="Sport4.ua" tvg-name="Sport 4" tvg-logo="https://i.imgur.com/xW6oGIx.png" tvg-country="UA" tvg-language="ukr" group-title="UA Sports",Sport 4 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/394/index.m3u8
 #EXTINF:-1 tvg-id="Sport5.ua" tvg-name="Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" tvg-country="UA" tvg-language="eng" group-title="UA Sports",Sport 5 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1 tvg-id="SuspilneSport.ua" tvg-name="Suspilne. Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-country="UA" tvg-language="ukr" group-title="UA Sports",Suspilne. Sport (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/444/index.m3u8
 #EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" tvg-country="UK" tvg-language="por" group-title="UK Sports",DAZN 3 Portugal (720p)
 http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:-1 tvg-id="EurovisionSport.uk" tvg-name="Eurovision Sport" tvg-logo="https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png" tvg-country="UK" tvg-language="eng" group-title="UK Sports",Eurovision Sport (1080p)
@@ -390,11 +411,11 @@ https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-name="ACC Digital Network" tvg-logo="https://i.imgur.com/V6Kaqha.png" tvg-country="US" tvg-language="eng" group-title="US Sports",ACCDN (1080p)
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us" tvg-name="American Ninja Warrior" tvg-logo="https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png" tvg-country="US" tvg-language="eng" group-title="US Sports",American Ninja Warrior (1080p)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.afid=405342864&ads.asnw=169843&ads.channelId=99993042&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99993042&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/960px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" tvg-country="US" tvg-language="eng" group-title="US Sports",beIN Sports USA (576p)
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" tvg-country="US" tvg-language="eng" group-title="US Sports",beIN SPORTS XTRA (1080p)
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" tvg-country="US" tvg-language="spa" group-title="US Sports",BeIN Sports XTRA en Espanol (1080p)
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BEKSports.us@West" tvg-name="BEK Sports" tvg-logo="https://i.imgur.com/1l3t5jd.png" tvg-country="US" tvg-language="eng" group-title="US Sports",BEK TV Sports West (720p)
@@ -407,6 +428,8 @@ https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 #EXTINF:-1 tvg-id="DraftKingsNetwork.us" tvg-name="DraftKings Network" tvg-logo="https://i.imgur.com/SFYhgrt.png" tvg-country="US" tvg-language="eng" group-title="US Sports",DraftKings Network (1080p)
 https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
+#EXTINF:-1 tvg-id="DSports.us" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" tvg-country="US" tvg-language="spa" group-title="US Sports",DSports
+http://45.186.254.75:8000/play/a0en/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/00tsvjE.png" tvg-country="US" tvg-language="eng" group-title="US Sports",ESPN 2 HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us" tvg-name="ESPN 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" tvg-country="US" tvg-language="spa" group-title="US Sports",ESPN 2 Latin America (1080p)
@@ -463,7 +486,7 @@ https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" tvg-country="US" tvg-language="eng" group-title="US Sports",NBA TV (1080p)
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us" tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" tvg-country="US" tvg-language="eng" group-title="US Sports",NBC Sports NOW (1080p)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-name="NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png" tvg-country="US" tvg-language="eng" group-title="US Sports",NFL Channel (1080p)
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" tvg-country="US" tvg-language="eng" group-title="US Sports",NFL Network (576p)
@@ -491,13 +514,13 @@ https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SlopesTV.us" tvg-name="Slopes TV" tvg-logo="https://i.imgur.com/8bzAfgK.png" tvg-country="US" tvg-language="eng" group-title="US Sports",Slopes TV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid" tvg-logo="https://i.imgur.com/ulGKX30.png" tvg-country="US" tvg-language="eng" group-title="US Sports",SportsGrid (1080p)
-https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-logo="https://i.imgur.com/SnZOiER.png" tvg-country="US" tvg-language="eng" group-title="US Sports",Stadium (720p)
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
-#EXTINF:-1 tvg-id="Strongman.us" tvg-name="Strongman" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-country="US" tvg-language="deu" group-title="US Sports",Strongman Champions League (720p)
-https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Strongman.us@UK" tvg-name="Strongman" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-country="US" tvg-language="eng" group-title="US Sports",Strongman (720p)
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SwerveCombat.us" tvg-name="Swerve Combat" tvg-logo="https://i.imgur.com/eFZh7aG.png" tvg-country="US" tvg-language="eng" group-title="US Sports",Swerve Combat (1080p)
-https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
+https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SwerveSports.us" tvg-name="Swerve Sports" tvg-logo="https://i.imgur.com/GT0Yi2T.png" tvg-country="US" tvg-language="eng" group-title="US Sports",Swerve Sports (720p)
 https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/tsljAnY.png" tvg-country="US" tvg-language="eng" group-title="US Sports",Tennis Channel (1080p)
