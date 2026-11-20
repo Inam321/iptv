@@ -1,10 +1,12 @@
 #EXTM3U
 # Pakistan Religious
-# 6 verified working channels
-# updated 2026-11-19T09:38:53Z
+# 7 verified working channels
+# updated 2026-11-20T09:23:58Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="GraceNetwork.pk" tvg-name="Grace Network" tvg-logo="https://i.imgur.com/QSaZPJ4.png" tvg-country="PK" tvg-language="urd" group-title="PK Religious",Grace Network (720p)
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IsaacTV.pk" tvg-name="Isaac TV" tvg-logo="https://i.imgur.com/RHDbsiO.png" tvg-country="PK" tvg-language="eng" group-title="PK Religious",Isaac TV (720p)
+https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JoshuaTV.pk" tvg-name="Joshua TV" tvg-logo="https://i.imgur.com/x9xPR2h.png" tvg-country="PK" tvg-language="eng" group-title="PK Religious",Joshua TV (720p)
 https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KingTV.pk" tvg-name="King TV" tvg-logo="https://i.imgur.com/dujrwRE.png" tvg-country="PK" tvg-language="eng" group-title="PK Religious",King TV (720p)
