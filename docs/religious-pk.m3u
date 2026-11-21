@@ -1,7 +1,7 @@
 #EXTM3U
 # Pakistan Religious
 # 7 verified working channels
-# updated 2026-11-20T09:23:58Z
+# updated 2026-11-21T08:57:46Z
 # generated from https://github.com/iptv-org/iptv
 #EXTINF:-1 tvg-id="GraceNetwork.pk" tvg-name="Grace Network" tvg-logo="https://i.imgur.com/QSaZPJ4.png" tvg-country="PK" tvg-language="urd" group-title="PK Religious",Grace Network (720p)
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
