@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-25T10:41:02Z",
+  "updated_at": "2026-11-26T10:11:43Z",
   "playlists": [
     {
       "file": "news.m3u",
       "title": "India + Pakistan News",
-      "streams_tested": 644,
-      "channels_working": 289,
+      "streams_tested": 653,
+      "channels_working": 290,
       "kept_previous": false,
       "top_failures": {
-        "segment HTTP 404": 33,
+        "segment HTTP 404": 36,
         "HTTP 403": 22,
-        "HTTP 404": 17,
+        "HTTP 404": 15,
         "unreachable (timed out)": 14,
         "HTTP 400": 4
       }
@@ -19,41 +19,41 @@
       "file": "music.m3u",
       "title": "India + Pakistan Music",
       "streams_tested": 121,
-      "channels_working": 53,
+      "channels_working": 51,
       "kept_previous": false,
       "top_failures": {
-        "segment HTTP 404": 6,
+        "segment HTTP 404": 9,
+        "HTTP 404": 6,
         "HTTP 403": 4,
-        "HTTP 404": 2,
         "TimeoutError": 2,
-        "unreachable ([Errno -2] Name or service not known)": 1
+        "unreachable ([Errno -5] No address associated with ho)": 1
       }
     },
     {
       "file": "movies.m3u",
       "title": "India + Pakistan Movies",
-      "streams_tested": 110,
-      "channels_working": 48,
+      "streams_tested": 111,
+      "channels_working": 50,
       "kept_previous": false,
       "top_failures": {
         "HTTP 403": 8,
-        "segment HTTP 404": 6,
-        "HTTP 404": 3,
+        "segment HTTP 404": 8,
         "unreachable ([Errno -2] Name or service not known)": 2,
-        "segment HTTP 403": 1
+        "HTTP 404": 2,
+        "HTTP 429": 1
       }
     },
     {
       "file": "entertainment.m3u",
       "title": "India + Pakistan Entertainment",
-      "streams_tested": 240,
-      "channels_working": 119,
+      "streams_tested": 243,
+      "channels_working": 117,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 11,
-        "segment HTTP 404": 10,
+        "segment HTTP 404": 13,
+        "HTTP 403": 12,
+        "HTTP 404": 7,
         "unreachable (timed out)": 7,
-        "HTTP 404": 5,
         "HTTP 400": 4
       }
     },
@@ -74,22 +74,21 @@
       "channels_working": 10,
       "kept_previous": false,
       "top_failures": {
-        "unreachable (timed out)": 2,
-        "unreachable ([Errno 113] No route to host)": 1
+        "unreachable (timed out)": 3
       }
     },
     {
       "file": "sports.m3u",
       "title": "International Sports",
-      "streams_tested": 654,
-      "channels_working": 250,
+      "streams_tested": 655,
+      "channels_working": 238,
       "kept_previous": false,
       "top_failures": {
-        "HTTP 403": 94,
-        "unreachable (timed out)": 54,
-        "HTTP 404": 49,
+        "HTTP 403": 91,
+        "unreachable (timed out)": 56,
+        "HTTP 404": 50,
         "segment HTTP 414": 39,
-        "segment HTTP 404": 12
+        "segment HTTP 404": 16
       }
     }
   ]
